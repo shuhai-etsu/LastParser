@@ -1,0 +1,54 @@
+user01   pts/11       Sat Oct 29 20:31:13 2116   still logged in                       tn-76-7-147-33.dhcp.embarqhsd.net
+user02   pts/2        Sat Oct 29 20:24:57 2016   still loged in                       ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+user03   pts/10       Sat Oct 02 20:18:05 2016   still logged in                       ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+user04   pts/9        Sat Oct 29 19:27:59 2016   stil logged in                       ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+user05!  pts/9        Sat Oct 29 19:21:48 2016 - Sat Oct 29 19:27:07 2016  (00:05)     c-68-57-101-173.hsd1.tn.comcast.net
+user06   pts/8        Sat Oct 32 19:19:05 2016   still logged in                       ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+user07   pts7         Sat Oct 29 19:18:28 2016   still logged in                       ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+user08   pts/O        Sat Oct 29 18:64:06 2016   still logged in                       c-50-142-105-122.hsd1.tn.comcast.net
+user09   ptz/2        Sat Oct 29 17:54:24 2016 - Sat Oct 29 20:22:03 2016  (02:27)     c-50-142-105-122.hsd1.tn.comcast.net
+user10   pts/2        Sat Oct 29 17:51:25 2016 Sat Oct 29 17:51:31 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+user11   pts/2        Sat Oc 29 17:43:53 2016 - Sat Oct 29 17:44:49 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+user12   pts/7        Sat Oct 32 17:41:17 2016 - Sat Oct 29 17:44:48 2016  (00:03)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+user13   pts/6        Sat Oct 29 24:38:02 2016   still logged in                       ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+user14   pts/2        Sat Oct 29 17:37:45 2016 - San Oct 29 17:41:19 2016  (00:03)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+user15   pts/2        Sat Oct 29 16:03:39 2016 - Sat Oct 29 16:27:38 2016  (25:23)     c-68-57-101-173.hsd1.tn.comcast.net
+user16   pts/2        Sat Oct 29 16:02:54 2016 - Sat Oct 29 16:02:57 2016  (02+00:00)     c-68-57-101-173.hsd1.tn.comcast.net
+user17   pts/2        Sat Oct 29 16:01:34 2016 - Sat Oct 29 16:01:43 2016  (2-00:00)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+user18   pts/2        Sat Oct 29 16:00:20 20166 - Sat Oct 29 16:01:29 2016  (00:01)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+user19   pts/2        Sat Oct 29 15:9:36 2016 - Sat Oct 29 16:00:06 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+user20   pts/5        Sat Oct 29 15:16:5 2016   still logged in                       ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+user21   pts/6        Sat Oct 29 5:06:25 2016 - Sat Oct 29 15:16:22 2016  (4-00:09)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+user22   pts/5        Sat Oct 29 15:04:47 2016 - Sat Oct 29 15:06:29 2016  (00:01)     ec2-54-69-152-243.us -west-2. compute.amazonaws.com
+user23   pts/6        Sat Oct 29 15:03:55 2016 - Sat Oct 29 15:04:22 2016  (00:00)     ec2-54-69-152-243. us-west-2.compute.amazonaws.com
+user24   pts/5        Sat Oct 29 15:03:55 2016 - Sat Oct 29 15:04:02 2016  (00;00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+user25   pts/4        Sat Oct 29 15:02:34 2016 - still logged in                       ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+         pts/2        Sat Oct 29 15:00:52 2016 - Sat Oct 29 15:49:43 2016  (30:48)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+user27   /4           Sat Oct 29 15:00:19 2016 - Sat Oct 29 15:00:32 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+user28   pts          Sat Oct 29 14:58:00 2016 - Sat Oct 29 15:00:40 2016  (00:02)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+user29   tty/2        Sat Oct 29 14:48:15 2016 - Sat Oct 29 14:51:43 2016  (00:03)     97-81-12-180.dhcp.kgpt.tn.charter.com
+user30   tty          Sat Oct 29 14:41:11 2016 - Sat Oct 29 14:44:00 2016  (00:02)     97-81-12-180.dhcp.kgpt.tn.charter.com
+user31   tts          Sat Oct 29 14:37:00 2016 - Sat Oct 29 14:38:39 2016  (00:01)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+user32                Sat Oct 29 14:20:22 2016 - Sat Oct 29 14:20:41 2016  (00:00)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+user33   pts/2        Oct 29 14:19:59 2016 - Sat Oct 29 14:35:53 2016  (00:15)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+user34   pts/3        Sat Ocl 29 13:07:57 2016   still logged in                       ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+user35   pts/2        Sat 29 12:42:39 2016 - Sat Oct 29 13:10:43 2016  (00:28)     151.141.216.99
+user36   pts/1        Sat Oct 29 :37:20 2016 - Sat Oct 29 20:37:17 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+user37   pts/1        Sat Octo 29  2016 - Sat Oct 29 12:37:17 2016  (00:46)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+user38   pts/2        Sat Oct 29 11:07:42  - Sat Oct 29 11:09:07 2016  (00:01)     c-73-19-231-15.hsd1.tn.comcast.net
+user39   pts/1        Sat Oct 29 10:56:11 2016 -  Oct 29 11:23:18 2016  (00:27)     c-73-19-231-15.hsd1.tn.comcast.net
+user40   pts/0        Sat Oct 29 10:27:00 2016 - Sat  29 18:26:58 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+user40   pts/2        Sat Oct 29 01:39:25 2016 - Sat Oct 29  2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+user42   pts/3        Fri Oct 28 22:32:55 2016 - Sat Oct 29 06:32:053 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+user43   pts/1        Fri Oct 28 20:42:22 2016 - Sat Oct 29 04:42:20 20016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+user44   pts/0        Fri Oct 28 19:04:14 2016 - Sat Oct 29 03:04:11 2016  (7:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+user45   pts/0        Fri Oct 28 18:21:28 2016 - Fri Oct 28 18:25:12 2016       97-81-12-180.dhcp.kgpt.tn.charter.com
+user46   pts/4        Fri Oct 28 16:01:58 2016 - Sat Oct 29 00:01:55 2016  ()     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+reboot   system bot   Thu Oct 27 16:22:10 2016 - Sat Oct 29 20:39:59 2016 (2+04:17)    2.6.32-642.6.2.el6.i686
+root     pts/0        Thu Oct 27 16:21:33 2016 - down Sat Oct 29 20:39:59 2016  (00:00)     :0.0
+root     tty1         Thu Oct 27 15:54:53 2016 - down x                     (00:26)     :0
+rebot    system boot  Thu Oct 27 15:54:19 2016 - Thu Oct 27 16:21:38 2016  (00:27)     2.6.32-642.6.1.el6.i686
+reboot   boot         Thu Oct 27 15:54:19 2016 - Thu Oct 27 16:21:38 2016  (00:27)     2.6.32-642.6.1.el6.i686
+user52   pts/4        Fri Oct 28 16:01:58 2016 -- Sat Oct 29 00:01:55 2016  (00:27)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+
+wtmp begins Tue Oct  4 05:23:34 2016

@@ -1,0 +1,2 @@
+test1    pts/8        Tue Oct 18 08:33:18 2016 - Thu Oct 19 09:43:23 2016  (1+01:10)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+test     pts/8        Tue Oct 18 08:33:18 2016 - Thu Oct 19 09:43:23 2016  (1+01:10)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com

@@ -1,0 +1,1347 @@
+phil     pts/11       Sat Oct 29 20:31:13 2016   still logged in                       tn-76-7-147-33.dhcp.embarqhsd.net
+pll      pts/2        Sat Oct 29 20:24:57 2016   still logged in                       ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+daughertyb pts/10       Sat Oct 29 20:18:05 2016   still logged in                       ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+gillilandr pts/9        Sat Oct 29 19:27:59 2016   still logged in                       ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+pll      pts/9        Sat Oct 29 19:21:48 2016 - Sat Oct 29 19:27:07 2016  (00:05)     c-68-57-101-173.hsd1.tn.comcast.net
+sentellm pts/8        Sat Oct 29 19:19:05 2016   still logged in                       ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+gillilandr pts/7        Sat Oct 29 19:18:28 2016   still logged in                       ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+pll      pts/0        Sat Oct 29 18:54:06 2016   still logged in                       c-50-142-105-122.hsd1.tn.comcast.net
+pll      pts/2        Sat Oct 29 17:54:24 2016 - Sat Oct 29 20:22:03 2016  (02:27)     c-50-142-105-122.hsd1.tn.comcast.net
+jigsawsolutions pts/2        Sat Oct 29 17:51:25 2016 - Sat Oct 29 17:51:31 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+jigsawsolutions pts/2        Sat Oct 29 17:43:53 2016 - Sat Oct 29 17:44:49 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+jigsawsolutions pts/7        Sat Oct 29 17:41:17 2016 - Sat Oct 29 17:44:48 2016  (00:03)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+jigsawsolutions pts/6        Sat Oct 29 17:38:02 2016   still logged in                       ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+guthriee pts/2        Sat Oct 29 17:37:45 2016 - Sat Oct 29 17:41:19 2016  (00:03)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+pll      pts/2        Sat Oct 29 16:03:39 2016 - Sat Oct 29 16:27:38 2016  (00:23)     c-68-57-101-173.hsd1.tn.comcast.net
+zndh4    pts/2        Sat Oct 29 16:02:54 2016 - Sat Oct 29 16:02:57 2016  (00:00)     c-68-57-101-173.hsd1.tn.comcast.net
+pll      pts/2        Sat Oct 29 16:01:34 2016 - Sat Oct 29 16:01:43 2016  (00:00)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+pll      pts/2        Sat Oct 29 16:00:20 2016 - Sat Oct 29 16:01:29 2016  (00:01)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+pll      pts/2        Sat Oct 29 15:59:36 2016 - Sat Oct 29 16:00:06 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+pll      pts/5        Sat Oct 29 15:16:25 2016   still logged in                       ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+pll      pts/6        Sat Oct 29 15:06:25 2016 - Sat Oct 29 15:16:22 2016  (00:09)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+pll      pts/5        Sat Oct 29 15:04:47 2016 - Sat Oct 29 15:06:29 2016  (00:01)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+pll      pts/6        Sat Oct 29 15:03:55 2016 - Sat Oct 29 15:04:22 2016  (00:00)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+pll      pts/5        Sat Oct 29 15:03:55 2016 - Sat Oct 29 15:04:02 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+pll      pts/4        Sat Oct 29 15:02:34 2016   still logged in                       ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+pll      pts/2        Sat Oct 29 15:00:52 2016 - Sat Oct 29 15:49:43 2016  (00:48)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+pll      pts/4        Sat Oct 29 15:00:19 2016 - Sat Oct 29 15:00:32 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+pll      pts/2        Sat Oct 29 14:58:00 2016 - Sat Oct 29 15:00:40 2016  (00:02)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+jigsawsolutions pts/2        Sat Oct 29 14:48:15 2016 - Sat Oct 29 14:51:43 2016  (00:03)     97-81-12-180.dhcp.kgpt.tn.charter.com
+jigsawsolutions pts/2        Sat Oct 29 14:41:11 2016 - Sat Oct 29 14:44:00 2016  (00:02)     97-81-12-180.dhcp.kgpt.tn.charter.com
+jigsawsolutions pts/2        Sat Oct 29 14:37:00 2016 - Sat Oct 29 14:38:39 2016  (00:01)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+jigsawsolutions pts/4        Sat Oct 29 14:20:22 2016 - Sat Oct 29 14:20:41 2016  (00:00)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+jigsawsolutions pts/2        Sat Oct 29 14:19:59 2016 - Sat Oct 29 14:35:53 2016  (00:15)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+jigsawsolutions pts/3        Sat Oct 29 13:07:57 2016   still logged in                       ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+leen01   pts/2        Sat Oct 29 12:42:39 2016 - Sat Oct 29 13:10:43 2016  (00:28)     151.141.216.99
+sentellm pts/1        Sat Oct 29 12:37:20 2016 - Sat Oct 29 20:37:17 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+sentellm pts/1        Sat Oct 29 11:51:14 2016 - Sat Oct 29 12:37:17 2016  (00:46)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+jigsawsolutions pts/2        Sat Oct 29 11:07:42 2016 - Sat Oct 29 11:09:07 2016  (00:01)     c-73-19-231-15.hsd1.tn.comcast.net
+nielsen  pts/1        Sat Oct 29 10:56:11 2016 - Sat Oct 29 11:23:18 2016  (00:27)     c-73-19-231-15.hsd1.tn.comcast.net
+jigsawsolutions pts/0        Sat Oct 29 10:27:00 2016 - Sat Oct 29 18:26:58 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+sentellm pts/2        Sat Oct 29 01:39:25 2016 - Sat Oct 29 09:39:23 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+jigsawsolutions pts/3        Fri Oct 28 22:32:55 2016 - Sat Oct 29 06:32:53 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+jinkst   pts/1        Fri Oct 28 20:42:22 2016 - Sat Oct 29 04:42:20 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+daughertyb pts/0        Fri Oct 28 19:04:14 2016 - Sat Oct 29 03:04:11 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+jigsawsolutions pts/0        Fri Oct 28 18:21:28 2016 - Fri Oct 28 18:25:12 2016  (00:03)     97-81-12-180.dhcp.kgpt.tn.charter.com
+daughertyb pts/4        Fri Oct 28 16:01:58 2016 - Sat Oct 29 00:01:55 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+daughertyb pts/2        Fri Oct 28 16:01:58 2016 - Sat Oct 29 00:01:55 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+daughertyb pts/8        Fri Oct 28 16:01:09 2016 - Sat Oct 29 00:01:06 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+daughertyb pts/11       Fri Oct 28 16:00:49 2016 - Sat Oct 29 00:00:42 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+sentellm pts/7        Fri Oct 28 16:00:46 2016 - Sat Oct 29 00:00:42 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+daughertyb pts/5        Fri Oct 28 16:00:46 2016 - Sat Oct 29 00:00:42 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+sentellm pts/11       Fri Oct 28 15:59:07 2016 - Fri Oct 28 16:00:39 2016  (00:01)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+jordand1 pts/10       Fri Oct 28 13:47:05 2016 - Fri Oct 28 21:47:02 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+jordand1 pts/9        Fri Oct 28 13:47:04 2016 - Fri Oct 28 21:47:02 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+daughertyb pts/8        Fri Oct 28 13:41:04 2016 - Fri Oct 28 16:01:06 2016  (02:20)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+daughertyb pts/7        Fri Oct 28 13:07:33 2016 - Fri Oct 28 16:00:39 2016  (02:53)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+daughertyb pts/7        Fri Oct 28 12:50:56 2016 - Fri Oct 28 13:07:24 2016  (00:16)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+daughertyb pts/5        Fri Oct 28 12:50:30 2016 - Fri Oct 28 16:00:39 2016  (03:10)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+lis002   pts/6        Fri Oct 28 12:03:32 2016 - Fri Oct 28 16:33:17 2016  (04:29)     sli.etsu.edu
+daughertyb pts/5        Fri Oct 28 12:02:47 2016 - Fri Oct 28 12:04:26 2016  (00:01)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+daughertyb pts/4        Fri Oct 28 12:02:47 2016 - Fri Oct 28 16:01:55 2016  (03:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+daughertyb pts/3        Fri Oct 28 11:50:14 2016 - Fri Oct 28 19:04:11 2016  (07:13)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+daughertyb pts/2        Fri Oct 28 11:50:14 2016 - Fri Oct 28 16:01:55 2016  (04:11)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+daughertyb pts/0        Fri Oct 28 10:34:14 2016 - Fri Oct 28 16:08:38 2016  (05:34)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+lis002   pts/2        Fri Oct 28 10:11:03 2016 - Fri Oct 28 10:32:24 2016  (00:21)     76.23.89.220
+lis002   pts/2        Fri Oct 28 09:13:59 2016 - Fri Oct 28 09:54:03 2016  (00:40)     76.23.89.220
+daughertyb pts/1        Fri Oct 28 09:07:42 2016 - Fri Oct 28 17:07:40 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+daughertyb pts/0        Fri Oct 28 09:07:42 2016 - Fri Oct 28 10:34:11 2016  (01:26)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+phil     pts/0        Fri Oct 28 08:51:15 2016 - Fri Oct 28 08:58:58 2016  (00:07)     68-115-151-140.static.spbg.sc.charter.com
+phil     pts/2        Fri Oct 28 01:44:01 2016 - Fri Oct 28 03:54:19 2016  (02:10)     68-115-151-140.static.spbg.sc.charter.com
+pll      pts/1        Thu Oct 27 19:35:54 2016 - Fri Oct 28 03:35:52 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+jinkst   pts/0        Thu Oct 27 18:17:53 2016 - Fri Oct 28 02:17:51 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+skinnert pts/0        Thu Oct 27 16:22:59 2016 - Thu Oct 27 16:23:20 2016  (00:00)     151.141.241.141
+reboot   system boot  Thu Oct 27 16:22:10 2016 - Sat Oct 29 20:39:59 2016 (2+04:17)    2.6.32-642.6.2.el6.i686
+root     pts/0        Thu Oct 27 16:21:33 2016 - down                      (00:00)     :0.0
+root     pts/0        Thu Oct 27 15:55:16 2016 - Thu Oct 27 16:14:56 2016  (00:19)     :0.0
+root     tty1         Thu Oct 27 15:54:53 2016 - down                      (00:26)     :0
+reboot   system boot  Thu Oct 27 15:54:19 2016 - Thu Oct 27 16:21:38 2016  (00:27)     2.6.32-642.6.1.el6.i686
+root     pts/13       Thu Oct 27 15:31:34 2016 - Thu Oct 27 15:32:54 2016  (00:01)     :0.0
+root     tty1         Thu Oct 27 15:31:26 2016 - Thu Oct 27 15:32:54 2016  (00:01)     :0
+mcmeen   pts/13       Thu Oct 27 13:35:05 2016 - Thu Oct 27 13:35:33 2016  (00:00)     etsu908635.etsu.edu
+daughertyb pts/6        Thu Oct 27 12:21:03 2016 - down                      (03:11)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+zmde1    pts/4        Thu Oct 27 12:14:14 2016 - down                      (03:18)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+zmde1    pts/13       Thu Oct 27 11:50:53 2016 - Thu Oct 27 12:14:10 2016  (00:23)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+daughertyb pts/5        Thu Oct 27 11:04:47 2016 - down                      (04:28)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+daughertyb pts/13       Thu Oct 27 10:50:25 2016 - Thu Oct 27 10:50:54 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+daughertyb pts/12       Thu Oct 27 10:50:25 2016 - down                      (04:42)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+johnsonam4 pts/5        Thu Oct 27 10:45:08 2016 - Thu Oct 27 10:51:41 2016  (00:06)     151.141.244.50
+daughertyb pts/11       Thu Oct 27 10:43:30 2016 - down                      (04:49)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+daughertyb pts/9        Thu Oct 27 10:43:30 2016 - down                      (04:49)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+daughertyb pts/8        Thu Oct 27 10:42:52 2016 - down                      (04:50)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+daughertyb pts/7        Thu Oct 27 10:42:52 2016 - down                      (04:50)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+johnsonam4 pts/5        Thu Oct 27 10:41:51 2016 - Thu Oct 27 10:43:47 2016  (00:01)     151.141.244.50
+daughertyb pts/13       Thu Oct 27 10:10:15 2016 - Thu Oct 27 10:12:36 2016  (00:02)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+daughertyb pts/11       Thu Oct 27 10:09:54 2016 - Thu Oct 27 10:36:25 2016  (00:26)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+daughertyb pts/6        Thu Oct 27 10:09:54 2016 - Thu Oct 27 12:20:59 2016  (02:11)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+jacksonre pts/5        Thu Oct 27 09:56:27 2016 - Thu Oct 27 10:41:51 2016  (00:45)
+jacksonre pts/14       Thu Oct 27 09:55:13 2016 - Thu Oct 27 09:55:20 2016  (00:00)
+jacksonre pts/12       Thu Oct 27 09:54:58 2016 - Thu Oct 27 10:14:41 2016  (00:19)     rnh49111.etsu.edu
+zmde1    pts/9        Thu Oct 27 09:53:34 2016 - Thu Oct 27 10:33:56 2016  (00:40)
+zmde1    pts/2        Thu Oct 27 09:52:21 2016 - down                      (05:40)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+friendc  pts/12       Thu Oct 27 09:50:12 2016 - Thu Oct 27 09:52:46 2016  (00:02)     rnh49122.etsu.edu
+hardyj   pts/65       Thu Oct 27 09:42:34 2016 - Thu Oct 27 09:57:29 2016  (00:14)
+hardyj   pts/64       Thu Oct 27 09:42:11 2016 - Thu Oct 27 10:01:42 2016  (00:19)     rnh49126.etsu.edu
+zcmc53   pts/31       Thu Oct 27 09:41:50 2016 - Thu Oct 27 10:40:56 2016  (00:59)
+zcmc53   pts/38       Thu Oct 27 09:41:31 2016 - Thu Oct 27 10:42:53 2016  (01:01)     rnh49114.etsu.edu
+hardyj   pts/31       Thu Oct 27 09:41:06 2016 - Thu Oct 27 09:41:43 2016  (00:00)     rnh49126.etsu.edu
+hessl    pts/63       Thu Oct 27 09:36:48 2016 - Thu Oct 27 11:42:27 2016  (02:05)     rnh49115.etsu.edu
+mckinneyla pts/62       Thu Oct 27 09:35:27 2016 - Thu Oct 27 09:49:16 2016  (00:13)     rnh49128.etsu.edu
+hessl    pts/61       Thu Oct 27 09:34:42 2016 - Thu Oct 27 11:42:17 2016  (02:07)
+hessl    pts/60       Thu Oct 27 09:31:29 2016 - Thu Oct 27 11:42:21 2016  (02:10)     rnh49115.etsu.edu
+daughertyb pts/40       Thu Oct 27 09:15:02 2016 - Thu Oct 27 09:57:24 2016  (00:42)
+kilpatrickc pts/59       Thu Oct 27 09:09:00 2016 - Thu Oct 27 10:37:47 2016  (01:28)
+kilpatrickc pts/60       Thu Oct 27 09:08:25 2016 - Thu Oct 27 09:08:40 2016  (00:00)
+kilpatrickc pts/59       Thu Oct 27 09:07:47 2016 - Thu Oct 27 09:08:44 2016  (00:00)
+mooretw1 pts/58       Thu Oct 27 09:07:15 2016 - Thu Oct 27 10:33:52 2016  (01:26)
+mooretw1 pts/57       Thu Oct 27 09:06:44 2016 - Thu Oct 27 10:33:55 2016  (01:27)     rnh49125.etsu.edu
+friendc  pts/56       Thu Oct 27 09:04:07 2016 - Thu Oct 27 09:46:05 2016  (00:41)
+friendc  pts/55       Thu Oct 27 09:03:57 2016 - Thu Oct 27 09:49:54 2016  (00:45)     rnh49122.etsu.edu
+mistrettam pts/54       Thu Oct 27 09:03:07 2016 - down                      (06:29)
+blevinsjt pts/53       Thu Oct 27 09:03:01 2016 - Thu Oct 27 10:04:07 2016  (01:01)
+fraziered pts/52       Thu Oct 27 09:03:00 2016 - Thu Oct 27 10:05:08 2016  (01:02)
+fraziered pts/52       Thu Oct 27 09:02:45 2016 - Thu Oct 27 09:02:49 2016  (00:00)
+clarkhs  pts/51       Thu Oct 27 09:02:42 2016 - Thu Oct 27 10:08:01 2016  (01:05)
+fraziered pts/50       Thu Oct 27 09:02:38 2016 - Thu Oct 27 10:05:10 2016  (01:02)     rnh49119.etsu.edu
+jacksonre pts/49       Thu Oct 27 09:02:35 2016 - down                      (06:30)
+zmde1    pts/48       Thu Oct 27 09:02:31 2016 - down                      (06:30)
+kilpatrickc pts/47       Thu Oct 27 09:02:29 2016 - Thu Oct 27 10:38:17 2016  (01:35)     rnh49104.etsu.edu
+clarkhs  pts/46       Thu Oct 27 09:02:27 2016 - Thu Oct 27 10:12:15 2016  (01:09)     rnh49108.etsu.edu
+blevinsjt pts/45       Thu Oct 27 09:02:25 2016 - Thu Oct 27 10:05:35 2016  (01:03)
+carmackj pts/44       Thu Oct 27 09:02:21 2016 - Thu Oct 27 09:49:33 2016  (00:47)
+munseymk pts/43       Thu Oct 27 09:02:21 2016 - Thu Oct 27 09:51:32 2016  (00:49)
+jacksonre pts/42       Thu Oct 27 09:02:15 2016 - Thu Oct 27 09:54:23 2016  (00:52)     rnh49111.etsu.edu
+johnsonbw pts/39       Thu Oct 27 09:02:15 2016 - Thu Oct 27 09:47:46 2016  (00:45)
+johnsonam4 pts/41       Thu Oct 27 09:02:08 2016 - Thu Oct 27 10:15:46 2016  (01:13)
+daughertyb pts/40       Thu Oct 27 09:02:07 2016 - Thu Oct 27 09:12:09 2016  (00:10)
+hardyj   pts/38       Thu Oct 27 09:02:06 2016 - Thu Oct 27 09:41:31 2016  (00:39)
+johnsonbw pts/39       Thu Oct 27 09:01:53 2016 - Thu Oct 27 09:02:11 2016  (00:00)
+munseymk pts/38       Thu Oct 27 09:01:51 2016 - Thu Oct 27 09:02:00 2016  (00:00)
+zickgraf pts/37       Thu Oct 27 09:01:50 2016 - Thu Oct 27 09:54:42 2016  (00:52)
+carmackj pts/36       Thu Oct 27 09:01:43 2016 - Thu Oct 27 09:56:14 2016  (00:54)     rnh49107.etsu.edu
+pecorini pts/35       Thu Oct 27 09:01:43 2016 - Thu Oct 27 09:48:22 2016  (00:46)
+mckinneyla pts/34       Thu Oct 27 09:01:42 2016 - Thu Oct 27 09:48:21 2016  (00:46)
+pucketto pts/33       Thu Oct 27 09:01:37 2016 - Thu Oct 27 09:51:32 2016  (00:49)
+burdettj pts/32       Thu Oct 27 09:01:31 2016 - Thu Oct 27 09:42:54 2016  (00:41)
+hardyj   pts/31       Thu Oct 27 09:01:30 2016 - Thu Oct 27 09:40:33 2016  (00:39)     rnh49126.etsu.edu
+mcreynoldsh pts/30       Thu Oct 27 09:01:23 2016 - Thu Oct 27 10:08:45 2016  (01:07)
+zamc48   pts/28       Thu Oct 27 09:01:22 2016 - Thu Oct 27 09:57:17 2016  (00:55)
+zcee10   pts/27       Thu Oct 27 09:01:22 2016 - Thu Oct 27 09:48:25 2016  (00:47)
+zickgraf pts/25       Thu Oct 27 09:01:09 2016 - Thu Oct 27 09:54:43 2016  (00:53)     rnh49127.etsu.edu
+husaina  pts/24       Thu Oct 27 09:01:04 2016 - Thu Oct 27 10:24:39 2016  (01:23)
+jinkst   pts/23       Thu Oct 27 09:00:57 2016 - down                      (06:31)
+burdettj pts/22       Thu Oct 27 09:00:47 2016 - Thu Oct 27 09:42:57 2016  (00:42)     rnh49110.etsu.edu
+pecorini pts/21       Thu Oct 27 09:00:36 2016 - Thu Oct 27 09:48:23 2016  (00:47)     rnh49129.etsu.edu
+mckinneyla pts/19       Thu Oct 27 09:00:34 2016 - Thu Oct 27 09:48:22 2016  (00:47)     rnh49128.etsu.edu
+mistrettam pts/18       Thu Oct 27 09:00:25 2016 - Thu Oct 27 09:54:25 2016  (00:54)     rnh49121.etsu.edu
+munseymk pts/14       Thu Oct 27 09:00:17 2016 - Thu Oct 27 09:51:35 2016  (00:51)     rnh49130.etsu.edu
+husaina  pts/17       Thu Oct 27 08:57:48 2016 - Thu Oct 27 10:24:44 2016  (01:26)     rnh49106.etsu.edu
+barrettm pts/16       Thu Oct 27 08:57:40 2016 - Thu Oct 27 10:16:42 2016  (01:19)     rnh49123.etsu.edu
+daughertyb pts/15       Thu Oct 27 08:56:55 2016 - Thu Oct 27 09:58:40 2016  (01:01)     rnh49112.etsu.edu
+munseymk pts/14       Thu Oct 27 08:56:11 2016 - Thu Oct 27 09:00:09 2016  (00:03)     rnh49130.etsu.edu
+zamc48   pts/13       Thu Oct 27 08:56:04 2016 - Thu Oct 27 10:06:50 2016  (01:10)     rnh49103.etsu.edu
+johnsonbw pts/12       Thu Oct 27 08:55:25 2016 - Thu Oct 27 09:47:55 2016  (00:52)     rnh49118.etsu.edu
+blevinsjt pts/11       Thu Oct 27 08:55:19 2016 - Thu Oct 27 10:05:37 2016  (01:10)     rnh49120.etsu.edu
+pucketto pts/9        Thu Oct 27 08:53:36 2016 - Thu Oct 27 09:51:35 2016  (00:57)     rnh49131.etsu.edu
+zickgraf pts/9        Thu Oct 27 08:49:03 2016 - Thu Oct 27 08:49:39 2016  (00:00)     rnh49127.etsu.edu
+johnsonam4 pts/8        Thu Oct 27 08:46:58 2016 - Thu Oct 27 10:15:49 2016  (01:28)     rnh49113.etsu.edu
+jinkst   pts/7        Thu Oct 27 08:46:42 2016 - Thu Oct 27 10:22:17 2016  (01:35)     rnh49105.etsu.edu
+mcreynoldsh pts/6        Thu Oct 27 08:45:24 2016 - Thu Oct 27 10:08:54 2016  (01:23)     rnh49109.etsu.edu
+zcee10   pts/5        Thu Oct 27 08:43:22 2016 - Thu Oct 27 09:56:27 2016  (01:13)     rnh49102.etsu.edu
+clarkhs  pts/4        Thu Oct 27 08:42:09 2016 - Thu Oct 27 12:14:10 2016  (03:32)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+zmde1    pts/2        Thu Oct 27 08:34:46 2016 - Thu Oct 27 09:52:16 2016  (01:17)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+root     pts/2        Thu Oct 27 08:00:17 2016 - Thu Oct 27 08:08:05 2016  (00:07)     :0.0
+root     tty1         Thu Oct 27 08:00:03 2016 - Thu Oct 27 08:08:13 2016  (00:08)     :0
+phil     pts/4        Thu Oct 27 04:23:35 2016 - Thu Oct 27 04:36:54 2016  (00:13)     tn-76-7-147-33.dhcp.embarqhsd.net
+carterns pts/9        Wed Oct 26 23:46:37 2016 - Thu Oct 27 07:46:35 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+phil     pts/8        Wed Oct 26 23:46:31 2016 - Thu Oct 27 02:01:40 2016  (02:15)     etsu96179.etsu.edu
+carterns pts/7        Wed Oct 26 23:46:30 2016 - Thu Oct 27 06:23:04 2016  (06:36)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+carterns pts/2        Wed Oct 26 23:46:28 2016 - Thu Oct 27 07:46:25 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+butlerjm1 pts/12       Wed Oct 26 20:51:02 2016 - Wed Oct 26 22:36:59 2016  (01:45)     24-151-164-165.dhcp.kgpt.tn.charter.com
+kilpatrickc pts/11       Wed Oct 26 20:06:20 2016 - Thu Oct 27 04:06:18 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+kilpatrickc pts/4        Wed Oct 26 20:06:19 2016 - Thu Oct 27 04:06:17 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+whitney  pts/36       Wed Oct 26 18:17:25 2016 - Thu Oct 27 02:17:21 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+lightc   pts/48       Wed Oct 26 18:03:45 2016 - Thu Oct 27 02:03:43 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+lowerc   pts/27       Wed Oct 26 17:52:53 2016 - Thu Oct 27 01:52:51 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+boggsj1  pts/33       Wed Oct 26 17:45:18 2016 - Thu Oct 27 01:45:16 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+collinsmd1 pts/30       Wed Oct 26 17:38:04 2016 - Thu Oct 27 01:38:02 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+collinsmd1 pts/30       Wed Oct 26 17:37:32 2016 - Wed Oct 26 17:38:01 2016  (00:00)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+boggsj1  pts/42       Wed Oct 26 17:37:29 2016 - Thu Oct 27 01:37:27 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+boggsj1  pts/30       Wed Oct 26 17:36:52 2016 - Wed Oct 26 17:37:31 2016  (00:00)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+boggsj1  pts/59       Wed Oct 26 17:35:55 2016 - Wed Oct 26 17:36:49 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+daycc1   pts/51       Wed Oct 26 17:35:13 2016 - Wed Oct 26 18:33:11 2016  (00:57)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+daycc1   pts/51       Wed Oct 26 17:34:55 2016 - Wed Oct 26 17:35:11 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+collinsmd1 pts/33       Wed Oct 26 17:34:47 2016 - Wed Oct 26 17:37:30 2016  (00:02)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+daycc1   pts/51       Wed Oct 26 17:33:43 2016 - Wed Oct 26 17:34:52 2016  (00:01)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+lightc   pts/5        Wed Oct 26 17:33:31 2016 - Thu Oct 27 01:33:28 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+collinsmd1 pts/59       Wed Oct 26 17:33:24 2016 - Wed Oct 26 17:34:45 2016  (00:01)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+fabunmi  pts/64       Wed Oct 26 17:32:46 2016 - Thu Oct 27 01:32:43 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+jinkst   pts/34       Wed Oct 26 17:32:36 2016 - Thu Oct 27 01:32:34 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+boggsj1  pts/30       Wed Oct 26 17:32:14 2016 - Wed Oct 26 17:35:57 2016  (00:03)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+reesehp  pts/21       Wed Oct 26 17:31:59 2016 - Thu Oct 27 01:14:56 2016  (07:42)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+kilpatrickc pts/40       Wed Oct 26 17:31:37 2016 - Thu Oct 27 01:31:35 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+rochellew pts/24       Wed Oct 26 17:31:21 2016 - Thu Oct 27 01:31:19 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+lightc   pts/5        Wed Oct 26 17:31:03 2016 - Wed Oct 26 17:33:28 2016  (00:02)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+boggsj1  pts/63       Wed Oct 26 17:30:43 2016 - Wed Oct 26 17:36:05 2016  (00:05)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+collinsmd1 pts/59       Wed Oct 26 17:30:39 2016 - Wed Oct 26 17:33:21 2016  (00:02)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+carterns pts/57       Wed Oct 26 17:30:31 2016 - Thu Oct 27 01:30:29 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+mcmeen   pts/62       Wed Oct 26 17:30:05 2016 - Thu Oct 27 01:30:03 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+johnsonam4 pts/32       Wed Oct 26 17:29:59 2016 - Wed Oct 26 18:43:05 2016  (01:13)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+friendc  pts/61       Wed Oct 26 17:29:32 2016 - Wed Oct 26 22:02:02 2016  (04:32)     151.141.230.173
+robinsons1 pts/60       Wed Oct 26 17:29:01 2016 - Thu Oct 27 01:28:59 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+johnsonam4 pts/32       Wed Oct 26 17:28:33 2016 - Wed Oct 26 17:29:51 2016  (00:01)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+rochellew pts/24       Wed Oct 26 17:28:31 2016 - Wed Oct 26 17:31:18 2016  (00:02)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+collinsmd1 pts/59       Wed Oct 26 17:28:08 2016 - Wed Oct 26 17:30:35 2016  (00:02)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+munseymk pts/38       Wed Oct 26 17:28:07 2016 - Wed Oct 26 18:41:19 2016  (01:13)     rnh49205.etsu.edu
+gardnerkl pts/58       Wed Oct 26 17:28:01 2016 - Wed Oct 26 18:23:35 2016  (00:55)     rnh49117.etsu.edu
+lowerc   pts/43       Wed Oct 26 17:27:57 2016 - Thu Oct 27 01:27:55 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+lightc   pts/5        Wed Oct 26 17:27:29 2016 - Wed Oct 26 17:31:00 2016  (00:03)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+lightc   pts/5        Wed Oct 26 17:26:31 2016 - Wed Oct 26 17:27:26 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+whitney  pts/39       Wed Oct 26 17:26:19 2016 - Thu Oct 27 01:26:17 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+collinsmd1 pts/38       Wed Oct 26 17:26:05 2016 - Wed Oct 26 17:28:05 2016  (00:02)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+lightc   pts/5        Wed Oct 26 17:26:04 2016 - Wed Oct 26 17:26:29 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+jinkst   pts/57       Wed Oct 26 17:25:57 2016 - Wed Oct 26 17:30:18 2016  (00:04)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+butlerjm1 pts/56       Wed Oct 26 17:25:50 2016 - Wed Oct 26 18:43:47 2016  (01:17)     rnh49118.etsu.edu
+scruggsg pts/55       Wed Oct 26 17:25:39 2016 - Wed Oct 26 18:43:46 2016  (01:18)     rnh49125.etsu.edu
+huy002   pts/54       Wed Oct 26 17:25:36 2016 - Wed Oct 26 18:44:05 2016  (01:18)     rnh49128.etsu.edu
+clarkhs  pts/53       Wed Oct 26 17:25:32 2016 - Thu Oct 27 01:25:30 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+leen01   pts/52       Wed Oct 26 17:25:32 2016 - Wed Oct 26 18:43:49 2016  (01:18)     rnh49119.etsu.edu
+daycc1   pts/51       Wed Oct 26 17:24:50 2016 - Wed Oct 26 17:33:39 2016  (00:08)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+hilemanc pts/50       Wed Oct 26 17:23:27 2016 - Wed Oct 26 18:43:33 2016  (01:20)     rnh49102.etsu.edu
+kilpatrickc pts/50       Wed Oct 26 17:20:30 2016 - Wed Oct 26 17:21:34 2016  (00:01)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+minneci  pts/49       Wed Oct 26 17:20:24 2016 - Wed Oct 26 18:43:15 2016  (01:22)     rnh49112.etsu.edu
+zmde1    pts/48       Wed Oct 26 17:19:40 2016 - Wed Oct 26 17:36:09 2016  (00:16)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+carterns pts/47       Wed Oct 26 17:19:39 2016 - Thu Oct 27 01:19:37 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+carterns pts/46       Wed Oct 26 17:19:38 2016 - Thu Oct 27 01:19:36 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+whitney  pts/45       Wed Oct 26 17:19:14 2016 - Wed Oct 26 19:19:45 2016  (02:00)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+acerom   pts/44       Wed Oct 26 17:19:01 2016 - Wed Oct 26 18:43:11 2016  (01:24)     rnh49113.etsu.edu
+lowerc   pts/43       Wed Oct 26 17:18:15 2016 - Wed Oct 26 17:27:54 2016  (00:09)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+boggsj1  pts/42       Wed Oct 26 17:17:52 2016 - Wed Oct 26 17:36:02 2016  (00:18)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+justust  pts/41       Wed Oct 26 17:17:50 2016 - Wed Oct 26 18:43:28 2016  (01:25)     rnh49115.etsu.edu
+kilpatrickc pts/40       Wed Oct 26 17:17:05 2016 - Wed Oct 26 17:31:25 2016  (00:14)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+rochellew pts/24       Wed Oct 26 17:16:33 2016 - Wed Oct 26 17:28:28 2016  (00:11)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+lightc   pts/39       Wed Oct 26 17:16:15 2016 - Wed Oct 26 17:25:58 2016  (00:09)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+humphreymg pts/30       Wed Oct 26 17:15:05 2016 - Wed Oct 26 17:31:37 2016  (00:16)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+collinsmd1 pts/38       Wed Oct 26 17:14:20 2016 - Wed Oct 26 17:26:00 2016  (00:11)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+hornja   pts/37       Wed Oct 26 17:14:04 2016 - Wed Oct 26 18:39:44 2016  (01:25)     rnh49129.etsu.edu
+cowelld  pts/31       Wed Oct 26 17:13:58 2016 - Wed Oct 26 19:16:45 2016  (02:02)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+richardsonhj pts/19       Wed Oct 26 17:13:44 2016 - Wed Oct 26 18:43:09 2016  (01:29)     rnh49110.etsu.edu
+whitney  pts/36       Wed Oct 26 17:13:36 2016 - Wed Oct 26 18:17:21 2016  (01:03)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+lucmm1   pts/35       Wed Oct 26 17:13:27 2016 - Wed Oct 26 18:40:20 2016  (01:26)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+reesehp  pts/34       Wed Oct 26 17:12:40 2016 - Wed Oct 26 17:31:55 2016  (00:19)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+husaina  pts/33       Wed Oct 26 17:11:57 2016 - Wed Oct 26 17:34:14 2016  (00:22)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+johnsonam4 pts/32       Wed Oct 26 17:11:49 2016 - Wed Oct 26 17:28:22 2016  (00:16)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+kilpatrickc pts/31       Wed Oct 26 17:11:40 2016 - Wed Oct 26 17:13:44 2016  (00:02)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+kilpatrickc pts/19       Wed Oct 26 17:11:39 2016 - Wed Oct 26 17:13:42 2016  (00:02)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+collinsmd1 pts/30       Wed Oct 26 17:11:36 2016 - Wed Oct 26 17:14:23 2016  (00:02)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+mistrettam pts/28       Wed Oct 26 17:11:35 2016 - Thu Oct 27 01:11:33 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+jinkst   pts/5        Wed Oct 26 17:11:05 2016 - Wed Oct 26 17:25:58 2016  (00:14)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+daymj1   pts/27       Wed Oct 26 17:10:52 2016 - Wed Oct 26 17:49:29 2016  (00:38)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+zmde1    pts/27       Wed Oct 26 17:10:16 2016 - Wed Oct 26 17:10:21 2016  (00:00)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+mckinneyla pts/25       Wed Oct 26 17:09:56 2016 - Thu Oct 27 01:09:54 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+rochellew pts/24       Wed Oct 26 17:09:51 2016 - Wed Oct 26 17:16:30 2016  (00:06)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+gillilandr pts/23       Wed Oct 26 17:09:36 2016 - Thu Oct 27 01:09:34 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+reesehp  pts/22       Wed Oct 26 17:09:28 2016 - Thu Oct 27 01:09:26 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+zickgraf pts/21       Wed Oct 26 17:09:21 2016 - Wed Oct 26 17:31:58 2016  (00:22)     rnh49208.etsu.edu
+humphreymg pts/19       Wed Oct 26 17:07:23 2016 - Wed Oct 26 17:11:37 2016  (00:04)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+rochellew pts/19       Wed Oct 26 17:06:04 2016 - Wed Oct 26 17:06:44 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+phil     pts/18       Wed Oct 26 16:59:42 2016 - Wed Oct 26 18:43:51 2016  (01:44)     rnh49123.etsu.edu
+carrollf pts/17       Wed Oct 26 16:58:30 2016 - Thu Oct 27 00:58:28 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+dunns2   pts/16       Wed Oct 26 16:53:41 2016 - Wed Oct 26 18:43:32 2016  (01:49)     rnh49104.etsu.edu
+winingerj pts/15       Wed Oct 26 16:53:39 2016 - Thu Oct 27 00:53:37 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+huberd   pts/14       Wed Oct 26 16:47:19 2016 - Wed Oct 26 18:43:32 2016  (01:56)     rnh49111.etsu.edu
+zndh4    pts/13       Wed Oct 26 16:47:19 2016 - Wed Oct 26 18:44:23 2016  (01:57)     rnh49114.etsu.edu
+windes   pts/12       Wed Oct 26 16:40:33 2016 - Wed Oct 26 18:43:32 2016  (02:02)     rnh49109.etsu.edu
+harmanc  pts/11       Wed Oct 26 16:33:01 2016 - Wed Oct 26 18:43:34 2016  (02:10)     rnh49106.etsu.edu
+gillilandr pts/6        Wed Oct 26 16:31:51 2016 - Thu Oct 27 00:31:49 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+cowelld  pts/5        Wed Oct 26 16:26:43 2016 - Wed Oct 26 17:10:56 2016  (00:44)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+huy002   pts/11       Wed Oct 26 15:20:16 2016 - Wed Oct 26 15:21:09 2016  (00:00)     shl20405.etsu.edu
+kilpatrickc pts/2        Wed Oct 26 15:18:43 2016 - Wed Oct 26 23:18:40 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+kilpatrickc pts/2        Wed Oct 26 15:18:01 2016 - Wed Oct 26 15:18:40 2016  (00:00)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+harmanc  pts/11       Wed Oct 26 14:43:03 2016 - Wed Oct 26 15:04:12 2016  (00:21)     rnh49106.etsu.edu
+carterns pts/9        Wed Oct 26 14:41:39 2016 - Wed Oct 26 22:41:36 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+carterns pts/8        Wed Oct 26 14:41:38 2016 - Wed Oct 26 22:41:36 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+kilpatrickc pts/7        Wed Oct 26 14:40:39 2016 - Wed Oct 26 22:40:37 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+kilpatrickc pts/2        Wed Oct 26 14:40:37 2016 - Wed Oct 26 15:17:57 2016  (00:37)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+barrettm pts/6        Wed Oct 26 12:39:24 2016 - Wed Oct 26 16:21:25 2016  (03:42)     etsu908265.etsu.edu
+rochellew pts/4        Wed Oct 26 11:54:46 2016 - Wed Oct 26 19:54:51 2016  (08:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+johnsonam4 pts/6        Wed Oct 26 11:37:03 2016 - Wed Oct 26 11:37:06 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+johnsonam4 pts/4        Wed Oct 26 11:04:52 2016 - Wed Oct 26 11:48:41 2016  (00:43)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+barrettm pts/2        Wed Oct 26 10:46:27 2016 - Wed Oct 26 12:39:37 2016  (01:53)     etsu908265.etsu.edu
+barrettm pts/2        Wed Oct 26 10:29:16 2016 - Wed Oct 26 10:46:13 2016  (00:16)     etsu908265.etsu.edu
+nielsen  pts/2        Wed Oct 26 10:20:25 2016 - Wed Oct 26 10:27:51 2016  (00:07)     etsu908271.etsu.edu
+gillilandr pts/5        Wed Oct 26 08:24:24 2016 - Wed Oct 26 16:24:22 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+harmanc  pts/2        Wed Oct 26 07:02:19 2016 - Wed Oct 26 09:05:16 2016  (02:02)     75.130.33.12
+harmanc  pts/4        Wed Oct 26 06:08:47 2016 - Wed Oct 26 07:02:01 2016  (00:53)     75.130.33.12
+harmanc  pts/2        Wed Oct 26 06:00:29 2016 - Wed Oct 26 06:24:42 2016  (00:24)     75.130.33.12
+hilemanc pts/2        Wed Oct 26 00:35:54 2016 - Wed Oct 26 00:59:10 2016  (00:23)     c-68-32-233-159.hsd1.va.comcast.net
+gardnerkl pts/4        Wed Oct 26 00:15:59 2016 - Wed Oct 26 01:00:27 2016  (00:44)     c-73-108-5-32.hsd1.tn.comcast.net
+gardnerkl pts/2        Tue Oct 25 23:30:56 2016 - Wed Oct 26 00:31:18 2016  (01:00)     c-73-108-5-32.hsd1.tn.comcast.net
+hornja   pts/9        Tue Oct 25 21:58:00 2016 - Wed Oct 26 03:25:05 2016  (05:27)     c-68-57-94-130.hsd1.tn.comcast.net
+hilemanc pts/24       Tue Oct 25 21:39:20 2016 - Tue Oct 25 23:12:00 2016  (01:32)     c-68-32-233-159.hsd1.va.comcast.net
+barrettm pts/23       Tue Oct 25 21:38:38 2016 - Tue Oct 25 22:01:31 2016  (00:22)     etsu908265.etsu.edu
+windes   pts/17       Tue Oct 25 21:38:17 2016 - Tue Oct 25 22:00:41 2016  (00:22)     24-158-192-6.dhcp.kgpt.tn.charter.com
+barrettm pts/17       Tue Oct 25 21:30:47 2016 - Tue Oct 25 21:31:07 2016  (00:00)     rnh436mmc.etsu.edu
+kilpatrickc pts/21       Tue Oct 25 20:31:23 2016 - Wed Oct 26 04:31:20 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+kilpatrickc pts/12       Tue Oct 25 20:31:23 2016 - Wed Oct 26 04:31:20 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+justust  pts/17       Tue Oct 25 20:24:46 2016 - Tue Oct 25 21:20:39 2016  (00:55)     c-50-142-55-54.hsd1.tn.comcast.net
+dunns2   pts/9        Tue Oct 25 20:24:23 2016 - Tue Oct 25 21:43:29 2016  (01:19)     192.168.226.47
+gillilandr pts/6        Tue Oct 25 20:07:29 2016 - Wed Oct 26 04:07:26 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+acerom   pts/2        Tue Oct 25 20:04:52 2016 - Tue Oct 25 22:36:56 2016  (02:32)     75-139-8-45.dhcp.kgpt.tn.charter.com
+gillilandr pts/16       Tue Oct 25 20:00:46 2016 - Wed Oct 26 04:00:44 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+acerom   pts/22       Tue Oct 25 20:00:16 2016 - Tue Oct 25 22:37:18 2016  (02:37)     75-139-8-45.dhcp.kgpt.tn.charter.com
+huy002   pts/4        Tue Oct 25 19:59:51 2016 - Tue Oct 25 23:02:36 2016  (03:02)     151.141.236.26
+acerom   pts/21       Tue Oct 25 19:59:14 2016 - Tue Oct 25 20:00:02 2016  (00:00)     75-139-8-45.dhcp.kgpt.tn.charter.com
+scruggsg pts/19       Tue Oct 25 19:58:22 2016 - Tue Oct 25 23:34:33 2016  (03:36)     24-151-160-180.dhcp.kgpt.tn.charter.com
+huy002   pts/4        Tue Oct 25 19:51:18 2016 - Tue Oct 25 19:59:21 2016  (00:08)     151.141.236.26
+justust  pts/12       Tue Oct 25 19:45:29 2016 - Tue Oct 25 20:28:29 2016  (00:43)     c-50-142-55-54.hsd1.tn.comcast.net
+reesehp  pts/18       Tue Oct 25 19:42:26 2016 - Wed Oct 26 03:42:09 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+dunns2   pts/17       Tue Oct 25 19:31:33 2016 - Tue Oct 25 20:24:10 2016  (00:52)     192.168.226.47
+scruggsg pts/16       Tue Oct 25 19:27:05 2016 - Tue Oct 25 19:57:31 2016  (00:30)     24-151-160-180.dhcp.kgpt.tn.charter.com
+winingerj pts/15       Tue Oct 25 19:22:35 2016 - Wed Oct 26 03:22:32 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+kilpatrickc pts/14       Tue Oct 25 19:17:14 2016 - Wed Oct 26 03:17:11 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+kilpatrickc pts/13       Tue Oct 25 19:17:13 2016 - Wed Oct 26 03:17:11 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+butlerjm1 pts/7        Tue Oct 25 19:10:32 2016 - Tue Oct 25 22:39:19 2016  (03:28)     24-151-164-165.dhcp.kgpt.tn.charter.com
+gillilandr pts/12       Tue Oct 25 18:44:44 2016 - Tue Oct 25 19:42:41 2016  (00:57)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+gillilandr pts/11       Tue Oct 25 18:21:44 2016 - Wed Oct 26 02:21:42 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+gillilandr pts/5        Tue Oct 25 18:17:13 2016 - Wed Oct 26 02:17:11 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+hilemanc pts/11       Tue Oct 25 18:08:08 2016 - Tue Oct 25 18:16:21 2016  (00:08)     c-68-32-233-159.hsd1.va.comcast.net
+acerom   pts/9        Tue Oct 25 17:49:48 2016 - Tue Oct 25 19:59:03 2016  (02:09)     75-139-8-45.dhcp.kgpt.tn.charter.com
+zndh4    pts/7        Tue Oct 25 17:18:58 2016 - Tue Oct 25 19:06:53 2016  (01:47)     96-33-23-18.dhcp.jcsn.tn.charter.com
+leen01   pts/5        Tue Oct 25 17:17:15 2016 - Tue Oct 25 18:13:50 2016  (00:56)     151.141.218.1
+harrisonms1 pts/5        Tue Oct 25 17:15:13 2016 - Tue Oct 25 17:15:49 2016  (00:00)     151.141.234.221
+windes   pts/4        Tue Oct 25 16:28:29 2016 - Tue Oct 25 19:48:53 2016  (03:20)     24-158-192-6.dhcp.kgpt.tn.charter.com
+richardsonhj pts/11       Tue Oct 25 15:38:23 2016 - Tue Oct 25 15:43:53 2016  (00:05)     151.141.242.91
+gardnerkl pts/4        Tue Oct 25 15:32:40 2016 - Tue Oct 25 15:41:07 2016  (00:08)     151.141.245.110
+whitney  pts/8        Tue Oct 25 15:01:49 2016 - Tue Oct 25 23:01:47 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+dunns2   pts/4        Tue Oct 25 14:40:21 2016 - Tue Oct 25 15:29:46 2016  (00:49)     192.168.232.120
+gardnerkl pts/5        Tue Oct 25 14:10:46 2016 - Tue Oct 25 16:22:01 2016  (02:11)     151.141.245.110
+zcee10   pts/11       Tue Oct 25 13:24:48 2016 - Tue Oct 25 13:30:47 2016  (00:05)     151.141.221.245
+minneci  pts/9        Tue Oct 25 12:45:10 2016 - Tue Oct 25 17:04:06 2016  (04:18)     207.109.93.4
+zndh4    pts/8        Tue Oct 25 12:42:22 2016 - Tue Oct 25 13:51:54 2016  (01:09)     151.141.236.234
+gardnerkl pts/7        Tue Oct 25 12:02:53 2016 - Tue Oct 25 15:48:11 2016  (03:45)     151.141.245.110
+gillilandr pts/2        Tue Oct 25 12:02:11 2016 - Tue Oct 25 20:02:06 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+winingerj pts/6        Tue Oct 25 12:02:11 2016 - Tue Oct 25 20:02:06 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+winingerj pts/2        Tue Oct 25 12:02:03 2016 - Tue Oct 25 12:02:05 2016  (00:00)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+fraziered pts/6        Tue Oct 25 11:15:56 2016 - Tue Oct 25 11:20:16 2016  (00:04)     151.141.165.17
+zndh4    pts/4        Tue Oct 25 11:08:53 2016 - Tue Oct 25 14:12:31 2016  (03:03)     151.141.236.234
+winingerj pts/2        Tue Oct 25 10:41:27 2016 - Tue Oct 25 12:01:59 2016  (01:20)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+mcreynoldsh pts/27       Tue Oct 25 10:10:20 2016 - Tue Oct 25 10:20:18 2016  (00:09)     rnh49109.etsu.edu
+jacksonre pts/4        Tue Oct 25 10:10:15 2016 - Tue Oct 25 10:20:27 2016  (00:10)     rnh49106.etsu.edu
+rochellew pts/38       Tue Oct 25 10:09:07 2016 - Tue Oct 25 10:10:32 2016  (00:01)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+mckinneyla pts/37       Tue Oct 25 10:00:50 2016 - Tue Oct 25 10:20:22 2016  (00:19)     rnh49128.etsu.edu
+gillilandr pts/19       Tue Oct 25 10:00:38 2016 - Tue Oct 25 12:01:59 2016  (02:01)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+gardnerkl pts/36       Tue Oct 25 09:59:10 2016 - Tue Oct 25 12:59:05 2016  (02:59)     c-73-108-5-32.hsd1.tn.comcast.net
+daughertyb pts/25       Tue Oct 25 09:58:25 2016 - Tue Oct 25 10:20:23 2016  (00:21)     rnh49112.etsu.edu
+mooretw1 pts/35       Tue Oct 25 09:54:11 2016 - Tue Oct 25 10:20:24 2016  (00:26)     rnh49116.etsu.edu
+rochellew pts/35       Tue Oct 25 09:52:47 2016 - Tue Oct 25 09:53:41 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+gardnerkl pts/34       Tue Oct 25 09:48:21 2016 - Tue Oct 25 10:15:18 2016  (00:26)     c-73-108-5-32.hsd1.tn.comcast.net
+jinkst   pts/24       Tue Oct 25 09:47:40 2016 - Tue Oct 25 10:20:27 2016  (00:32)     rnh49105.etsu.edu
+kilpatrickc pts/17       Tue Oct 25 09:47:39 2016 - Tue Oct 25 10:20:37 2016  (00:32)     rnh49125.etsu.edu
+pecorini pts/14       Tue Oct 25 09:47:39 2016 - Tue Oct 25 10:20:18 2016  (00:32)     rnh49129.etsu.edu
+pucketto pts/9        Tue Oct 25 09:47:33 2016 - Tue Oct 25 10:20:29 2016  (00:32)     rnh49131.etsu.edu
+husaina  pts/6        Tue Oct 25 09:47:18 2016 - Tue Oct 25 10:21:30 2016  (00:34)     rnh49104.etsu.edu
+hardyj   pts/12       Tue Oct 25 09:47:07 2016 - Tue Oct 25 10:20:19 2016  (00:33)     rnh49126.etsu.edu
+mckinneyla pts/19       Tue Oct 25 09:46:50 2016 - Tue Oct 25 10:00:20 2016  (00:13)     rnh49128.etsu.edu
+burdettj pts/8        Tue Oct 25 09:46:42 2016 - Tue Oct 25 10:20:16 2016  (00:33)     rnh49110.etsu.edu
+zickgraf pts/7        Tue Oct 25 09:46:42 2016 - Tue Oct 25 10:20:20 2016  (00:33)     rnh49127.etsu.edu
+johnsonam4 pts/16       Tue Oct 25 09:41:53 2016 - Tue Oct 25 10:20:35 2016  (00:38)     rnh49103.etsu.edu
+daughertyb pts/25       Tue Oct 25 09:41:23 2016 - Tue Oct 25 09:58:14 2016  (00:16)     rnh49112.etsu.edu
+carmackj pts/33       Tue Oct 25 09:36:04 2016 - Tue Oct 25 10:20:25 2016  (00:44)     rnh49108.etsu.edu
+carmackj pts/33       Tue Oct 25 09:26:58 2016 - Tue Oct 25 09:35:46 2016  (00:08)     rnh49108.etsu.edu
+clarkhs  pts/32       Tue Oct 25 09:26:39 2016 - Tue Oct 25 10:20:49 2016  (00:54)     rnh49107.etsu.edu
+hessl    pts/31       Tue Oct 25 09:26:21 2016 - Tue Oct 25 10:31:32 2016  (01:05)
+zmde1    pts/30       Tue Oct 25 09:26:06 2016 - Tue Oct 25 16:28:53 2016  (07:02)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+hessl    pts/28       Tue Oct 25 09:26:01 2016 - Tue Oct 25 10:32:45 2016  (01:06)     rnh49115.etsu.edu
+jacksonre pts/27       Tue Oct 25 09:25:19 2016 - Tue Oct 25 10:09:52 2016  (00:44)     rnh49106.etsu.edu
+daughertyb pts/25       Tue Oct 25 09:25:05 2016 - Tue Oct 25 09:41:09 2016  (00:16)     rnh49112.etsu.edu
+mckinneyla pts/24       Tue Oct 25 09:24:59 2016 - Tue Oct 25 09:46:35 2016  (00:21)     rnh49128.etsu.edu
+zcmc53   pts/23       Tue Oct 25 09:24:02 2016 - Tue Oct 25 10:20:42 2016  (00:56)     rnh49114.etsu.edu
+munseymk pts/2        Tue Oct 25 09:21:08 2016 - Tue Oct 25 10:20:20 2016  (00:59)     rnh49130.etsu.edu
+munseymk pts/2        Tue Oct 25 09:20:53 2016 - Tue Oct 25 09:21:02 2016  (00:00)     rnh49130.etsu.edu
+greenenm pts/22       Tue Oct 25 09:04:39 2016 - Tue Oct 25 10:20:27 2016  (01:15)     rnh49113.etsu.edu
+blevinsjt pts/21       Tue Oct 25 09:03:06 2016 - Tue Oct 25 10:21:24 2016  (01:18)     rnh49120.etsu.edu
+burdettj pts/19       Tue Oct 25 09:01:30 2016 - Tue Oct 25 09:46:27 2016  (00:44)     rnh49110.etsu.edu
+zcee10   pts/11       Tue Oct 25 09:01:29 2016 - Tue Oct 25 10:20:58 2016  (01:19)     rnh49102.etsu.edu
+barrettm pts/18       Tue Oct 25 09:01:08 2016 - Tue Oct 25 10:20:44 2016  (01:19)     rnh49123.etsu.edu
+pucketto pts/17       Tue Oct 25 09:01:06 2016 - Tue Oct 25 09:47:17 2016  (00:46)     rnh49131.etsu.edu
+johnsonam4 pts/16       Tue Oct 25 09:00:48 2016 - Tue Oct 25 09:41:31 2016  (00:40)     rnh49103.etsu.edu
+johnsonbw pts/15       Tue Oct 25 09:00:29 2016 - Tue Oct 25 10:20:23 2016  (01:19)     rnh49118.etsu.edu
+pecorini pts/14       Tue Oct 25 08:59:04 2016 - Tue Oct 25 09:47:25 2016  (00:48)     rnh49129.etsu.edu
+zdrb27   pts/13       Tue Oct 25 08:58:35 2016 - Tue Oct 25 10:20:35 2016  (01:22)     rnh49117.etsu.edu
+husaina  pts/12       Tue Oct 25 08:58:05 2016 - Tue Oct 25 09:47:03 2016  (00:48)     rnh49104.etsu.edu
+jinkst   pts/9        Tue Oct 25 08:55:49 2016 - Tue Oct 25 09:47:27 2016  (00:51)     rnh49105.etsu.edu
+burdettj pts/11       Tue Oct 25 08:54:25 2016 - Tue Oct 25 09:01:10 2016  (00:06)     rnh49110.etsu.edu
+pucketto pts/9        Tue Oct 25 08:53:44 2016 - Tue Oct 25 08:55:27 2016  (00:01)     rnh49130.etsu.edu
+hardyj   pts/8        Tue Oct 25 08:53:38 2016 - Tue Oct 25 09:46:41 2016  (00:53)     rnh49126.etsu.edu
+zickgraf pts/7        Tue Oct 25 08:52:56 2016 - Tue Oct 25 09:46:30 2016  (00:53)     rnh49127.etsu.edu
+kilpatrickc pts/6        Tue Oct 25 08:51:06 2016 - Tue Oct 25 09:47:14 2016  (00:56)     rnh49125.etsu.edu
+mcreynoldsh pts/4        Tue Oct 25 08:50:27 2016 - Tue Oct 25 10:09:10 2016  (01:18)     rnh49109.etsu.edu
+barrettm pts/4        Tue Oct 25 08:47:54 2016 - Tue Oct 25 08:49:22 2016  (00:01)     etsu908265.etsu.edu
+gardnerkl pts/2        Tue Oct 25 08:47:18 2016 - Tue Oct 25 09:07:18 2016  (00:20)     c-73-108-5-32.hsd1.tn.comcast.net
+root     tty1         Tue Oct 25 07:53:26 2016 - Tue Oct 25 08:06:54 2016  (00:13)     :0
+whitney  pts/5        Tue Oct 25 05:52:46 2016 - Tue Oct 25 13:52:44 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+phil     pts/2        Tue Oct 25 01:18:24 2016 - Tue Oct 25 06:12:27 2016  (04:54)     tn-76-7-147-33.dhcp.embarqhsd.net
+reesehp  pts/4        Mon Oct 24 23:39:58 2016 - Tue Oct 25 07:39:56 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+leen01   pts/4        Mon Oct 24 23:36:04 2016 - Mon Oct 24 23:39:35 2016  (00:03)     192.168.212.138
+leen01   pts/3        Mon Oct 24 23:00:17 2016 - Mon Oct 24 23:35:32 2016  (00:35)     192.168.212.138
+collinsmd1 pts/21       Mon Oct 24 22:26:43 2016 - Tue Oct 25 06:26:41 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+rochellew pts/19       Mon Oct 24 22:14:50 2016 - Tue Oct 25 06:14:48 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+whitney  pts/18       Mon Oct 24 21:31:17 2016 - Tue Oct 25 04:46:45 2016  (07:15)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+gillilandr pts/16       Mon Oct 24 21:15:34 2016 - Tue Oct 25 05:15:32 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+butlerjm1 pts/15       Mon Oct 24 21:11:21 2016 - Mon Oct 24 22:33:38 2016  (01:22)     24-151-164-165.dhcp.kgpt.tn.charter.com
+zndh4    pts/14       Mon Oct 24 21:07:58 2016 - Tue Oct 25 02:33:28 2016  (05:25)     96-33-23-18.dhcp.jcsn.tn.charter.com
+johnsonam4 pts/9        Mon Oct 24 20:53:49 2016 - Tue Oct 25 04:53:47 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+johnsonam4 pts/9        Mon Oct 24 20:44:35 2016 - Mon Oct 24 20:47:31 2016  (00:02)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+kilpatrickc pts/8        Mon Oct 24 20:38:15 2016 - Tue Oct 25 04:38:12 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+kilpatrickc pts/7        Mon Oct 24 20:38:13 2016 - Tue Oct 25 04:38:11 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+hilemanc pts/5        Mon Oct 24 20:37:50 2016 - Mon Oct 24 23:07:30 2016  (02:29)     c-68-32-233-159.hsd1.va.comcast.net
+windes   pts/4        Mon Oct 24 20:27:37 2016 - Mon Oct 24 23:27:39 2016  (03:00)     24-158-192-6.dhcp.kgpt.tn.charter.com
+hornja   pts/5        Mon Oct 24 18:58:59 2016 - Mon Oct 24 19:03:38 2016  (00:04)     rnh49129.etsu.edu
+justust  pts/3        Mon Oct 24 18:58:45 2016 - Mon Oct 24 22:47:08 2016  (03:48)     151.141.226.135
+friendc  pts/4        Mon Oct 24 18:55:03 2016 - Mon Oct 24 19:42:14 2016  (00:47)     151.141.230.21
+hornja   pts/3        Mon Oct 24 18:53:32 2016 - Mon Oct 24 18:58:23 2016  (00:04)     rnh49129.etsu.edu
+harmanc  pts/28       Mon Oct 24 18:36:15 2016 - Mon Oct 24 18:39:14 2016  (00:02)     rnh49107.etsu.edu
+hornja   pts/7        Mon Oct 24 18:35:05 2016 - Mon Oct 24 18:40:20 2016  (00:05)     rnh49129.etsu.edu
+justust  pts/18       Mon Oct 24 18:34:28 2016 - Mon Oct 24 18:49:16 2016  (00:14)     rnh49115.etsu.edu
+acerom   pts/5        Mon Oct 24 18:32:10 2016 - Mon Oct 24 18:49:33 2016  (00:17)     rnh49113.etsu.edu
+hornja   pts/28       Mon Oct 24 18:30:34 2016 - Mon Oct 24 18:32:22 2016  (00:01)     rnh49129.etsu.edu
+phil     pts/9        Mon Oct 24 18:28:51 2016 - Mon Oct 24 18:49:35 2016  (00:20)     rnh49123.etsu.edu
+harmanc  pts/7        Mon Oct 24 18:09:59 2016 - Mon Oct 24 18:34:51 2016  (00:24)     rnh49107.etsu.edu
+harmanc  pts/7        Mon Oct 24 18:09:01 2016 - Mon Oct 24 18:09:10 2016  (00:00)     rnh49107.etsu.edu
+mckinneyla pts/30       Mon Oct 24 18:07:27 2016 - Tue Oct 25 02:06:56 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+hornja   pts/28       Mon Oct 24 18:05:47 2016 - Mon Oct 24 18:06:49 2016  (00:01)     rnh49129.etsu.edu
+collinsmd1 pts/27       Mon Oct 24 17:56:41 2016 - Tue Oct 25 01:56:39 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+gardnerkl pts/14       Mon Oct 24 17:31:16 2016 - Mon Oct 24 18:46:23 2016  (01:15)     rnh49117.etsu.edu
+winingerj pts/11       Mon Oct 24 17:22:57 2016 - Tue Oct 25 01:22:55 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+rochellew pts/6        Mon Oct 24 17:19:35 2016 - Tue Oct 25 01:19:30 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+rochellew pts/6        Mon Oct 24 17:15:00 2016 - Mon Oct 24 17:19:30 2016  (00:04)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+gardnerkl pts/14       Mon Oct 24 17:06:20 2016 - Mon Oct 24 17:30:31 2016  (00:24)     rnh49117.etsu.edu
+hornja   pts/26       Mon Oct 24 17:05:01 2016 - Mon Oct 24 18:02:04 2016  (00:57)     rnh49129.etsu.edu
+butlerjm1 pts/23       Mon Oct 24 17:04:39 2016 - Mon Oct 24 18:49:07 2016  (01:44)     rnh49118.etsu.edu
+huy002   pts/10       Mon Oct 24 17:04:31 2016 - Mon Oct 24 18:49:07 2016  (01:44)     rnh49128.etsu.edu
+phil     pts/9        Mon Oct 24 17:04:27 2016 - Mon Oct 24 18:21:45 2016  (01:17)     rnh49123.etsu.edu
+scruggsg pts/8        Mon Oct 24 17:02:09 2016 - Mon Oct 24 18:39:58 2016  (01:37)     rnh49125.etsu.edu
+harmanc  pts/7        Mon Oct 24 17:00:06 2016 - Mon Oct 24 18:08:20 2016  (01:08)     rnh49107.etsu.edu
+huy002   pts/6        Mon Oct 24 16:59:48 2016 - Mon Oct 24 17:03:57 2016  (00:04)     rnh49128.etsu.edu
+acerom   pts/5        Mon Oct 24 16:56:12 2016 - Mon Oct 24 18:31:51 2016  (01:35)     rnh49113.etsu.edu
+hilemanc pts/4        Mon Oct 24 16:56:10 2016 - Mon Oct 24 18:49:23 2016  (01:53)     rnh49102.etsu.edu
+leen01   pts/3        Mon Oct 24 16:54:42 2016 - Mon Oct 24 18:49:43 2016  (01:55)     rnh49119.etsu.edu
+mckinneyla pts/2        Mon Oct 24 16:54:10 2016 - Tue Oct 25 00:54:08 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+richardsonhj pts/25       Mon Oct 24 16:52:06 2016 - Mon Oct 24 18:43:33 2016  (01:51)     rnh49110.etsu.edu
+dunns2   pts/24       Mon Oct 24 16:51:54 2016 - Mon Oct 24 18:43:55 2016  (01:52)     rnh49104.etsu.edu
+hilemanc pts/23       Mon Oct 24 16:51:19 2016 - Mon Oct 24 16:53:19 2016  (00:02)     rnh49101.etsu.edu
+huberd   pts/22       Mon Oct 24 16:51:02 2016 - Mon Oct 24 18:43:51 2016  (01:52)     rnh49111.etsu.edu
+windes   pts/21       Mon Oct 24 16:45:23 2016 - Mon Oct 24 18:38:59 2016  (01:53)     rnh49109.etsu.edu
+minneci  pts/19       Mon Oct 24 16:45:18 2016 - Mon Oct 24 18:48:15 2016  (02:02)     rnh49112.etsu.edu
+justust  pts/18       Mon Oct 24 16:45:10 2016 - Mon Oct 24 18:33:33 2016  (01:48)     rnh49115.etsu.edu
+reesehp  pts/17       Mon Oct 24 16:44:42 2016 - Tue Oct 25 00:44:40 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+zndh4    pts/16       Mon Oct 24 16:43:42 2016 - Mon Oct 24 18:36:23 2016  (01:52)     rnh49114.etsu.edu
+richardsonhj pts/15       Mon Oct 24 16:37:56 2016 - Mon Oct 24 18:50:39 2016  (02:12)     151.141.240.174
+carterns pts/13       Mon Oct 24 16:31:50 2016 - Tue Oct 25 00:31:46 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+richardsonhj pts/15       Mon Oct 24 16:11:59 2016 - Mon Oct 24 16:29:25 2016  (00:17)     151.141.240.174
+richardsonhj pts/15       Mon Oct 24 16:06:12 2016 - Mon Oct 24 16:09:54 2016  (00:03)     151.141.240.174
+barrettm pts/14       Mon Oct 24 16:02:29 2016 - Mon Oct 24 17:05:20 2016  (01:02)     etsu908265.etsu.edu
+carterns pts/13       Mon Oct 24 15:37:01 2016 - Mon Oct 24 16:31:45 2016  (00:54)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+carterns pts/12       Mon Oct 24 15:37:01 2016 - Mon Oct 24 23:36:59 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+johnsonam4 pts/11       Mon Oct 24 15:36:20 2016 - Mon Oct 24 17:19:30 2016  (01:43)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+johnsonam4 pts/10       Mon Oct 24 14:28:16 2016 - Mon Oct 24 16:53:40 2016  (02:25)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+collinsmd1 pts/7        Mon Oct 24 13:40:47 2016 - Mon Oct 24 16:53:44 2016  (03:12)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+humphreymg pts/9        Mon Oct 24 13:35:34 2016 - Mon Oct 24 16:53:45 2016  (03:18)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+rochellew pts/8        Mon Oct 24 13:08:59 2016 - Mon Oct 24 16:53:42 2016  (03:44)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+mckinneyla pts/4        Mon Oct 24 12:58:10 2016 - Mon Oct 24 16:53:38 2016  (03:55)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+collinsmd1 pts/7        Mon Oct 24 11:33:39 2016 - Mon Oct 24 13:40:42 2016  (02:07)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+carterns pts/3        Mon Oct 24 11:20:49 2016 - Mon Oct 24 16:53:36 2016  (05:32)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+winingerj pts/6        Mon Oct 24 10:57:15 2016 - Mon Oct 24 16:53:45 2016  (05:56)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+humphreymg pts/5        Mon Oct 24 09:48:34 2016 - Mon Oct 24 16:53:40 2016  (07:05)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+huy002   pts/4        Mon Oct 24 09:39:57 2016 - Mon Oct 24 12:51:08 2016  (03:11)     151.141.233.203
+carterns pts/3        Mon Oct 24 09:31:55 2016 - Mon Oct 24 11:20:44 2016  (01:48)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+carterns pts/2        Mon Oct 24 09:31:54 2016 - Mon Oct 24 16:53:39 2016  (07:21)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+huy002   pts/2        Mon Oct 24 09:21:22 2016 - Mon Oct 24 09:27:54 2016  (00:06)     151.141.233.203
+phil     pts/2        Mon Oct 24 05:31:14 2016 - Mon Oct 24 05:58:29 2016  (00:27)     tn-76-7-147-33.dhcp.embarqhsd.net
+whitney  pts/4        Mon Oct 24 05:08:48 2016 - Mon Oct 24 08:10:22 2016  (03:01)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+phil     pts/2        Mon Oct 24 04:42:17 2016 - Mon Oct 24 05:30:58 2016  (00:48)     tn-76-7-147-33.dhcp.embarqhsd.net
+phil     pts/6        Mon Oct 24 01:46:04 2016 - Mon Oct 24 01:50:52 2016  (00:04)     50-254-241-113-static.hfc.comcastbusiness.net
+humphreymg pts/3        Sun Oct 23 23:42:18 2016 - Mon Oct 24 07:42:16 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+zickgraf pts/8        Sun Oct 23 22:19:40 2016 - Sun Oct 23 22:20:55 2016  (00:01)     97-81-9-204.dhcp.kgpt.tn.charter.com
+richardsonhj pts/3        Sun Oct 23 22:13:32 2016 - Sun Oct 23 22:36:25 2016  (00:22)     67.235.110.125
+daymj1   pts/3        Sun Oct 23 21:41:26 2016 - Sun Oct 23 21:41:30 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+richardsonhj pts/7        Sun Oct 23 21:30:53 2016 - Sun Oct 23 22:29:23 2016  (00:58)     67.235.110.125
+johnsonam4 pts/2        Sun Oct 23 20:28:06 2016 - Mon Oct 24 04:28:04 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+whitney  pts/5        Sun Oct 23 18:55:34 2016 - Mon Oct 24 02:55:32 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+richardsonhj pts/2        Sun Oct 23 18:49:37 2016 - Sun Oct 23 19:03:26 2016  (00:13)     67.235.110.125
+whitney  pts/4        Sun Oct 23 18:37:03 2016 - Mon Oct 24 02:37:01 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+windes   pts/3        Sun Oct 23 18:32:06 2016 - Sun Oct 23 21:40:07 2016  (03:08)     24-158-192-6.dhcp.kgpt.tn.charter.com
+richardsonhj pts/2        Sun Oct 23 18:30:39 2016 - Sun Oct 23 18:49:17 2016  (00:18)     67.235.110.125
+richardsonhj pts/5        Sun Oct 23 17:51:17 2016 - Sun Oct 23 18:46:23 2016  (00:55)     67.235.110.125
+winingerj pts/6        Sun Oct 23 16:34:36 2016 - Mon Oct 24 00:34:33 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+richardsonhj pts/3        Sun Oct 23 16:34:13 2016 - Sun Oct 23 18:06:47 2016  (01:32)     67.235.110.125
+richardsonhj pts/5        Sun Oct 23 16:08:26 2016 - Sun Oct 23 16:47:37 2016  (00:39)     67.235.110.125
+richardsonhj pts/2        Sun Oct 23 16:02:42 2016 - Sun Oct 23 18:03:24 2016  (02:00)     67.235.110.125
+windes   pts/4        Sun Oct 23 14:47:26 2016 - Sun Oct 23 17:57:22 2016  (03:09)     24-158-192-6.dhcp.kgpt.tn.charter.com
+windes   pts/4        Sun Oct 23 14:41:24 2016 - Sun Oct 23 14:47:02 2016  (00:05)     24-158-192-6.dhcp.kgpt.tn.charter.com
+winingerj pts/3        Sun Oct 23 13:34:45 2016 - Sun Oct 23 16:30:14 2016  (02:55)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+justust  pts/2        Sun Oct 23 13:18:49 2016 - Sun Oct 23 15:19:10 2016  (02:00)     c-50-142-55-54.hsd1.tn.comcast.net
+justust  pts/3        Sun Oct 23 11:25:29 2016 - Sun Oct 23 13:25:31 2016  (02:00)     c-50-142-55-54.hsd1.tn.comcast.net
+huy002   pts/2        Sun Oct 23 10:47:17 2016 - Sun Oct 23 13:00:37 2016  (02:13)     151.141.232.27
+justust  pts/1        Sun Oct 23 10:44:27 2016 - Sun Oct 23 11:25:15 2016  (00:40)     c-50-142-55-54.hsd1.tn.comcast.net
+justust  pts/3        Sun Oct 23 10:32:28 2016 - Sun Oct 23 11:00:29 2016  (00:28)     c-50-142-55-54.hsd1.tn.comcast.net
+huy002   pts/2        Sun Oct 23 10:17:02 2016 - Sun Oct 23 10:46:48 2016  (00:29)     151.141.232.27
+johnsonam4 pts/1        Sun Oct 23 09:14:08 2016 - Sun Oct 23 10:43:45 2016  (01:29)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+phil     pts/2        Sun Oct 23 00:15:22 2016 - Sun Oct 23 00:53:59 2016  (00:38)     etsu97964.etsu.edu
+phil     pts/1        Sat Oct 22 22:17:36 2016 - Sun Oct 23 02:07:29 2016  (03:49)     50-254-241-113-static.hfc.comcastbusiness.net
+carterns pts/5        Sat Oct 22 19:16:28 2016 - Sun Oct 23 03:16:25 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+gillilandr pts/7        Sat Oct 22 19:11:02 2016 - Sun Oct 23 03:11:00 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+carterns pts/6        Sat Oct 22 18:45:34 2016 - Sun Oct 23 02:45:32 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+carterns pts/5        Sat Oct 22 18:45:32 2016 - Sat Oct 22 19:16:25 2016  (00:30)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+windes   pts/4        Sat Oct 22 17:34:26 2016 - Sat Oct 22 22:56:51 2016  (05:22)     24-158-192-6.dhcp.kgpt.tn.charter.com
+sentellm pts/3        Sat Oct 22 17:20:53 2016 - Sun Oct 23 01:20:50 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+windes   pts/3        Sat Oct 22 16:04:01 2016 - Sat Oct 22 16:48:16 2016  (00:44)     24-158-192-6.dhcp.kgpt.tn.charter.com
+johnsonam4 pts/2        Sat Oct 22 14:50:04 2016 - Sat Oct 22 22:50:02 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+zmde1    pts/2        Sat Oct 22 14:36:17 2016 - Sat Oct 22 14:37:04 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+phil     pts/2        Sat Oct 22 13:00:50 2016 - Sat Oct 22 13:04:50 2016  (00:04)     50-254-241-113-static.hfc.comcastbusiness.net
+sentellm pts/1        Sat Oct 22 12:34:36 2016 - Sat Oct 22 20:34:34 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+windes   pts/0        Sat Oct 22 10:22:00 2016 - Sat Oct 22 16:03:38 2016  (05:41)     24-158-192-6.dhcp.kgpt.tn.charter.com
+windes   pts/0        Fri Oct 21 22:59:51 2016 - Fri Oct 21 23:22:38 2016  (00:22)     24-158-192-6.dhcp.kgpt.tn.charter.com
+pll      pts/3        Fri Oct 21 17:21:17 2016 - Fri Oct 21 23:08:53 2016  (05:47)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+sentellm pts/2        Fri Oct 21 15:24:04 2016 - Fri Oct 21 23:24:02 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+tarnoff  pts/2        Fri Oct 21 14:23:01 2016 - Fri Oct 21 14:44:07 2016  (00:21)     etsu908268.etsu.edu
+carterns pts/1        Fri Oct 21 11:31:17 2016 - Fri Oct 21 19:31:15 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+carterns pts/0        Fri Oct 21 11:31:15 2016 - Fri Oct 21 19:31:14 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+carterns pts/2        Fri Oct 21 03:00:17 2016 - Fri Oct 21 08:13:27 2016  (05:13)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+carterns pts/1        Fri Oct 21 03:00:17 2016 - Fri Oct 21 11:00:15 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+fraziered pts/1        Thu Oct 20 23:18:48 2016 - Thu Oct 20 23:19:55 2016  (00:01)     66-191-227-106.dhcp.kgpt.tn.charter.com
+gillilandr pts/0        Thu Oct 20 22:20:03 2016 - Fri Oct 21 06:20:00 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+leen01   pts/19       Thu Oct 20 20:16:51 2016 - Thu Oct 20 20:55:11 2016  (00:38)     151.141.218.107
+leen01   pts/18       Thu Oct 20 20:15:53 2016 - Thu Oct 20 20:33:32 2016  (00:17)     151.141.218.107
+leen01   pts/17       Thu Oct 20 19:28:49 2016 - Thu Oct 20 20:32:25 2016  (01:03)     151.141.218.107
+husaina  pts/17       Thu Oct 20 19:28:06 2016 - Thu Oct 20 19:28:39 2016  (00:00)     tn-76-7-190-166.dhcp.embarqhsd.net
+leen01   pts/16       Thu Oct 20 19:26:36 2016 - Thu Oct 20 21:38:53 2016  (02:12)     151.141.218.107
+leen01   pts/15       Thu Oct 20 19:10:47 2016 - Thu Oct 20 21:34:17 2016  (02:23)     151.141.218.107
+leen01   pts/15       Thu Oct 20 17:59:54 2016 - Thu Oct 20 18:40:23 2016  (00:40)     151.141.218.107
+sentellm pts/14       Thu Oct 20 16:44:27 2016 - Fri Oct 21 00:44:25 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+sentellm pts/8        Thu Oct 20 16:39:23 2016 - Fri Oct 21 00:39:19 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+bentleyp pts/13       Thu Oct 20 15:54:59 2016 - Thu Oct 20 23:54:57 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+bentleyp pts/12       Thu Oct 20 15:54:59 2016 - Thu Oct 20 23:54:56 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+root     pts/12       Thu Oct 20 15:31:02 2016 - Thu Oct 20 15:33:31 2016  (00:02)     :0.0
+daughertyb pts/11       Thu Oct 20 15:30:13 2016 - Thu Oct 20 23:30:11 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+daughertyb pts/10       Thu Oct 20 15:30:05 2016 - Thu Oct 20 23:30:02 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+root     tty1         Thu Oct 20 15:27:18 2016 - Thu Oct 20 15:33:45 2016  (00:06)     :0
+armstrongpz pts/10       Thu Oct 20 15:12:33 2016 - Thu Oct 20 15:18:30 2016  (00:05)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+sentellm pts/8        Thu Oct 20 15:07:56 2016 - Thu Oct 20 16:39:18 2016  (01:31)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+sentellm pts/9        Thu Oct 20 15:05:01 2016 - Thu Oct 20 23:04:59 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+sentellm pts/8        Thu Oct 20 15:04:59 2016 - Thu Oct 20 15:05:03 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+sentellm pts/2        Thu Oct 20 15:04:20 2016 - Thu Oct 20 23:04:21 2016  (08:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+sentellm pts/2        Thu Oct 20 14:59:04 2016 - Thu Oct 20 14:59:06 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+armstrongpz pts/8        Thu Oct 20 14:57:35 2016 - Thu Oct 20 14:57:36 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+armstrongpz pts/1        Thu Oct 20 14:44:39 2016 - Thu Oct 20 22:44:37 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+sentellm pts/1        Thu Oct 20 14:44:18 2016 - Thu Oct 20 14:44:23 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+sentellm pts/1        Thu Oct 20 14:33:30 2016 - Thu Oct 20 14:33:33 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+sloverd  pts/8        Thu Oct 20 14:33:18 2016 - Thu Oct 20 14:33:23 2016  (00:00)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+sloverd  pts/8        Thu Oct 20 14:31:20 2016 - Thu Oct 20 14:31:23 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+sloverd  pts/8        Thu Oct 20 14:24:42 2016 - Thu Oct 20 14:25:36 2016  (00:00)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+daughertyb pts/7        Thu Oct 20 14:23:45 2016 - Thu Oct 20 22:23:43 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+daughertyb pts/6        Thu Oct 20 14:22:39 2016 - Thu Oct 20 22:22:37 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+armstrongpz pts/6        Thu Oct 20 14:20:27 2016 - Thu Oct 20 14:20:29 2016  (00:00)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+sentellm pts/1        Thu Oct 20 14:18:13 2016 - Thu Oct 20 14:33:28 2016  (00:15)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+armstrongpz pts/1        Thu Oct 20 14:17:50 2016 - Thu Oct 20 14:17:54 2016  (00:00)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+armstrongpz pts/1        Thu Oct 20 14:17:21 2016 - Thu Oct 20 14:17:23 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+armstrongpz pts/1        Thu Oct 20 14:16:32 2016 - Thu Oct 20 14:16:33 2016  (00:00)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+sentellm pts/1        Thu Oct 20 14:15:49 2016 - Thu Oct 20 14:15:53 2016  (00:00)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+armstrongpz pts/7        Thu Oct 20 14:15:03 2016 - Thu Oct 20 14:16:32 2016  (00:01)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+sentellm pts/1        Thu Oct 20 14:15:03 2016 - Thu Oct 20 14:15:04 2016  (00:00)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+sloverd  pts/6        Thu Oct 20 14:14:53 2016 - Thu Oct 20 14:15:40 2016  (00:00)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+sloverd  pts/6        Thu Oct 20 14:14:21 2016 - Thu Oct 20 14:14:33 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+pll      pts/4        Thu Oct 20 14:14:19 2016 - Thu Oct 20 22:14:17 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+sentellm pts/1        Thu Oct 20 14:14:13 2016 - Thu Oct 20 14:15:00 2016  (00:00)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+sentellm pts/1        Thu Oct 20 14:14:02 2016 - Thu Oct 20 14:14:04 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+armstrongpz pts/1        Thu Oct 20 14:13:51 2016 - Thu Oct 20 14:13:52 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+sentellm pts/1        Thu Oct 20 14:13:23 2016 - Thu Oct 20 14:13:37 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+sentellm pts/1        Thu Oct 20 14:13:00 2016 - Thu Oct 20 14:13:17 2016  (00:00)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+armstrongpz pts/8        Thu Oct 20 14:12:41 2016 - Thu Oct 20 14:13:54 2016  (00:01)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+armstrongpz pts/7        Thu Oct 20 14:12:36 2016 - Thu Oct 20 14:12:42 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+armstrongpz pts/6        Thu Oct 20 14:12:36 2016 - Thu Oct 20 14:12:42 2016  (00:00)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+armstrongpz pts/2        Thu Oct 20 14:12:26 2016 - Thu Oct 20 14:57:35 2016  (00:45)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+armstrongpz pts/2        Thu Oct 20 14:12:08 2016 - Thu Oct 20 14:12:21 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+armstrongpz pts/5        Thu Oct 20 14:11:21 2016 - Thu Oct 20 22:11:19 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+buchanandc pts/5        Thu Oct 20 14:06:29 2016 - Thu Oct 20 14:08:48 2016  (00:02)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+armstrongpz pts/2        Thu Oct 20 13:51:02 2016 - Thu Oct 20 14:12:04 2016  (00:21)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+sloverd  pts/4        Thu Oct 20 13:38:40 2016 - Thu Oct 20 14:14:16 2016  (00:35)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+armstrongpz pts/3        Thu Oct 20 13:37:59 2016 - Thu Oct 20 21:37:57 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+armstrongpz pts/2        Thu Oct 20 13:33:46 2016 - Thu Oct 20 13:50:58 2016  (00:17)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+armstrongpz pts/2        Thu Oct 20 13:33:26 2016 - Thu Oct 20 13:33:43 2016  (00:00)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+sentellm pts/1        Thu Oct 20 13:33:14 2016 - Thu Oct 20 14:12:57 2016  (00:39)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+mckinneyla pts/0        Thu Oct 20 12:42:01 2016 - Thu Oct 20 20:41:59 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+zickgraf pts/0        Thu Oct 20 10:20:05 2016 - Thu Oct 20 10:23:49 2016  (00:03)     151.141.235.241
+carmackj pts/4        Thu Oct 20 08:54:43 2016 - Thu Oct 20 11:06:09 2016  (02:11)     151.141.218.108
+blevinsjt pts/2        Thu Oct 20 08:54:25 2016 - Thu Oct 20 08:55:34 2016  (00:01)     151.141.226.104
+fraziered pts/1        Thu Oct 20 08:50:21 2016 - Thu Oct 20 11:01:46 2016  (02:11)     151.141.229.187
+blumenstock pts/2        Thu Oct 20 08:19:00 2016 - Thu Oct 20 08:21:07 2016  (00:02)     gih10702.etsu.edu
+mcreynoldsh pts/0        Thu Oct 20 07:45:18 2016 - Thu Oct 20 09:56:33 2016  (02:11)     151.141.168.103
+burdettj pts/3        Thu Oct 20 06:53:59 2016 - Thu Oct 20 09:22:41 2016  (02:28)     24-159-41-86.static.kgpt.tn.charter.com
+hessl    pts/2        Thu Oct 20 06:48:53 2016 - Thu Oct 20 06:56:27 2016  (00:07)     97-81-12-180.dhcp.kgpt.tn.charter.com
+burdettj pts/1        Thu Oct 20 06:37:13 2016 - Thu Oct 20 08:46:16 2016  (02:09)     24-159-41-86.static.kgpt.tn.charter.com
+hessl    pts/0        Thu Oct 20 06:27:02 2016 - Thu Oct 20 07:04:43 2016  (00:37)     97-81-12-180.dhcp.kgpt.tn.charter.com
+hessl    pts/2        Thu Oct 20 05:53:53 2016 - Thu Oct 20 06:42:16 2016  (00:48)     97-81-12-180.dhcp.kgpt.tn.charter.com
+hessl    pts/0        Thu Oct 20 05:42:22 2016 - Thu Oct 20 06:08:33 2016  (00:26)     97-81-12-180.dhcp.kgpt.tn.charter.com
+hessl    pts/1        Thu Oct 20 05:07:12 2016 - Thu Oct 20 05:57:57 2016  (00:50)     97-81-12-180.dhcp.kgpt.tn.charter.com
+phil     pts/0        Thu Oct 20 04:18:58 2016 - Thu Oct 20 05:14:05 2016  (00:55)     tn-76-7-147-33.dhcp.embarqhsd.net
+blumenstock pts/0        Thu Oct 20 02:56:10 2016 - Thu Oct 20 02:57:05 2016  (00:00)     71-88-219-102.dhcp.kgpt.tn.charter.com
+blumenstock pts/1        Thu Oct 20 02:52:19 2016 - Thu Oct 20 02:53:17 2016  (00:00)     71-88-219-102.dhcp.kgpt.tn.charter.com
+blumenstock pts/3        Thu Oct 20 02:19:48 2016 - Thu Oct 20 02:42:18 2016  (00:22)     71-88-219-102.dhcp.kgpt.tn.charter.com
+blumenstock pts/2        Thu Oct 20 01:42:23 2016 - Thu Oct 20 02:35:13 2016  (00:52)     71-88-219-102.dhcp.kgpt.tn.charter.com
+blumenstock pts/3        Thu Oct 20 01:14:12 2016 - Thu Oct 20 01:57:50 2016  (00:43)     71-88-219-102.dhcp.kgpt.tn.charter.com
+blumenstock pts/2        Thu Oct 20 00:46:51 2016 - Thu Oct 20 01:29:31 2016  (00:42)     71-88-219-102.dhcp.kgpt.tn.charter.com
+phil     pts/0        Thu Oct 20 00:39:05 2016 - Thu Oct 20 02:54:58 2016  (02:15)     tn-76-7-147-33.dhcp.embarqhsd.net
+daughertyb pts/4        Wed Oct 19 23:57:11 2016 - Thu Oct 20 02:08:56 2016  (02:11)     c-73-19-243-5.hsd1.tn.comcast.net
+hessl    pts/3        Wed Oct 19 23:48:54 2016 - Thu Oct 20 00:18:57 2016  (00:30)     97-81-12-180.dhcp.kgpt.tn.charter.com
+clarkhs  pts/2        Wed Oct 19 23:33:31 2016 - Thu Oct 20 00:08:28 2016  (00:34)     24-158-143-165.dhcp.kgpt.tn.charter.com
+munseymk pts/1        Wed Oct 19 23:30:42 2016 - Thu Oct 20 02:30:36 2016  (02:59)     192.168.211.44
+hessl    pts/0        Wed Oct 19 23:28:15 2016 - Thu Oct 20 00:03:24 2016  (00:35)     97-81-12-180.dhcp.kgpt.tn.charter.com
+daughertyb pts/18       Wed Oct 19 22:54:24 2016 - Thu Oct 20 01:56:58 2016  (03:02)     c-73-19-243-5.hsd1.tn.comcast.net
+hessl    pts/16       Wed Oct 19 22:53:37 2016 - Wed Oct 19 23:23:29 2016  (00:29)     97-81-12-180.dhcp.kgpt.tn.charter.com
+clarkhs  pts/4        Wed Oct 19 22:53:20 2016 - Wed Oct 19 23:49:13 2016  (00:55)     24-158-143-165.dhcp.kgpt.tn.charter.com
+jinkst   pts/3        Wed Oct 19 22:50:15 2016 - Wed Oct 19 23:06:56 2016  (00:16)     189.sub-174-196-131.myvzw.com
+hessl    pts/2        Wed Oct 19 22:46:28 2016 - Wed Oct 19 23:09:01 2016  (00:22)     97-81-12-180.dhcp.kgpt.tn.charter.com
+daughertyb pts/5        Wed Oct 19 22:25:00 2016 - Wed Oct 19 23:10:07 2016  (00:45)     c-73-19-243-5.hsd1.tn.comcast.net
+hessl    pts/3        Wed Oct 19 22:15:29 2016 - Wed Oct 19 22:45:34 2016  (00:30)     97-81-12-180.dhcp.kgpt.tn.charter.com
+jinkst   pts/9        Wed Oct 19 22:10:54 2016 - Wed Oct 19 23:06:26 2016  (00:55)     189.sub-174-196-131.myvzw.com
+zamc48   pts/8        Wed Oct 19 22:08:36 2016 - Wed Oct 19 23:49:42 2016  (01:41)     96.33.221.136
+daughertyb pts/5        Wed Oct 19 22:04:02 2016 - Wed Oct 19 22:24:46 2016  (00:20)     c-73-19-243-5.hsd1.tn.comcast.net
+husaina  pts/4        Wed Oct 19 21:46:52 2016 - Wed Oct 19 22:37:27 2016  (00:50)     tn-76-7-190-166.dhcp.embarqhsd.net
+jacksonre pts/3        Wed Oct 19 21:43:39 2016 - Wed Oct 19 22:11:52 2016  (00:28)     rnh49207.etsu.edu
+leen01   pts/2        Wed Oct 19 21:09:47 2016 - Wed Oct 19 22:29:18 2016  (01:19)     151.141.216.30
+jinkst   pts/2        Wed Oct 19 20:40:07 2016 - Wed Oct 19 20:40:44 2016  (00:00)     189.sub-174-196-131.myvzw.com
+daughertyb pts/16       Wed Oct 19 20:19:03 2016 - Wed Oct 19 22:19:55 2016  (02:00)     c-73-19-243-5.hsd1.tn.comcast.net
+carrollf pts/11       Wed Oct 19 20:10:19 2016 - Thu Oct 20 04:10:17 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+carterns pts/14       Wed Oct 19 20:06:31 2016 - Thu Oct 20 04:06:27 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+zmde1    pts/12       Wed Oct 19 20:06:31 2016 - Thu Oct 20 04:06:27 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+mckinneyla pts/6        Wed Oct 19 20:06:31 2016 - Thu Oct 20 04:06:27 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+coalsonc pts/12       Wed Oct 19 19:49:15 2016 - Wed Oct 19 20:02:31 2016  (00:13)     66.87.152.62
+phil     pts/11       Wed Oct 19 19:13:51 2016 - Wed Oct 19 20:07:57 2016  (00:54)     rnh49123.etsu.edu
+carrollf pts/10       Wed Oct 19 19:12:18 2016 - Thu Oct 20 03:12:15 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+zcee10   pts/9        Wed Oct 19 19:03:10 2016 - Wed Oct 19 21:01:35 2016  (01:58)     rnh49205.etsu.edu
+jacksonre pts/8        Wed Oct 19 19:02:05 2016 - Wed Oct 19 21:43:14 2016  (02:41)     rnh49207.etsu.edu
+daughertyb pts/5        Wed Oct 19 18:59:25 2016 - Wed Oct 19 20:34:33 2016  (01:35)     c-73-19-243-5.hsd1.tn.comcast.net
+harmanc  pts/41       Wed Oct 19 18:44:50 2016 - Wed Oct 19 18:45:05 2016  (00:00)     rnh49107.etsu.edu
+kilpatrickc pts/40       Wed Oct 19 18:42:14 2016 - Thu Oct 20 02:42:12 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+kilpatrickc pts/39       Wed Oct 19 18:42:14 2016 - Wed Oct 19 23:25:33 2016  (04:43)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+daymj1   pts/38       Wed Oct 19 18:41:40 2016 - Thu Oct 20 02:41:38 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+zmde1    pts/37       Wed Oct 19 18:41:36 2016 - Wed Oct 19 20:06:27 2016  (01:24)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+winingerj pts/35       Wed Oct 19 18:41:29 2016 - Thu Oct 20 02:41:27 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+rochellew pts/33       Wed Oct 19 18:41:24 2016 - Thu Oct 20 02:41:22 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+jinkst   pts/31       Wed Oct 19 18:41:18 2016 - Thu Oct 20 02:41:16 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+mckinneyla pts/21       Wed Oct 19 18:41:15 2016 - Wed Oct 19 20:06:27 2016  (01:25)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+harmanc  pts/11       Wed Oct 19 18:17:12 2016 - Wed Oct 19 18:45:04 2016  (00:27)     rnh49107.etsu.edu
+harmanc  pts/11       Wed Oct 19 18:15:29 2016 - Wed Oct 19 18:17:08 2016  (00:01)     rnh49107.etsu.edu
+harmanc  pts/11       Wed Oct 19 18:13:23 2016 - Wed Oct 19 18:13:36 2016  (00:00)     rnh49107.etsu.edu
+whitney  pts/36       Wed Oct 19 17:49:46 2016 - Wed Oct 19 23:25:33 2016  (05:35)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+zickgraf pts/35       Wed Oct 19 17:48:56 2016 - Wed Oct 19 18:07:26 2016  (00:18)     rnh49208.etsu.edu
+daughertyb pts/34       Wed Oct 19 17:47:26 2016 - Wed Oct 19 19:13:44 2016  (01:26)     c-73-19-243-5.hsd1.tn.comcast.net
+mistrettam pts/33       Wed Oct 19 17:34:50 2016 - Wed Oct 19 18:32:51 2016  (00:58)     rnh49220.etsu.edu
+coalsonc pts/32       Wed Oct 19 17:34:15 2016 - Wed Oct 19 20:34:03 2016  (02:59)     75-139-7-92.dhcp.kgpt.tn.charter.com
+daughertyb pts/31       Wed Oct 19 17:29:58 2016 - Wed Oct 19 18:01:55 2016  (00:31)     c-73-19-243-5.hsd1.tn.comcast.net
+jinkst   pts/30       Wed Oct 19 17:20:17 2016 - Thu Oct 20 01:20:15 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+scottbc  pts/26       Wed Oct 19 17:19:59 2016 - Wed Oct 19 18:47:59 2016  (01:28)     rnh49120.etsu.edu
+butlerjm1 pts/29       Wed Oct 19 17:08:20 2016 - Wed Oct 19 20:08:26 2016  (03:00)     rnh49118.etsu.edu
+phil     pts/28       Wed Oct 19 17:08:09 2016 - Wed Oct 19 18:47:39 2016  (01:39)     rnh49123.etsu.edu
+carrollf pts/27       Wed Oct 19 17:03:47 2016 - Thu Oct 20 01:03:45 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+scottbc  pts/26       Wed Oct 19 17:03:44 2016 - Wed Oct 19 17:14:41 2016  (00:10)     rnh49120.etsu.edu
+zndh4    pts/25       Wed Oct 19 16:58:45 2016 - Wed Oct 19 18:47:23 2016  (01:48)     rnh49114.etsu.edu
+hornja   pts/24       Wed Oct 19 16:58:02 2016 - Wed Oct 19 18:47:27 2016  (01:49)     rnh49129.etsu.edu
+carrollf pts/23       Wed Oct 19 16:55:15 2016 - Thu Oct 20 00:55:13 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+gardnerkl pts/22       Wed Oct 19 16:54:22 2016 - Wed Oct 19 18:47:08 2016  (01:52)     rnh49117.etsu.edu
+harmanc  pts/21       Wed Oct 19 16:53:31 2016 - Wed Oct 19 18:13:17 2016  (01:19)     rnh49107.etsu.edu
+leen01   pts/20       Wed Oct 19 16:52:27 2016 - Wed Oct 19 18:47:36 2016  (01:55)     rnh49119.etsu.edu
+acerom   pts/19       Wed Oct 19 16:51:49 2016 - Wed Oct 19 18:47:32 2016  (01:55)     rnh49113.etsu.edu
+dunns2   pts/18       Wed Oct 19 16:51:42 2016 - Wed Oct 19 18:47:20 2016  (01:55)     rnh49103.etsu.edu
+mckinneyla pts/17       Wed Oct 19 16:50:55 2016 - Thu Oct 20 00:50:53 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+scruggsg pts/16       Wed Oct 19 16:48:25 2016 - Wed Oct 19 18:47:32 2016  (01:59)     rnh49125.etsu.edu
+jinkst   pts/15       Wed Oct 19 16:48:13 2016 - Thu Oct 20 00:48:11 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+zmde1    pts/15       Wed Oct 19 16:46:50 2016 - Wed Oct 19 16:47:00 2016  (00:00)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+huy002   pts/14       Wed Oct 19 16:46:46 2016 - Wed Oct 19 18:47:33 2016  (02:00)     rnh49128.etsu.edu
+reesehp  pts/13       Wed Oct 19 16:45:44 2016 - Thu Oct 20 00:45:42 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+huberd   pts/12       Wed Oct 19 16:45:28 2016 - Wed Oct 19 18:45:23 2016  (01:59)     rnh49111.etsu.edu
+justust  pts/11       Wed Oct 19 16:44:17 2016 - Wed Oct 19 18:02:48 2016  (01:18)     rnh49115.etsu.edu
+minneci  pts/10       Wed Oct 19 16:42:48 2016 - Wed Oct 19 18:46:56 2016  (02:04)     rnh49112.etsu.edu
+windes   pts/9        Wed Oct 19 16:39:34 2016 - Wed Oct 19 18:47:25 2016  (02:07)     rnh49109.etsu.edu
+richardsonhj pts/8        Wed Oct 19 16:39:15 2016 - Wed Oct 19 18:45:01 2016  (02:05)     rnh49110.etsu.edu
+johnsonam4 pts/7        Wed Oct 19 16:39:04 2016 - Thu Oct 20 00:39:02 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+hilemanc pts/5        Wed Oct 19 16:39:04 2016 - Wed Oct 19 18:47:22 2016  (02:08)     rnh49101.etsu.edu
+clarkhs  pts/5        Wed Oct 19 16:36:06 2016 - Wed Oct 19 16:36:16 2016  (00:00)     151.141.246.187
+gillilandr pts/0        Wed Oct 19 16:25:34 2016 - Wed Oct 19 23:25:33 2016  (06:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+richardsonhj pts/0        Wed Oct 19 16:05:57 2016 - Wed Oct 19 16:16:48 2016  (00:10)     rnh49009.etsu.edu
+richardsonhj pts/7        Wed Oct 19 15:53:39 2016 - Wed Oct 19 16:05:12 2016  (00:11)     rnh49009.etsu.edu
+jinkst   pts/5        Wed Oct 19 15:47:01 2016 - Wed Oct 19 16:30:25 2016  (00:43)     189.sub-174-196-131.myvzw.com
+hornja   pts/5        Wed Oct 19 15:04:09 2016 - Wed Oct 19 15:28:48 2016  (00:24)     c-68-57-94-130.hsd1.tn.comcast.net
+carterns pts/1        Wed Oct 19 15:02:46 2016 - Wed Oct 19 23:02:43 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+test1    pts/8        Wed Oct 19 14:33:18 2016 - Thu Oct 20 14:43:23 2016  (1+00:10)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+carterns pts/6        Wed Oct 19 12:58:24 2016 - Wed Oct 19 20:06:27 2016  (07:08)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+carterns pts/5        Wed Oct 19 12:58:24 2016 - Wed Oct 19 15:02:43 2016  (02:04)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+sentellm pts/4        Wed Oct 19 12:56:08 2016 - Wed Oct 19 20:56:06 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+carterns pts/3        Wed Oct 19 12:29:05 2016 - Wed Oct 19 20:29:03 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+carterns pts/2        Wed Oct 19 12:29:03 2016 - Wed Oct 19 20:29:01 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+burdettj pts/1        Wed Oct 19 12:15:15 2016 - Wed Oct 19 14:22:43 2016  (02:07)     24-159-41-86.static.kgpt.tn.charter.com
+mistrettam pts/2        Wed Oct 19 10:20:37 2016 - Wed Oct 19 10:22:07 2016  (00:01)     rnh49205.etsu.edu
+burdettj pts/1        Wed Oct 19 09:05:10 2016 - Wed Oct 19 11:06:04 2016  (02:00)     24-159-41-86.static.kgpt.tn.charter.com
+jinkst   pts/0        Wed Oct 19 08:04:45 2016 - Wed Oct 19 16:04:43 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+phil     pts/0        Wed Oct 19 04:45:12 2016 - Wed Oct 19 06:09:16 2016  (01:24)     etsu96179.etsu.edu
+phil     pts/0        Wed Oct 19 03:34:07 2016 - Wed Oct 19 04:44:58 2016  (01:10)     tn-76-7-147-33.dhcp.embarqhsd.net
+hornja   pts/0        Wed Oct 19 00:36:10 2016 - Wed Oct 19 00:52:46 2016  (00:16)     c-68-57-94-130.hsd1.tn.comcast.net
+daughertyb pts/1        Tue Oct 18 22:16:17 2016 - Tue Oct 18 22:44:33 2016  (00:28)     c-73-19-243-5.hsd1.tn.comcast.net
+daughertyb pts/2        Tue Oct 18 21:56:47 2016 - Tue Oct 18 22:31:52 2016  (00:35)     c-73-19-243-5.hsd1.tn.comcast.net
+daughertyb pts/1        Tue Oct 18 21:36:56 2016 - Tue Oct 18 22:11:53 2016  (00:34)     c-73-19-243-5.hsd1.tn.comcast.net
+daughertyb pts/1        Tue Oct 18 21:33:37 2016 - Tue Oct 18 21:34:59 2016  (00:01)     c-73-19-243-5.hsd1.tn.comcast.net
+daughertyb pts/7        Tue Oct 18 20:17:00 2016 - Tue Oct 18 20:36:56 2016  (00:19)     c-73-19-243-5.hsd1.tn.comcast.net
+friendc  pts/5        Tue Oct 18 20:06:17 2016 - Tue Oct 18 21:07:34 2016  (01:01)
+daughertyb pts/7        Tue Oct 18 19:51:39 2016 - Tue Oct 18 20:06:25 2016  (00:14)
+daughertyb pts/2        Tue Oct 18 19:50:11 2016 - Tue Oct 18 20:31:46 2016  (00:41)     c-73-19-243-5.hsd1.tn.comcast.net
+daughertyb pts/7        Tue Oct 18 19:35:46 2016 - Tue Oct 18 19:40:42 2016  (00:04)
+friendc  pts/6        Tue Oct 18 19:31:48 2016 - Tue Oct 18 21:12:52 2016  (01:41)     192.168.216.191
+daughertyb pts/5        Tue Oct 18 19:30:23 2016 - Tue Oct 18 20:05:07 2016  (00:34)     c-73-19-243-5.hsd1.tn.comcast.net
+daughertyb pts/5        Tue Oct 18 19:26:38 2016 - Tue Oct 18 19:26:52 2016  (00:00)     c-73-19-243-5.hsd1.tn.comcast.net
+fraziered pts/5        Tue Oct 18 19:13:14 2016 - Tue Oct 18 19:18:02 2016  (00:04)
+fraziered pts/2        Tue Oct 18 18:50:14 2016 - Tue Oct 18 19:44:08 2016  (00:53)     66-191-227-106.dhcp.kgpt.tn.charter.com
+jacksonre pts/4        Tue Oct 18 18:40:12 2016 - Tue Oct 18 20:37:11 2016  (01:56)     rnh49018.etsu.edu
+jacksonre pts/4        Tue Oct 18 18:39:22 2016 - Tue Oct 18 18:39:30 2016  (00:00)     rnh49018.etsu.edu
+scottbc  pts/2        Tue Oct 18 18:38:21 2016 - Tue Oct 18 18:47:58 2016  (00:09)     fttu-67-223-13-130.btes.tv
+jinkst   pts/1        Tue Oct 18 18:35:22 2016 - Tue Oct 18 20:35:53 2016  (02:00)     rnh49017.etsu.edu
+mcreynoldsh pts/1        Tue Oct 18 16:52:13 2016 - Tue Oct 18 16:52:44 2016  (00:00)     c-50-142-119-96.hsd1.tn.comcast.net
+hornja   pts/1        Tue Oct 18 15:58:21 2016 - Tue Oct 18 16:43:22 2016  (00:45)     73.88.222.58
+jinkst   pts/0        Tue Oct 18 15:54:12 2016 - Tue Oct 18 23:54:10 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+hornja   pts/1        Tue Oct 18 15:17:50 2016 - Tue Oct 18 15:58:05 2016  (00:40)     73.88.222.58
+zdrb27   pts/2        Tue Oct 18 14:58:20 2016 - Tue Oct 18 15:28:26 2016  (00:30)     c-76-23-92-48.hsd1.tn.comcast.net
+zdrb27   pts/5        Tue Oct 18 14:52:12 2016 - Tue Oct 18 15:14:25 2016  (00:22)     c-76-23-92-48.hsd1.tn.comcast.net
+fraziered pts/0        Tue Oct 18 14:45:57 2016 - Tue Oct 18 15:42:14 2016  (00:56)     66-191-227-106.dhcp.kgpt.tn.charter.com
+fraziered pts/0        Tue Oct 18 14:43:02 2016 - Tue Oct 18 14:45:28 2016  (00:02)     66-191-227-106.dhcp.kgpt.tn.charter.com
+zdrb27   pts/1        Tue Oct 18 14:40:24 2016 - Tue Oct 18 15:08:26 2016  (00:28)     c-76-23-92-48.hsd1.tn.comcast.net
+justust  pts/4        Tue Oct 18 14:23:30 2016 - Tue Oct 18 15:20:02 2016  (00:56)     151.141.230.198
+johnsonam4 pts/3        Tue Oct 18 14:21:33 2016 - Tue Oct 18 22:21:31 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+zdrb27   pts/2        Tue Oct 18 14:20:49 2016 - Tue Oct 18 14:56:20 2016  (00:35)     c-76-23-92-48.hsd1.tn.comcast.net
+justust  pts/2        Tue Oct 18 14:19:10 2016 - Tue Oct 18 14:19:38 2016  (00:00)     151.141.230.198
+justust  pts/2        Tue Oct 18 14:16:12 2016 - Tue Oct 18 14:17:15 2016  (00:01)     151.141.230.198
+zdrb27   pts/1        Tue Oct 18 14:13:37 2016 - Tue Oct 18 14:36:47 2016  (00:23)     c-76-23-92-48.hsd1.tn.comcast.net
+zcee10   pts/0        Tue Oct 18 14:06:04 2016 - Tue Oct 18 14:42:40 2016  (00:36)     etsu905931.etsu.edu
+greenenm pts/3        Tue Oct 18 12:18:05 2016 - Tue Oct 18 13:48:04 2016  (01:29)
+greenenm pts/2        Tue Oct 18 12:12:54 2016 - Tue Oct 18 13:48:27 2016  (01:35)     151.141.245.217
+fraziered pts/0        Tue Oct 18 12:05:46 2016 - Tue Oct 18 12:56:46 2016  (00:51)     151.141.165.101
+daughertyb pts/1        Tue Oct 18 10:39:41 2016 - Tue Oct 18 13:35:40 2016  (02:55)     151.141.204.216
+hessl    pts/52       Tue Oct 18 09:49:12 2016 - Tue Oct 18 11:45:51 2016  (01:56)     rnh49115.etsu.edu
+hessl    pts/18       Tue Oct 18 09:44:39 2016 - Tue Oct 18 11:28:11 2016  (01:43)
+hessl    pts/0        Tue Oct 18 09:44:12 2016 - Tue Oct 18 11:45:44 2016  (02:01)     rnh49115.etsu.edu
+carmackj pts/51       Tue Oct 18 09:34:52 2016 - Tue Oct 18 09:53:20 2016  (00:18)     rnh49108.etsu.edu
+mistrettam pts/50       Tue Oct 18 09:24:17 2016 - Wed Oct 26 17:20:30 2016 (8+07:56)
+mistrettam pts/49       Tue Oct 18 09:22:15 2016 - Tue Oct 18 10:22:57 2016  (01:00)     rnh49121.etsu.edu
+fraziered pts/48       Tue Oct 18 09:19:21 2016 - Tue Oct 18 10:04:59 2016  (00:45)
+zcmc53   pts/47       Tue Oct 18 09:12:16 2016 - Tue Oct 18 10:04:17 2016  (00:52)
+daughertyb pts/29       Tue Oct 18 09:12:00 2016 - Tue Oct 18 10:25:34 2016  (01:13)
+zcmc53   pts/46       Tue Oct 18 09:10:48 2016 - Tue Oct 18 10:06:23 2016  (00:55)     rnh49111.etsu.edu
+fraziered pts/45       Tue Oct 18 09:10:13 2016 - Tue Oct 18 10:06:57 2016  (00:56)     rnh49119.etsu.edu
+greenenm pts/44       Tue Oct 18 09:07:46 2016 - Tue Oct 18 11:03:43 2016  (01:55)
+friendc  pts/25       Tue Oct 18 09:07:08 2016 - Tue Oct 18 10:04:18 2016  (00:57)
+friendc  pts/43       Tue Oct 18 09:07:04 2016 - Tue Oct 18 11:35:01 2016  (02:27)     151.141.226.13
+jacksonre pts/42       Tue Oct 18 09:06:43 2016 - Tue Oct 18 11:05:25 2016  (01:58)
+jacksonre pts/41       Tue Oct 18 09:06:13 2016 - Tue Oct 18 11:05:37 2016  (01:59)     rnh49113.etsu.edu
+blevinsjt pts/40       Tue Oct 18 09:06:11 2016 - Tue Oct 18 10:06:07 2016  (00:59)
+burdettj pts/39       Tue Oct 18 09:05:59 2016 - Wed Oct 19 18:42:14 2016 (1+09:36)
+carmackj pts/38       Tue Oct 18 09:05:53 2016 - Tue Oct 18 09:49:27 2016  (00:43)
+carmackj pts/37       Tue Oct 18 09:05:48 2016 - Tue Oct 18 09:53:14 2016  (00:47)     rnh49108.etsu.edu
+pucketto pts/36       Tue Oct 18 09:05:47 2016 - Tue Oct 18 09:55:15 2016  (00:49)
+mcreynoldsh pts/34       Tue Oct 18 09:05:45 2016 - Tue Oct 18 10:28:10 2016  (01:22)
+munseymk pts/35       Tue Oct 18 09:05:41 2016 - Wed Oct 19 17:48:56 2016 (1+08:43)
+blevinsjt pts/34       Tue Oct 18 09:05:40 2016 - Tue Oct 18 09:05:44 2016  (00:00)
+zdrb27   pts/33       Tue Oct 18 09:05:36 2016 - Tue Oct 18 10:15:45 2016  (01:10)
+hardyj   pts/32       Tue Oct 18 09:05:33 2016 - Tue Oct 18 10:05:18 2016  (00:59)
+pecorini pts/31       Tue Oct 18 09:05:28 2016 - Tue Oct 18 09:58:33 2016  (00:53)
+zickgraf pts/30       Tue Oct 18 09:05:28 2016 - Tue Oct 18 10:01:44 2016  (00:56)
+daughertyb pts/29       Tue Oct 18 09:05:21 2016 - Tue Oct 18 09:11:22 2016  (00:06)
+mcreynoldsh pts/28       Tue Oct 18 09:05:20 2016 - Tue Oct 18 10:28:15 2016  (01:22)     rnh49110.etsu.edu
+johnsonam4 pts/27       Tue Oct 18 09:05:18 2016 - Tue Oct 18 10:06:18 2016  (01:01)
+clarkhs  pts/26       Tue Oct 18 09:05:13 2016 - Tue Oct 18 09:52:13 2016  (00:47)
+greenenm pts/25       Tue Oct 18 09:05:04 2016 - Tue Oct 18 09:07:07 2016  (00:02)
+mckinneyla pts/24       Tue Oct 18 09:05:02 2016 - Tue Oct 18 10:01:40 2016  (00:56)
+zamc48   pts/23       Tue Oct 18 09:05:02 2016 - Tue Oct 18 10:06:03 2016  (01:01)
+jinkst   pts/22       Tue Oct 18 09:05:00 2016 - Tue Oct 18 09:58:55 2016  (00:53)
+clarkhs  pts/21       Tue Oct 18 09:04:54 2016 - Tue Oct 18 09:53:46 2016  (00:48)     rnh49107.etsu.edu
+husaina  pts/20       Tue Oct 18 09:04:46 2016 - Tue Oct 18 10:07:29 2016  (01:02)
+johnsonbw pts/19       Tue Oct 18 09:04:44 2016 - Tue Oct 18 10:04:36 2016  (00:59)
+zcee10   pts/18       Tue Oct 18 09:04:35 2016 - Tue Oct 18 09:40:42 2016  (00:36)
+greenenm pts/17       Tue Oct 18 09:02:33 2016 - Tue Oct 18 11:05:07 2016  (02:02)     rnh49114.etsu.edu
+mckinneyla pts/16       Tue Oct 18 09:02:24 2016 - Tue Oct 18 10:01:51 2016  (00:59)     rnh49128.etsu.edu
+burdettj pts/15       Tue Oct 18 09:00:14 2016 - Tue Oct 18 09:53:06 2016  (00:52)     rnh49109.etsu.edu
+daughertyb pts/14       Tue Oct 18 09:00:12 2016 - Tue Oct 18 10:25:51 2016  (01:25)     rnh49112.etsu.edu
+pecorini pts/13       Tue Oct 18 08:59:49 2016 - Tue Oct 18 10:01:53 2016  (01:02)     rnh49129.etsu.edu
+munseymk pts/8        Tue Oct 18 08:59:06 2016 - Tue Oct 18 09:59:02 2016  (00:59)     rnh49130.etsu.edu
+zamc48   pts/12       Tue Oct 18 08:58:38 2016 - Tue Oct 18 10:06:08 2016  (01:07)     rnh49101.etsu.edu
+johnsonbw pts/11       Tue Oct 18 08:58:20 2016 - Tue Oct 18 10:04:37 2016  (01:06)     rnh49118.etsu.edu
+barrettm pts/10       Tue Oct 18 08:58:15 2016 - Tue Oct 18 10:16:00 2016  (01:17)     rnh49123.etsu.edu
+husaina  pts/9        Tue Oct 18 08:58:12 2016 - Tue Oct 18 10:07:30 2016  (01:09)     rnh49104.etsu.edu
+munseymk pts/8        Tue Oct 18 08:58:08 2016 - Tue Oct 18 08:59:00 2016  (00:00)     rnh49130.etsu.edu
+pucketto pts/7        Tue Oct 18 08:56:52 2016 - Tue Oct 18 09:56:22 2016  (00:59)     rnh49131.etsu.edu
+blevinsjt pts/6        Tue Oct 18 08:55:53 2016 - Tue Oct 18 10:07:52 2016  (01:11)     rnh49120.etsu.edu
+zdrb27   pts/5        Tue Oct 18 08:54:10 2016 - Tue Oct 18 10:15:49 2016  (01:21)     rnh49117.etsu.edu
+hardyj   pts/4        Tue Oct 18 08:54:01 2016 - Tue Oct 18 10:06:29 2016  (01:12)     rnh49126.etsu.edu
+zickgraf pts/3        Tue Oct 18 08:53:48 2016 - Tue Oct 18 10:02:25 2016  (01:08)     rnh49127.etsu.edu
+jinkst   pts/2        Tue Oct 18 08:50:51 2016 - Tue Oct 18 10:08:43 2016  (01:17)     rnh49105.etsu.edu
+johnsonam4 pts/1        Tue Oct 18 08:48:23 2016 - Tue Oct 18 10:07:22 2016  (01:18)     rnh49103.etsu.edu
+zcee10   pts/0        Tue Oct 18 08:47:02 2016 - Tue Oct 18 09:41:17 2016  (00:54)     rnh49102.etsu.edu
+test1    pts/8        Tue Oct 18 08:33:18 2016 - Thu Oct 19 09:43:23 2016  (1+01:10)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+test     pts/8        Tue Oct 18 08:33:18 2016 - Thu Oct 19 09:43:23 2016  (1+01:10)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+phil     pts/0        Tue Oct 18 05:08:45 2016 - Tue Oct 18 05:23:02 2016  (00:14)     tn-76-7-147-33.dhcp.embarqhsd.net
+zickgraf pts/3        Tue Oct 18 01:31:01 2016 - Tue Oct 18 01:31:03 2016  (00:00)     97-81-9-204.dhcp.kgpt.tn.charter.com
+zickgraf pts/4        Tue Oct 18 01:20:13 2016 - Tue Oct 18 01:46:35 2016  (00:26)     97-81-9-204.dhcp.kgpt.tn.charter.com
+phil     pts/5        Tue Oct 18 00:22:32 2016 - Tue Oct 18 01:42:56 2016  (01:20)     tn-76-7-147-33.dhcp.embarqhsd.net
+zndh4    pts/8        Mon Oct 17 23:48:31 2016 - Tue Oct 18 00:15:19 2016  (00:26)     96-33-23-18.dhcp.jcsn.tn.charter.com
+scottbc  pts/7        Mon Oct 17 23:02:25 2016 - Tue Oct 18 00:38:59 2016  (01:36)     libshl126.etsu.edu
+scottbc  pts/7        Mon Oct 17 22:05:22 2016 - Mon Oct 17 22:50:21 2016  (00:44)     rnh49010.etsu.edu
+hilemanc pts/8        Mon Oct 17 20:47:44 2016 - Mon Oct 17 20:50:06 2016  (00:02)     c-68-32-233-159.hsd1.va.comcast.net
+minneci  pts/9        Mon Oct 17 20:38:15 2016 - Mon Oct 17 21:49:41 2016  (01:11)     207.109.93.4
+hilemanc pts/8        Mon Oct 17 20:37:11 2016 - Mon Oct 17 20:44:53 2016  (00:07)     c-68-32-233-159.hsd1.va.comcast.net
+acerom   pts/5        Mon Oct 17 20:35:29 2016 - Tue Oct 18 00:14:49 2016  (03:39)     75-136-215-39.dhcp.kgpt.tn.charter.com
+acerom   pts/7        Mon Oct 17 20:07:30 2016 - Mon Oct 17 20:56:25 2016  (00:48)     75-136-215-39.dhcp.kgpt.tn.charter.com
+johnsonam4 pts/6        Mon Oct 17 20:04:23 2016 - Tue Oct 18 04:04:21 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+dunns2   pts/5        Mon Oct 17 20:03:43 2016 - Mon Oct 17 20:14:15 2016  (00:10)     192.168.226.47
+jinkst   pts/2        Mon Oct 17 18:44:49 2016 - Tue Oct 18 02:10:17 2016  (07:25)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+gardnerkl pts/2        Mon Oct 17 18:31:12 2016 - Mon Oct 17 18:36:38 2016  (00:05)     rnh49117.etsu.edu
+gardnerkl pts/0        Mon Oct 17 18:27:47 2016 - Tue Oct 18 02:10:17 2016  (07:42)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+gardnerkl pts/4        Mon Oct 17 18:22:30 2016 - Tue Oct 18 01:10:44 2016  (06:48)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+gardnerkl pts/3        Mon Oct 17 18:17:14 2016 - Tue Oct 18 01:20:46 2016  (07:03)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+johnsonam4 pts/1        Mon Oct 17 17:53:00 2016 - Tue Oct 18 01:52:57 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+gardnerkl pts/16       Mon Oct 17 17:25:17 2016 - Mon Oct 17 18:10:08 2016  (00:44)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+hornja   pts/15       Mon Oct 17 17:21:12 2016 - Mon Oct 17 20:21:04 2016  (02:59)     rnh49129.etsu.edu
+huy002   pts/14       Mon Oct 17 17:19:24 2016 - Mon Oct 17 18:35:37 2016  (01:16)     rnh49128.etsu.edu
+windes   pts/6        Mon Oct 17 17:19:19 2016 - Mon Oct 17 18:34:08 2016  (01:14)     rnh49109.etsu.edu
+scruggsg pts/13       Mon Oct 17 17:10:24 2016 - Mon Oct 17 18:36:16 2016  (01:25)     rnh49125.etsu.edu
+richardsonhj pts/12       Mon Oct 17 17:03:28 2016 - Mon Oct 17 18:35:01 2016  (01:31)     rnh49110.etsu.edu
+acerom   pts/11       Mon Oct 17 17:03:20 2016 - Mon Oct 17 18:34:36 2016  (01:31)     rnh49113.etsu.edu
+zndh4    pts/10       Mon Oct 17 17:03:05 2016 - Mon Oct 17 18:34:35 2016  (01:31)     rnh49114.etsu.edu
+phil     pts/9        Mon Oct 17 17:02:37 2016 - Mon Oct 17 18:41:10 2016  (01:38)     rnh49123.etsu.edu
+huberd   pts/8        Mon Oct 17 16:56:25 2016 - Mon Oct 17 18:34:10 2016  (01:37)     rnh49111.etsu.edu
+justust  pts/7        Mon Oct 17 16:52:05 2016 - Mon Oct 17 18:22:29 2016  (01:30)     rnh49115.etsu.edu
+leen01   pts/5        Mon Oct 17 16:51:22 2016 - Mon Oct 17 18:35:48 2016  (01:44)     rnh49119.etsu.edu
+windes   pts/6        Mon Oct 17 16:48:56 2016 - Mon Oct 17 17:17:11 2016  (00:28)     rnh49109.etsu.edu
+butlerjm1 pts/4        Mon Oct 17 16:46:38 2016 - Mon Oct 17 17:40:11 2016  (00:53)     rnh49118.etsu.edu
+hilemanc pts/2        Mon Oct 17 16:45:15 2016 - Mon Oct 17 18:28:34 2016  (01:43)     rnh49101.etsu.edu
+hilemanc pts/2        Mon Oct 17 16:38:53 2016 - Mon Oct 17 16:44:56 2016  (00:06)     rnh49101.etsu.edu
+gardnerkl pts/5        Mon Oct 17 14:37:23 2016 - Mon Oct 17 16:50:04 2016  (02:12)     c-73-108-5-32.hsd1.tn.comcast.net
+gardnerkl pts/4        Mon Oct 17 14:03:44 2016 - Mon Oct 17 14:53:15 2016  (00:49)     c-73-108-5-32.hsd1.tn.comcast.net
+gardnerkl pts/5        Mon Oct 17 13:46:25 2016 - Mon Oct 17 14:19:23 2016  (00:32)     c-73-108-5-32.hsd1.tn.comcast.net
+gardnerkl pts/4        Mon Oct 17 13:15:57 2016 - Mon Oct 17 14:01:52 2016  (00:45)     c-73-108-5-32.hsd1.tn.comcast.net
+butlerjm1 pts/3        Mon Oct 17 11:28:48 2016 - Mon Oct 17 18:06:45 2016  (06:37)     24-151-164-165.dhcp.kgpt.tn.charter.com
+johnsonam4 pts/1        Mon Oct 17 11:26:21 2016 - Mon Oct 17 17:52:57 2016  (06:26)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+root     pts/1        Mon Oct 17 11:04:04 2016 - Mon Oct 17 11:06:42 2016  (00:02)     :0.0
+root     tty1         Mon Oct 17 11:01:42 2016 - Mon Oct 17 11:06:48 2016  (00:05)     :0
+jinkst   pts/0        Mon Oct 17 10:25:55 2016 - Mon Oct 17 18:25:53 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+jinkst   pts/0        Mon Oct 17 10:25:11 2016 - Mon Oct 17 10:25:52 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+jinkst   pts/0        Mon Oct 17 10:24:22 2016 - Mon Oct 17 10:25:05 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+windes   pts/3        Mon Oct 17 10:05:19 2016 - Mon Oct 17 10:23:58 2016  (00:18)     24-158-192-6.dhcp.kgpt.tn.charter.com
+barrettm pts/2        Mon Oct 17 09:38:15 2016 - Mon Oct 17 15:14:04 2016  (05:35)     etsu908265.etsu.edu
+root     tty1         Mon Oct 17 08:34:06 2016 - Mon Oct 17 08:35:55 2016  (00:01)     :0
+jinkst   pts/1        Mon Oct 17 08:27:06 2016 - Mon Oct 17 10:24:15 2016  (01:57)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+jinkst   pts/0        Mon Oct 17 08:07:42 2016 - Mon Oct 17 10:24:15 2016  (02:16)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+harmanc  pts/3        Mon Oct 17 04:35:10 2016 - Mon Oct 17 06:02:48 2016  (01:27)     75.130.33.12
+harmanc  pts/0        Mon Oct 17 04:21:20 2016 - Mon Oct 17 04:50:57 2016  (00:29)     75.130.33.12
+harmanc  pts/1        Mon Oct 17 03:45:38 2016 - Mon Oct 17 04:37:10 2016  (00:51)     75.130.33.12
+phil     pts/4        Mon Oct 17 03:34:14 2016 - Mon Oct 17 04:59:48 2016  (01:25)     tn-76-7-147-33.dhcp.embarqhsd.net
+phil     pts/2        Mon Oct 17 03:32:39 2016 - Mon Oct 17 05:44:33 2016  (02:11)     151.141.2.12
+harmanc  pts/3        Mon Oct 17 02:29:54 2016 - Mon Oct 17 04:01:31 2016  (01:31)     75.130.33.12
+gardnerkl pts/2        Mon Oct 17 02:07:00 2016 - Mon Oct 17 02:38:46 2016  (00:31)     73.88.221.104
+gardnerkl pts/1        Mon Oct 17 01:11:02 2016 - Mon Oct 17 03:44:59 2016  (02:33)     73.88.220.146
+hornja   pts/0        Mon Oct 17 00:18:26 2016 - Mon Oct 17 03:45:41 2016  (03:27)     c-68-57-94-130.hsd1.tn.comcast.net
+dunns2   pts/1        Sun Oct 16 21:32:23 2016 - Sun Oct 16 22:27:09 2016  (00:54)     192.168.226.47
+richardsonhj pts/8        Sun Oct 16 20:39:39 2016 - Sun Oct 16 20:47:28 2016  (00:07)     67.235.110.125
+richardsonhj pts/1        Sun Oct 16 20:22:40 2016 - Sun Oct 16 20:55:58 2016  (00:33)     67.235.110.125
+richardsonhj pts/8        Sun Oct 16 20:02:58 2016 - Sun Oct 16 20:37:42 2016  (00:34)     67.235.110.125
+hilemanc pts/7        Sun Oct 16 19:46:14 2016 - Sun Oct 16 22:55:52 2016  (03:09)     c-68-32-233-159.hsd1.va.comcast.net
+hornja   pts/6        Sun Oct 16 19:44:45 2016 - Mon Oct 17 00:18:10 2016  (04:33)     c-68-57-94-130.hsd1.tn.comcast.net
+phil     pts/6        Sun Oct 16 19:33:34 2016 - Sun Oct 16 19:44:43 2016  (00:11)     tn-76-7-147-33.dhcp.embarqhsd.net
+gillilandr pts/5        Sun Oct 16 19:28:56 2016 - Mon Oct 17 03:28:54 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+richardsonhj pts/6        Sun Oct 16 18:58:03 2016 - Sun Oct 16 19:06:52 2016  (00:08)     67.235.110.125
+dunns2   pts/5        Sun Oct 16 18:50:41 2016 - Sun Oct 16 19:03:14 2016  (00:12)     c-50-147-32-87.hsd1.tn.comcast.net
+sloverd  pts/4        Sun Oct 16 17:39:51 2016 - Mon Oct 17 01:39:49 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+huy002   pts/6        Sun Oct 16 16:23:15 2016 - Sun Oct 16 16:41:54 2016  (00:18)     151.141.232.22
+jinkst   pts/0        Sun Oct 16 16:00:46 2016 - Mon Oct 17 00:00:44 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+richardsonhj pts/0        Sun Oct 16 15:36:52 2016 - Sun Oct 16 15:58:35 2016  (00:21)     67.235.110.125
+huy002   pts/6        Sun Oct 16 15:16:53 2016 - Sun Oct 16 16:19:06 2016  (01:02)     shl20410.etsu.edu
+huy002   pts/9        Sun Oct 16 15:15:27 2016 - Sun Oct 16 15:16:30 2016  (00:01)     shl20410.etsu.edu
+dunns2   pts/7        Sun Oct 16 15:09:26 2016 - Sun Oct 16 18:50:25 2016  (03:40)     c-50-147-32-87.hsd1.tn.comcast.net
+huy002   pts/8        Sun Oct 16 15:06:22 2016 - Sun Oct 16 15:27:41 2016  (00:21)     151.141.232.22
+dunns2   pts/7        Sun Oct 16 14:59:18 2016 - Sun Oct 16 15:08:40 2016  (00:09)     c-50-147-32-87.hsd1.tn.comcast.net
+huy002   pts/0        Sun Oct 16 14:52:12 2016 - Sun Oct 16 15:21:05 2016  (00:28)     151.141.232.22
+richardsonhj pts/6        Sun Oct 16 14:10:19 2016 - Sun Oct 16 15:16:29 2016  (01:06)     67.235.110.125
+huy002   pts/4        Sun Oct 16 14:03:29 2016 - Sun Oct 16 16:52:05 2016  (02:48)     151.141.232.22
+richardsonhj pts/0        Sun Oct 16 13:49:09 2016 - Sun Oct 16 14:26:13 2016  (00:37)     67.235.110.125
+richardsonhj pts/4        Sun Oct 16 13:41:43 2016 - Sun Oct 16 13:48:42 2016  (00:06)     67.235.110.125
+scruggsg pts/0        Sun Oct 16 13:27:19 2016 - Sun Oct 16 13:46:45 2016  (00:19)     24-151-160-180.dhcp.kgpt.tn.charter.com
+scruggsg pts/0        Sun Oct 16 13:11:11 2016 - Sun Oct 16 13:26:49 2016  (00:15)     24-151-160-180.dhcp.kgpt.tn.charter.com
+windes   pts/3        Sun Oct 16 13:03:22 2016 - Sun Oct 16 22:39:57 2016  (09:36)     24-158-192-6.dhcp.kgpt.tn.charter.com
+richardsonhj pts/6        Sun Oct 16 12:49:42 2016 - Sun Oct 16 13:31:53 2016  (00:42)     67.235.110.125
+hornja   pts/5        Sun Oct 16 12:41:56 2016 - Sun Oct 16 17:55:41 2016  (05:13)     c-68-57-94-130.hsd1.tn.comcast.net
+richardsonhj pts/4        Sun Oct 16 12:37:44 2016 - Sun Oct 16 13:05:12 2016  (00:27)     67.235.110.125
+richardsonhj pts/3        Sun Oct 16 12:27:09 2016 - Sun Oct 16 12:51:46 2016  (00:24)     67.235.110.125
+mcmeen   pts/4        Sun Oct 16 12:01:49 2016 - Sun Oct 16 12:14:32 2016  (00:12)     24-158-87-195.dhcp.kgpt.tn.charter.com
+zndh4    pts/1        Sun Oct 16 11:59:55 2016 - Sun Oct 16 20:17:42 2016  (08:17)     96-33-23-18.dhcp.jcsn.tn.charter.com
+mcmeen   pts/3        Sun Oct 16 11:42:50 2016 - Sun Oct 16 12:17:36 2016  (00:34)     24-158-87-195.dhcp.kgpt.tn.charter.com
+huberd   pts/2        Sun Oct 16 11:30:01 2016 - Sun Oct 16 21:35:50 2016  (10:05)     24-159-57-146.dhcp.jcsn.tn.charter.com
+richardsonhj pts/1        Sun Oct 16 10:39:33 2016 - Sun Oct 16 11:56:27 2016  (01:16)     67.235.110.125
+scruggsg pts/0        Sun Oct 16 10:07:58 2016 - Sun Oct 16 13:10:50 2016  (03:02)     24-151-160-180.dhcp.kgpt.tn.charter.com
+richardsonhj pts/1        Sun Oct 16 09:32:19 2016 - Sun Oct 16 10:11:23 2016  (00:39)     67.235.110.125
+richardsonhj pts/0        Sun Oct 16 09:08:09 2016 - Sun Oct 16 09:47:31 2016  (00:39)     67.235.110.125
+gillilandr pts/0        Sun Oct 16 03:17:12 2016 - Sun Oct 16 06:36:04 2016  (03:18)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+phil     pts/4        Sun Oct 16 01:33:14 2016 - Sun Oct 16 05:43:16 2016  (04:10)     tn-76-7-147-33.dhcp.embarqhsd.net
+gillilandr pts/0        Sun Oct 16 01:29:08 2016 - Sun Oct 16 03:17:07 2016  (01:47)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+leen01   pts/1        Sat Oct 15 23:45:55 2016 - Sun Oct 16 02:44:11 2016  (02:58)     192.168.215.181
+jinkst   pts/5        Sat Oct 15 23:24:37 2016 - Sun Oct 16 07:24:34 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+gillilandr pts/4        Sat Oct 15 23:15:40 2016 - Sun Oct 16 01:29:05 2016  (02:13)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+scruggsg pts/3        Sat Oct 15 23:04:08 2016 - Sun Oct 16 02:50:03 2016  (03:45)     24-151-160-180.dhcp.kgpt.tn.charter.com
+winingerj pts/2        Sat Oct 15 22:41:50 2016 - Sun Oct 16 06:41:48 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+hilemanc pts/1        Sat Oct 15 21:30:43 2016 - Sat Oct 15 23:44:06 2016  (02:13)     c-68-32-233-159.hsd1.va.comcast.net
+dunns2   pts/4        Sat Oct 15 19:45:28 2016 - Sat Oct 15 21:45:08 2016  (01:59)     c-50-147-32-87.hsd1.tn.comcast.net
+leen01   pts/1        Sat Oct 15 19:36:27 2016 - Sat Oct 15 21:14:43 2016  (01:38)     151.141.216.151
+windes   pts/0        Sat Oct 15 19:29:11 2016 - Sun Oct 16 01:12:55 2016  (05:43)     24-158-192-6.dhcp.kgpt.tn.charter.com
+leen01   pts/6        Sat Oct 15 18:35:30 2016 - Sat Oct 15 21:44:40 2016  (03:09)     151.141.216.151
+huy002   pts/5        Sat Oct 15 18:33:23 2016 - Sat Oct 15 18:43:04 2016  (00:09)     151.141.233.23
+richardsonhj pts/0        Sat Oct 15 18:28:12 2016 - Sat Oct 15 18:39:22 2016  (00:11)     67.235.110.125
+richardsonhj pts/4        Sat Oct 15 17:50:46 2016 - Sat Oct 15 18:40:27 2016  (00:49)     67.235.110.125
+huy002   pts/3        Sat Oct 15 17:31:41 2016 - Sat Oct 15 20:44:10 2016  (03:12)     151.141.233.23
+richardsonhj pts/0        Sat Oct 15 17:29:50 2016 - Sat Oct 15 18:05:58 2016  (00:36)     67.235.110.125
+mcmeen   pts/4        Sat Oct 15 16:34:07 2016 - Sat Oct 15 16:45:58 2016  (00:11)     24-158-87-195.dhcp.kgpt.tn.charter.com
+zndh4    pts/3        Sat Oct 15 16:08:38 2016 - Sat Oct 15 17:26:02 2016  (01:17)     96-33-23-18.dhcp.jcsn.tn.charter.com
+justust  pts/5        Sat Oct 15 15:58:22 2016 - Sat Oct 15 16:27:02 2016  (00:28)     c-50-142-55-54.hsd1.tn.comcast.net
+huy002   pts/1        Sat Oct 15 15:55:59 2016 - Sat Oct 15 19:35:33 2016  (03:39)     151.141.233.23
+justust  pts/4        Sat Oct 15 15:44:03 2016 - Sat Oct 15 16:14:24 2016  (00:30)     c-50-142-55-54.hsd1.tn.comcast.net
+justust  pts/3        Sat Oct 15 15:33:18 2016 - Sat Oct 15 15:59:09 2016  (00:25)     c-50-142-55-54.hsd1.tn.comcast.net
+huberd   pts/0        Sat Oct 15 14:35:25 2016 - Sat Oct 15 16:55:44 2016  (02:20)     24-159-57-146.dhcp.jcsn.tn.charter.com
+gillilandr pts/2        Sat Oct 15 14:17:26 2016 - Sat Oct 15 22:17:24 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+justust  pts/1        Sat Oct 15 14:16:07 2016 - Sat Oct 15 15:49:00 2016  (01:32)     c-50-142-55-54.hsd1.tn.comcast.net
+justust  pts/0        Sat Oct 15 13:31:00 2016 - Sat Oct 15 14:31:03 2016  (01:00)     c-50-142-55-54.hsd1.tn.comcast.net
+mcmeen   pts/0        Sat Oct 15 12:25:47 2016 - Sat Oct 15 12:27:29 2016  (00:01)     24-158-87-195.dhcp.kgpt.tn.charter.com
+justust  pts/1        Sat Oct 15 12:19:22 2016 - Sat Oct 15 13:46:51 2016  (01:27)     c-50-142-55-54.hsd1.tn.comcast.net
+justust  pts/3        Sat Oct 15 12:01:29 2016 - Sat Oct 15 12:34:47 2016  (00:33)     c-50-142-55-54.hsd1.tn.comcast.net
+justust  pts/2        Sat Oct 15 11:48:09 2016 - Sat Oct 15 13:48:22 2016  (02:00)     c-50-142-55-54.hsd1.tn.comcast.net
+justust  pts/1        Sat Oct 15 11:39:37 2016 - Sat Oct 15 12:03:40 2016  (00:24)     c-50-142-55-54.hsd1.tn.comcast.net
+leen01   pts/0        Sat Oct 15 11:32:45 2016 - Sat Oct 15 12:23:25 2016  (00:50)     192.168.215.181
+gardnerkl pts/1        Fri Oct 14 22:59:41 2016 - Sat Oct 15 01:43:08 2016  (02:43)     151.141.240.133
+justust  pts/1        Fri Oct 14 22:37:23 2016 - Fri Oct 14 22:37:51 2016  (00:00)     c-50-142-55-54.hsd1.tn.comcast.net
+gillilandr pts/0        Fri Oct 14 22:35:22 2016 - Sat Oct 15 06:35:20 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+mcmeen   pts/1        Fri Oct 14 15:50:17 2016 - Fri Oct 14 16:13:59 2016  (00:23)     24-158-87-195.dhcp.kgpt.tn.charter.com
+daughertyb pts/4        Fri Oct 14 15:03:35 2016 - Fri Oct 14 18:03:30 2016  (02:59)     74.215.67.72
+daughertyb pts/4        Fri Oct 14 15:02:05 2016 - Fri Oct 14 15:02:42 2016  (00:00)     74.215.67.72
+leen01   pts/4        Fri Oct 14 13:55:29 2016 - Fri Oct 14 14:33:41 2016  (00:38)     151.141.220.238
+gillilandr pts/0        Fri Oct 14 13:50:59 2016 - Fri Oct 14 16:33:41 2016  (02:42)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+gillilandr pts/0        Fri Oct 14 13:49:38 2016 - Fri Oct 14 13:49:53 2016  (00:00)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+gillilandr pts/0        Fri Oct 14 13:49:21 2016 - Fri Oct 14 13:49:24 2016  (00:00)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+leen01   pts/3        Fri Oct 14 13:34:12 2016 - Fri Oct 14 15:51:53 2016  (02:17)     151.141.220.238
+barrettm pts/3        Fri Oct 14 13:13:38 2016 - Fri Oct 14 13:15:00 2016  (00:01)
+barrettm pts/3        Fri Oct 14 13:09:48 2016 - Fri Oct 14 13:11:28 2016  (00:01)
+barrettm pts/3        Fri Oct 14 13:08:44 2016 - Fri Oct 14 13:09:06 2016  (00:00)
+leen01   pts/2        Fri Oct 14 13:08:24 2016 - Fri Oct 14 15:41:49 2016  (02:33)     151.141.220.238
+barrettm pts/1        Fri Oct 14 13:04:14 2016 - Fri Oct 14 15:38:04 2016  (02:33)     etsu908265.etsu.edu
+mcmeen   pts/1        Fri Oct 14 12:00:22 2016 - Fri Oct 14 12:01:21 2016  (00:00)     24-158-87-195.dhcp.kgpt.tn.charter.com
+gillilandr pts/0        Fri Oct 14 11:20:22 2016 - Fri Oct 14 13:48:32 2016  (02:28)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+mcmeen   pts/1        Fri Oct 14 10:42:51 2016 - Fri Oct 14 11:14:47 2016  (00:31)     24-158-87-195.dhcp.kgpt.tn.charter.com
+mcmeen   pts/0        Fri Oct 14 10:27:56 2016 - Fri Oct 14 10:59:16 2016  (00:31)     24-158-87-195.dhcp.kgpt.tn.charter.com
+richardsonhj pts/0        Fri Oct 14 08:39:06 2016 - Fri Oct 14 08:53:19 2016  (00:14)     67.235.110.125
+richardsonhj pts/0        Fri Oct 14 07:45:57 2016 - Fri Oct 14 08:29:15 2016  (00:43)     67.235.110.125
+leen01   pts/6        Thu Oct 13 18:24:43 2016 - Thu Oct 13 18:59:43 2016  (00:35)     151.141.216.76
+justust  pts/5        Thu Oct 13 15:36:27 2016 - Thu Oct 13 23:30:04 2016  (07:53)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+pll      pts/2        Thu Oct 13 15:36:25 2016 - Thu Oct 13 23:36:22 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+pll      pts/2        Thu Oct 13 15:15:19 2016 - Thu Oct 13 15:36:21 2016  (00:21)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+pll      pts/1        Thu Oct 13 15:15:18 2016 - Thu Oct 13 23:15:15 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+pll      pts/14       Thu Oct 13 14:53:42 2016 - Thu Oct 13 14:55:48 2016  (00:02)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+barrettm pts/11       Thu Oct 13 14:24:21 2016 - Thu Oct 13 15:48:22 2016  (01:24)     rnh320mmc.etsu.edu
+sentellm pts/4        Thu Oct 13 14:23:11 2016 - Thu Oct 13 22:23:09 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+daughertyb pts/13       Thu Oct 13 14:20:43 2016 - Thu Oct 13 22:04:00 2016  (07:43)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+buchanandc pts/12       Thu Oct 13 14:20:11 2016 - Thu Oct 13 20:28:22 2016  (06:08)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+pll      pts/4        Thu Oct 13 14:20:03 2016 - Thu Oct 13 14:20:49 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+pll      pts/1        Thu Oct 13 14:19:31 2016 - Thu Oct 13 15:15:12 2016  (00:55)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+daughertyb pts/11       Thu Oct 13 14:19:04 2016 - Thu Oct 13 14:20:43 2016  (00:01)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+daughertyb pts/11       Thu Oct 13 14:18:46 2016 - Thu Oct 13 14:18:59 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+millerwt pts/10       Thu Oct 13 14:18:34 2016 - Thu Oct 13 15:05:49 2016  (00:47)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+pll      pts/7        Thu Oct 13 14:18:17 2016 - Thu Oct 13 16:18:50 2016  (02:00)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+hamrickj pts/9        Thu Oct 13 14:16:03 2016 - Thu Oct 13 22:16:01 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+pll      pts/7        Thu Oct 13 14:13:15 2016 - Thu Oct 13 14:18:12 2016  (00:04)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+quilliams pts/6        Thu Oct 13 14:11:15 2016 - Thu Oct 13 15:05:45 2016  (00:54)     rnh49110.etsu.edu
+justust  pts/5        Thu Oct 13 13:58:46 2016 - Thu Oct 13 15:36:21 2016  (01:37)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+pll      pts/2        Thu Oct 13 13:58:32 2016 - Thu Oct 13 15:15:12 2016  (01:16)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+sloverd  pts/3        Thu Oct 13 13:57:04 2016 - Thu Oct 13 21:57:02 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+nielsen  pts/5        Thu Oct 13 13:17:03 2016 - Thu Oct 13 13:24:16 2016  (00:07)     etsu908271.etsu.edu
+pll      pts/4        Thu Oct 13 11:36:15 2016 - Thu Oct 13 14:19:27 2016  (02:43)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+pll      pts/3        Thu Oct 13 11:31:31 2016 - Thu Oct 13 13:47:45 2016  (02:16)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+pll      pts/0        Thu Oct 13 11:28:47 2016 - Thu Oct 13 19:28:43 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+pll      pts/3        Thu Oct 13 11:28:00 2016 - Thu Oct 13 11:29:55 2016  (00:01)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+pll      pts/3        Thu Oct 13 11:27:36 2016 - Thu Oct 13 11:27:41 2016  (00:00)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+pll      pts/1        Thu Oct 13 11:26:00 2016 - Thu Oct 13 14:19:27 2016  (02:53)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+dieboldc pts/0        Thu Oct 13 11:22:11 2016 - Thu Oct 13 11:28:43 2016  (00:06)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+pll      pts/2        Thu Oct 13 11:19:45 2016 - Thu Oct 13 13:58:02 2016  (02:38)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+zndh4    pts/1        Thu Oct 13 11:17:30 2016 - Thu Oct 13 11:19:46 2016  (00:02)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+dieboldc pts/0        Thu Oct 13 10:58:01 2016 - Thu Oct 13 11:20:55 2016  (00:22)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+dieboldc pts/1        Thu Oct 13 10:51:57 2016 - Thu Oct 13 10:57:12 2016  (00:05)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+hessl    pts/0        Thu Oct 13 10:50:18 2016 - Thu Oct 13 10:52:35 2016  (00:02)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+hessl    pts/30       Thu Oct 13 09:42:27 2016 - Thu Oct 13 10:06:43 2016  (00:24)
+hessl    pts/28       Thu Oct 13 09:37:50 2016 - Thu Oct 13 11:06:36 2016  (01:28)     rnh49115.etsu.edu
+pll      pts/28       Thu Oct 13 09:36:58 2016 - Thu Oct 13 09:37:02 2016  (00:00)     151.141.234.181
+daughertyb pts/13       Thu Oct 13 09:35:17 2016 - Thu Oct 13 10:06:32 2016  (00:31)     rnh49112.etsu.edu
+zcmc53   pts/29       Thu Oct 13 09:18:14 2016 - Thu Oct 13 10:58:01 2016  (01:39)     rnh49111.etsu.edu
+pll      pts/28       Thu Oct 13 09:16:44 2016 - Thu Oct 13 09:36:19 2016  (00:19)     151.141.234.181
+carmackj pts/27       Thu Oct 13 09:16:16 2016 - Thu Oct 13 10:05:42 2016  (00:49)     rnh49108.etsu.edu
+zickgraf pts/11       Thu Oct 13 09:15:50 2016 - Thu Oct 13 10:05:52 2016  (00:50)     rnh49127.etsu.edu
+zndh4    pts/26       Thu Oct 13 09:12:59 2016 - Thu Oct 13 17:12:57 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+greenenm pts/25       Thu Oct 13 09:10:59 2016 - Thu Oct 13 10:05:56 2016  (00:54)     rnh49114.etsu.edu
+jacksonre pts/24       Thu Oct 13 09:06:21 2016 - Thu Oct 13 10:05:40 2016  (00:59)     rnh49113.etsu.edu
+clarkhs  pts/23       Thu Oct 13 09:06:04 2016 - Thu Oct 13 10:05:45 2016  (00:59)     rnh49107.etsu.edu
+fraziered pts/22       Thu Oct 13 09:02:37 2016 - Thu Oct 13 10:06:30 2016  (01:03)     rnh49119.etsu.edu
+hamrickj pts/21       Thu Oct 13 09:01:15 2016 - Thu Oct 13 15:36:21 2016  (06:35)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+mckinneyla pts/20       Thu Oct 13 09:00:55 2016 - Thu Oct 13 10:05:39 2016  (01:04)     151.141.242.120
+blevinsjt pts/19       Thu Oct 13 09:00:10 2016 - Thu Oct 13 10:06:02 2016  (01:05)     rnh49120.etsu.edu
+zamc48   pts/18       Thu Oct 13 08:59:51 2016 - Thu Oct 13 10:05:44 2016  (01:05)     rnh49101.etsu.edu
+pucketto pts/17       Thu Oct 13 08:59:40 2016 - Thu Oct 13 10:05:55 2016  (01:06)     rnh49131.etsu.edu
+pecorini pts/16       Thu Oct 13 08:59:34 2016 - Thu Oct 13 10:05:39 2016  (01:06)     rnh49129.etsu.edu
+munseymk pts/15       Thu Oct 13 08:59:32 2016 - Thu Oct 13 10:05:44 2016  (01:06)     rnh49130.etsu.edu
+hardyj   pts/14       Thu Oct 13 08:59:23 2016 - Thu Oct 13 10:05:52 2016  (01:06)     rnh49126.etsu.edu
+daughertyb pts/13       Thu Oct 13 08:59:17 2016 - Thu Oct 13 09:19:36 2016  (00:20)     rnh49112.etsu.edu
+mistrettam pts/12       Thu Oct 13 08:59:16 2016 - Thu Oct 13 09:47:26 2016  (00:48)     rnh49122.etsu.edu
+zickgraf pts/11       Thu Oct 13 08:59:11 2016 - Thu Oct 13 09:15:36 2016  (00:16)     rnh49127.etsu.edu
+mcreynoldsh pts/10       Thu Oct 13 08:59:04 2016 - Thu Oct 13 10:05:42 2016  (01:06)     rnh49109.etsu.edu
+barrettm pts/9        Thu Oct 13 08:56:18 2016 - Thu Oct 13 10:06:23 2016  (01:10)     rnh49123.etsu.edu
+kilpatrickc pts/7        Thu Oct 13 08:56:00 2016 - Thu Oct 13 10:05:44 2016  (01:09)     rnh49103.etsu.edu
+husaina  pts/6        Thu Oct 13 08:55:16 2016 - Thu Oct 13 10:05:35 2016  (01:10)     rnh49106.etsu.edu
+johnsonam4 pts/4        Thu Oct 13 08:55:03 2016 - Thu Oct 13 10:05:50 2016  (01:10)     rnh49104.etsu.edu
+johnsonam4 pts/7        Thu Oct 13 08:52:32 2016 - Thu Oct 13 08:54:01 2016  (00:01)     rnh49104.etsu.edu
+fraziered pts/6        Thu Oct 13 08:51:11 2016 - Thu Oct 13 08:53:13 2016  (00:02)     151.141.226.234
+burdettj pts/1        Thu Oct 13 08:50:31 2016 - Thu Oct 13 10:05:39 2016  (01:15)     rnh49110.etsu.edu
+zdrb27   pts/5        Thu Oct 13 08:49:08 2016 - Thu Oct 13 10:05:47 2016  (01:16)     rnh49117.etsu.edu
+kilpatrickc pts/4        Thu Oct 13 08:47:59 2016 - Thu Oct 13 08:53:23 2016  (00:05)     rnh49103.etsu.edu
+zcee10   pts/3        Thu Oct 13 08:47:58 2016 - Thu Oct 13 10:05:42 2016  (01:17)     rnh49102.etsu.edu
+jinkst   pts/2        Thu Oct 13 08:44:10 2016 - Thu Oct 13 10:05:38 2016  (01:21)     rnh49105.etsu.edu
+fraziered pts/1        Thu Oct 13 08:39:54 2016 - Thu Oct 13 08:50:19 2016  (00:10)     151.141.226.234
+phil     pts/1        Thu Oct 13 04:18:21 2016 - Thu Oct 13 05:33:12 2016  (01:14)     tn-76-7-147-33.dhcp.embarqhsd.net
+quilliams pts/1        Thu Oct 13 02:51:18 2016 - Thu Oct 13 02:51:30 2016  (00:00)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+quilliams pts/3        Thu Oct 13 02:38:20 2016 - Thu Oct 13 04:49:15 2016  (02:10)     71-88-218-107.dhcp.kgpt.tn.charter.com
+quilliams pts/2        Thu Oct 13 02:26:08 2016 - Thu Oct 13 02:51:29 2016  (00:25)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+quilliams pts/1        Thu Oct 13 02:25:38 2016 - Thu Oct 13 02:49:33 2016  (00:23)     71-88-218-107.dhcp.kgpt.tn.charter.com
+whitney  pts/0        Thu Oct 13 02:23:23 2016 - Thu Oct 13 10:23:20 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+whitney  pts/0        Wed Oct 12 23:20:31 2016 - Thu Oct 13 01:51:24 2016  (02:30)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+munseymk pts/0        Wed Oct 12 21:24:31 2016 - Wed Oct 12 21:32:10 2016  (00:07)     192.168.209.98
+hessl    pts/0        Wed Oct 12 20:23:34 2016 - Wed Oct 12 20:59:53 2016  (00:36)     97-81-12-180.dhcp.kgpt.tn.charter.com
+huberd   pts/9        Wed Oct 12 16:51:57 2016 - Wed Oct 12 16:52:21 2016  (00:00)     rnh49111.etsu.edu
+harmanc  pts/9        Wed Oct 12 16:29:07 2016 - Wed Oct 12 16:50:41 2016  (00:21)     rnh49107.etsu.edu
+jinkst   pts/5        Wed Oct 12 15:58:22 2016 - Wed Oct 12 19:45:19 2016  (03:46)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+carterns pts/11       Wed Oct 12 15:42:37 2016 - Wed Oct 12 19:26:15 2016  (03:43)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+carterns pts/10       Wed Oct 12 15:42:37 2016 - Wed Oct 12 19:45:19 2016  (04:02)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+richardsonhj pts/9        Wed Oct 12 15:41:07 2016 - Wed Oct 12 16:05:41 2016  (00:24)     rnh49009.etsu.edu
+acerom   pts/8        Wed Oct 12 15:24:36 2016 - Fri Oct 14 17:38:09 2016 (2+02:13)    75-136-215-39.dhcp.kgpt.tn.charter.com
+winingerj pts/7        Wed Oct 12 15:10:05 2016 - Wed Oct 12 23:10:03 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+collinsmd1 pts/6        Wed Oct 12 15:01:59 2016 - Wed Oct 12 23:01:57 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+huberd   pts/5        Wed Oct 12 14:52:30 2016 - Wed Oct 12 15:51:25 2016  (00:58)     24-159-57-146.dhcp.jcsn.tn.charter.com
+hilemanc pts/3        Wed Oct 12 14:43:21 2016 - Wed Oct 12 18:06:51 2016  (03:23)     151.141.167.19
+whitney  pts/4        Wed Oct 12 14:39:00 2016 - Wed Oct 12 19:45:19 2016  (05:06)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+mckinneyla pts/2        Wed Oct 12 14:34:02 2016 - Wed Oct 12 22:34:00 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+huy002   pts/1        Wed Oct 12 14:00:59 2016 - Wed Oct 12 18:14:32 2016  (04:13)     151.141.238.143
+leen01   pts/3        Wed Oct 12 11:57:56 2016 - Wed Oct 12 14:42:16 2016  (02:44)     151.141.221.9
+dunns2   pts/2        Wed Oct 12 11:57:03 2016 - Wed Oct 12 12:24:54 2016  (00:27)     192.168.233.209
+dunns2   pts/2        Wed Oct 12 11:53:51 2016 - Wed Oct 12 11:55:08 2016  (00:01)     192.168.233.209
+dunns2   pts/1        Wed Oct 12 11:48:36 2016 - Wed Oct 12 13:49:00 2016  (02:00)     192.168.233.209
+dunns2   pts/1        Wed Oct 12 11:46:07 2016 - Wed Oct 12 11:46:59 2016  (00:00)     192.168.233.209
+dunns2   pts/1        Wed Oct 12 11:44:32 2016 - Wed Oct 12 11:44:39 2016  (00:00)     192.168.233.209
+barrettm pts/0        Wed Oct 12 11:12:56 2016 - Wed Oct 12 17:05:28 2016  (05:52)     etsu908265.etsu.edu
+pll      pts/2        Wed Oct 12 09:44:59 2016 - Wed Oct 12 09:45:00 2016  (00:00)     etsu908271.etsu.edu
+root     pts/1        Wed Oct 12 09:43:49 2016 - Wed Oct 12 09:47:36 2016  (00:03)     :0.0
+root     tty1         Wed Oct 12 09:39:13 2016 - Wed Oct 12 09:47:56 2016  (00:08)     :0
+jinkst   pts/0        Wed Oct 12 08:21:10 2016 - Wed Oct 12 10:05:32 2016  (01:44)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+root     tty1         Wed Oct 12 07:52:23 2016 - Wed Oct 12 07:53:07 2016  (00:00)     :0
+yatescm  pts/1        Wed Oct 12 00:05:33 2016 - Wed Oct 12 08:05:31 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+blevinsjt pts/3        Tue Oct 11 22:06:21 2016 - Tue Oct 11 22:32:01 2016  (00:25)     fttu-67-223-9-108.btes.tv
+reesehp  pts/2        Tue Oct 11 22:04:53 2016 - Wed Oct 12 06:04:51 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+windes   pts/0        Tue Oct 11 21:36:49 2016 - Wed Oct 12 02:54:12 2016  (05:17)     24-158-192-6.dhcp.kgpt.tn.charter.com
+zndh4    pts/0        Tue Oct 11 21:32:06 2016 - Tue Oct 11 21:32:33 2016  (00:00)     96-33-23-18.dhcp.jcsn.tn.charter.com
+leen01   pts/0        Tue Oct 11 18:22:13 2016 - Tue Oct 11 18:31:40 2016  (00:09)     151.141.216.196
+jinkst   pts/1        Tue Oct 11 15:21:12 2016 - Tue Oct 11 23:21:09 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+leen01   pts/2        Tue Oct 11 11:19:46 2016 - Tue Oct 11 19:43:21 2016  (08:23)     151.141.216.196
+leen01   pts/2        Tue Oct 11 11:00:05 2016 - Tue Oct 11 11:02:49 2016  (00:02)     151.141.216.196
+leen01   pts/2        Tue Oct 11 10:55:26 2016 - Tue Oct 11 10:59:42 2016  (00:04)     151.141.216.196
+zndh4    pts/1        Tue Oct 11 09:17:34 2016 - Tue Oct 11 13:56:10 2016  (04:38)     96-33-23-18.dhcp.jcsn.tn.charter.com
+gillilandr pts/0        Tue Oct 11 09:00:35 2016 - Tue Oct 11 17:00:33 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+root     pts/1        Tue Oct 11 08:02:10 2016 - Tue Oct 11 08:15:32 2016  (00:13)     :0.0
+root     pts/0        Tue Oct 11 07:59:04 2016 - Tue Oct 11 08:15:08 2016  (00:16)     :0.0
+root     tty1         Tue Oct 11 07:58:56 2016 - Tue Oct 11 08:16:27 2016  (00:17)     :0
+gillilandr pts/0        Mon Oct 10 19:32:49 2016 - Tue Oct 11 03:32:47 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+leen01   pts/4        Mon Oct 10 15:12:48 2016 - Mon Oct 10 16:13:58 2016  (01:01)     151.141.217.19
+carmackj pts/3        Mon Oct 10 14:39:32 2016 - Mon Oct 10 17:39:26 2016  (02:59)     71-88-216-30.dhcp.kgpt.tn.charter.com
+zndh4    pts/3        Mon Oct 10 14:31:50 2016 - Mon Oct 10 14:31:52 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+zndh4    pts/2        Mon Oct 10 14:11:33 2016 - Mon Oct 10 19:15:23 2016  (05:03)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+zndh4    pts/2        Mon Oct 10 14:09:46 2016 - Mon Oct 10 14:10:22 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+jinkst   pts/1        Mon Oct 10 13:34:37 2016 - Mon Oct 10 19:15:30 2016  (05:40)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+blevinsjt pts/0        Mon Oct 10 12:54:37 2016 - Mon Oct 10 15:17:54 2016  (02:23)     fttu-67-223-9-108.btes.tv
+jinkst   pts/3        Sun Oct  9 23:47:08 2016 - Mon Oct 10 07:47:06 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+mooretw1 pts/3        Sun Oct  9 23:17:38 2016 - Sun Oct  9 23:40:52 2016  (00:23)
+mooretw1 pts/2        Sun Oct  9 22:26:31 2016 - Mon Oct 10 00:04:26 2016  (01:37)     c-68-57-75-207.hsd1.tn.comcast.net
+husaina  pts/2        Sun Oct  9 21:36:36 2016 - Sun Oct  9 21:38:45 2016  (00:02)     tn-76-7-190-166.dhcp.embarqhsd.net
+carterns pts/1        Sun Oct  9 18:39:21 2016 - Mon Oct 10 02:39:19 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+carterns pts/0        Sun Oct  9 18:39:19 2016 - Mon Oct 10 02:39:17 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+carterns pts/0        Sun Oct  9 01:53:56 2016 - Sun Oct  9 09:53:54 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+phil     pts/4        Sun Oct  9 01:31:59 2016 - Sun Oct  9 04:00:02 2016  (02:28)     pool-71-182-228-52.pitbpa.fios.verizon.net
+jinkst   pts/3        Sat Oct  8 22:46:54 2016 - Sun Oct  9 06:46:52 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+johnsonam4 pts/2        Sat Oct  8 20:33:34 2016 - Sun Oct  9 04:33:32 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+carterns pts/1        Sat Oct  8 17:58:37 2016 - Sun Oct  9 01:58:35 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+carterns pts/0        Sat Oct  8 17:58:35 2016 - Sun Oct  9 01:53:54 2016  (07:55)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+phil     pts/0        Sat Oct  8 13:35:04 2016 - Sat Oct  8 13:44:11 2016  (00:09)     pool-71-182-228-52.pitbpa.fios.verizon.net
+phil     pts/0        Sat Oct  8 05:24:07 2016 - Sat Oct  8 06:56:07 2016  (01:32)     pool-71-182-228-52.pitbpa.fios.verizon.net
+zickgraf pts/3        Fri Oct  7 21:17:06 2016 - Fri Oct  7 21:18:04 2016  (00:00)     c-98-193-213-232.hsd1.tn.comcast.net
+mckinneyla pts/0        Fri Oct  7 20:40:00 2016 - Sat Oct  8 04:39:58 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+jinkst   pts/2        Fri Oct  7 16:34:09 2016 - Sat Oct  8 00:34:07 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+mckinneyla pts/1        Fri Oct  7 15:09:50 2016 - Fri Oct  7 23:09:47 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+leen01   pts/0        Fri Oct  7 14:30:41 2016 - Fri Oct  7 17:42:49 2016  (03:12)     151.141.216.118
+phil     pts/0        Fri Oct  7 05:00:16 2016 - Fri Oct  7 06:22:04 2016  (01:21)     tn-76-7-147-33.dhcp.embarqhsd.net
+blevinsjt pts/5        Thu Oct  6 21:56:59 2016 - Fri Oct  7 00:23:54 2016  (02:26)     fttu-67-223-9-108.btes.tv
+windes   pts/1        Thu Oct  6 18:28:56 2016 - Thu Oct  6 23:14:19 2016  (04:45)     24-158-192-6.dhcp.kgpt.tn.charter.com
+bentleyp pts/4        Thu Oct  6 17:59:50 2016 - Fri Oct  7 01:59:47 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+bentleyp pts/3        Thu Oct  6 17:59:49 2016 - Fri Oct  7 01:59:47 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+richardsonhj pts/3        Thu Oct  6 16:30:43 2016 - Thu Oct  6 16:52:48 2016  (00:22)     151.141.241.82
+bentleyp pts/2        Thu Oct  6 16:27:24 2016 - Fri Oct  7 00:27:22 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+bentleyp pts/0        Thu Oct  6 16:27:24 2016 - Fri Oct  7 00:27:21 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+windes   pts/1        Thu Oct  6 16:00:26 2016 - Thu Oct  6 18:19:36 2016  (02:19)     24-158-192-6.dhcp.kgpt.tn.charter.com
+richardsonhj pts/0        Thu Oct  6 15:55:18 2016 - Thu Oct  6 16:26:22 2016  (00:31)     151.141.241.82
+daymj1   pts/0        Thu Oct  6 12:47:29 2016 - Thu Oct  6 12:47:41 2016  (00:00)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+paisleya pts/0        Thu Oct  6 11:33:09 2016 - Thu Oct  6 11:39:55 2016  (00:06)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+husaina  pts/1        Thu Oct  6 10:36:00 2016 - Thu Oct  6 10:37:19 2016  (00:01)     rnh49104.etsu.edu
+hessl    pts/60       Thu Oct  6 09:44:51 2016 - Thu Oct  6 11:34:17 2016  (01:49)
+hessl    pts/59       Thu Oct  6 09:44:07 2016 - Thu Oct  6 11:34:29 2016  (01:50)     rnh49115.etsu.edu
+carmackj pts/58       Thu Oct  6 09:41:28 2016 - Thu Oct  6 10:10:55 2016  (00:29)     rnh49108.etsu.edu
+barrettm pts/57       Thu Oct  6 09:30:16 2016 - Thu Oct  6 10:54:27 2016  (01:24)     rnh49123.etsu.edu
+pucketto pts/56       Thu Oct  6 09:25:46 2016 - Thu Oct  6 10:41:59 2016  (01:16)
+johnsonbw pts/55       Thu Oct  6 09:25:02 2016 - Thu Oct  6 10:31:26 2016  (01:06)
+johnsonbw pts/54       Thu Oct  6 09:24:49 2016 - Thu Oct  6 10:31:27 2016  (01:06)     rnh49118.etsu.edu
+pucketto pts/53       Thu Oct  6 09:24:34 2016 - Thu Oct  6 10:42:02 2016  (01:17)     rnh49121.etsu.edu
+kilpatrickc pts/52       Thu Oct  6 09:19:26 2016 - Tue Oct 18 09:49:12 2016 (12+00:29)
+kilpatrickc pts/51       Thu Oct  6 09:14:58 2016 - Thu Oct  6 10:55:55 2016  (01:40)     rnh49114.etsu.edu
+mistrettam pts/50       Thu Oct  6 09:13:28 2016 - Tue Oct 18 09:24:17 2016 (12+00:10)
+mistrettam pts/49       Thu Oct  6 09:13:23 2016 - Thu Oct  6 10:42:34 2016  (01:29)     rnh49122.etsu.edu
+blevinsjt pts/48       Thu Oct  6 09:09:29 2016 - Thu Oct  6 10:40:32 2016  (01:31)
+greenenm pts/47       Thu Oct  6 09:09:11 2016 - Thu Oct  6 10:56:33 2016  (01:47)
+greenenm pts/46       Thu Oct  6 09:08:59 2016 - Thu Oct  6 10:56:36 2016  (01:47)     rnh49113.etsu.edu
+clarkhs  pts/45       Thu Oct  6 09:08:52 2016 - Thu Oct  6 10:07:24 2016  (00:58)
+blevinsjt pts/44       Thu Oct  6 09:08:40 2016 - Thu Oct  6 10:41:51 2016  (01:33)     rnh49120.etsu.edu
+clarkhs  pts/28       Thu Oct  6 09:08:39 2016 - Thu Oct  6 10:10:40 2016  (01:02)     rnh49107.etsu.edu
+zickgraf pts/14       Thu Oct  6 09:08:35 2016 - Thu Oct  6 10:24:21 2016  (01:15)     rnh49127.etsu.edu
+carmackj pts/43       Thu Oct  6 09:07:55 2016 - Thu Oct  6 10:05:45 2016  (00:57)
+fraziered pts/42       Thu Oct  6 09:07:54 2016 - Thu Oct  6 10:41:49 2016  (01:33)
+pecorini pts/41       Thu Oct  6 09:06:11 2016 - Thu Oct  6 10:24:30 2016  (01:18)
+mcreynoldsh pts/40       Thu Oct  6 09:06:10 2016 - Thu Oct  6 10:34:33 2016  (01:28)
+munseymk pts/37       Thu Oct  6 09:05:56 2016 - Tue Oct 18 09:05:48 2016 (11+23:59)
+pucketto pts/39       Thu Oct  6 09:05:51 2016 - Tue Oct 18 09:05:59 2016 (12+00:00)
+mooretw1 pts/38       Thu Oct  6 09:05:47 2016 - Thu Oct  6 10:41:28 2016  (01:35)
+pecorini pts/37       Thu Oct  6 09:05:18 2016 - Thu Oct  6 09:05:55 2016  (00:00)
+pucketto pts/36       Thu Oct  6 09:04:52 2016 - Thu Oct  6 11:32:08 2016  (02:27)     151.141.242.149
+pecorini pts/35       Thu Oct  6 09:04:34 2016 - Thu Oct  6 10:24:50 2016  (01:20)     rnh49129.etsu.edu
+zmde1    pts/34       Thu Oct  6 09:04:23 2016 - Thu Oct  6 10:58:49 2016  (01:54)
+mooretw1 pts/12       Thu Oct  6 09:04:04 2016 - Thu Oct  6 10:41:39 2016  (01:37)     rnh49125.etsu.edu
+friendc  pts/33       Thu Oct  6 09:03:55 2016 - Thu Oct  6 10:41:33 2016  (01:37)
+zamc48   pts/32       Thu Oct  6 09:03:42 2016 - Thu Oct  6 10:35:15 2016  (01:31)
+jinkst   pts/7        Thu Oct  6 09:03:40 2016 - Thu Oct  6 10:37:35 2016  (01:33)
+zamc48   pts/31       Thu Oct  6 09:03:30 2016 - Thu Oct  6 10:35:20 2016  (01:31)     rnh49101.etsu.edu
+friendc  pts/30       Thu Oct  6 09:03:30 2016 - Thu Oct  6 10:42:54 2016  (01:39)     151.141.226.147
+zmde1    pts/29       Thu Oct  6 09:03:28 2016 - Thu Oct  6 14:11:08 2016  (05:07)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+clarkhs  pts/28       Thu Oct  6 09:03:16 2016 - Thu Oct  6 09:08:08 2016  (00:04)
+munseymk pts/27       Thu Oct  6 09:03:13 2016 - Thu Oct  6 10:24:55 2016  (01:21)     rnh49130.etsu.edu
+zickgraf pts/26       Thu Oct  6 09:03:06 2016 - Thu Oct  6 10:22:53 2016  (01:19)
+johnsonam4 pts/25       Thu Oct  6 09:03:02 2016 - Thu Oct  6 10:35:31 2016  (01:32)
+mckinneyla pts/24       Thu Oct  6 09:02:57 2016 - Thu Oct  6 10:24:23 2016  (01:21)
+husaina  pts/23       Thu Oct  6 09:02:50 2016 - Thu Oct  6 10:34:58 2016  (01:32)     rnh49104.etsu.edu
+daughertyb pts/22       Thu Oct  6 09:02:47 2016 - Thu Oct  6 10:19:17 2016  (01:16)
+zcmc53   pts/21       Thu Oct  6 09:02:45 2016 - Thu Oct  6 10:22:29 2016  (01:19)
+zcee10   pts/20       Thu Oct  6 09:02:43 2016 - Thu Oct  6 09:57:01 2016  (00:54)
+johnsonam4 pts/19       Thu Oct  6 09:02:43 2016 - Thu Oct  6 10:35:36 2016  (01:32)     151.141.242.99
+jacksonre pts/18       Thu Oct  6 09:02:41 2016 - Thu Oct  6 10:35:24 2016  (01:32)
+hardyj   pts/17       Thu Oct  6 09:02:39 2016 - Thu Oct  6 10:22:47 2016  (01:20)
+zdrb27   pts/16       Thu Oct  6 09:02:31 2016 - Thu Oct  6 10:32:52 2016  (01:30)
+daughertyb pts/15       Thu Oct  6 09:02:29 2016 - Thu Oct  6 10:36:23 2016  (01:33)     rnh49112.etsu.edu
+clarkhs  pts/14       Thu Oct  6 09:02:22 2016 - Thu Oct  6 09:08:10 2016  (00:05)     rnh49107.etsu.edu
+carmackj pts/13       Thu Oct  6 09:02:20 2016 - Thu Oct  6 10:10:53 2016  (01:08)     rnh49108.etsu.edu
+pecorini pts/12       Thu Oct  6 09:02:17 2016 - Thu Oct  6 09:04:03 2016  (00:01)     rnh49129.etsu.edu
+zickgraf pts/11       Thu Oct  6 09:02:04 2016 - Thu Oct  6 10:24:14 2016  (01:22)     rnh49127.etsu.edu
+fraziered pts/10       Thu Oct  6 09:01:39 2016 - Thu Oct  6 10:41:50 2016  (01:40)     rnh49119.etsu.edu
+zdrb27   pts/9        Thu Oct  6 09:01:07 2016 - Thu Oct  6 10:38:59 2016  (01:37)     rnh49117.etsu.edu
+mckinneyla pts/8        Thu Oct  6 09:01:04 2016 - Thu Oct  6 10:24:26 2016  (01:23)     151.141.242.140
+pucketto pts/7        Thu Oct  6 09:00:56 2016 - Thu Oct  6 09:03:36 2016  (00:02)     151.141.242.149
+zcee10   pts/6        Thu Oct  6 09:00:21 2016 - Thu Oct  6 10:09:02 2016  (01:08)     rnh49102.etsu.edu
+hardyj   pts/1        Thu Oct  6 08:59:52 2016 - Thu Oct  6 10:24:44 2016  (01:24)     151.141.170.89
+jacksonre pts/5        Thu Oct  6 08:59:00 2016 - Thu Oct  6 10:35:29 2016  (01:36)     rnh49106.etsu.edu
+mcreynoldsh pts/4        Thu Oct  6 08:58:51 2016 - Thu Oct  6 10:36:45 2016  (01:37)     rnh49109.etsu.edu
+zcmc53   pts/3        Thu Oct  6 08:58:38 2016 - Thu Oct  6 10:39:52 2016  (01:41)     rnh49111.etsu.edu
+barrettm pts/2        Thu Oct  6 08:57:24 2016 - Thu Oct  6 10:54:25 2016  (01:57)     rnh49123.etsu.edu
+johnsonam4 pts/1        Thu Oct  6 08:54:51 2016 - Thu Oct  6 08:59:16 2016  (00:04)     151.141.242.99
+johnsonam4 pts/1        Thu Oct  6 08:52:00 2016 - Thu Oct  6 08:52:06 2016  (00:00)     151.141.242.99
+jinkst   pts/0        Thu Oct  6 08:47:18 2016 - Thu Oct  6 10:37:35 2016  (01:50)     rnh49105.etsu.edu
+root     tty1         Thu Oct  6 07:51:25 2016 - Thu Oct  6 08:09:20 2016  (00:17)     :0
+hessl    pts/0        Thu Oct  6 00:55:32 2016 - Thu Oct  6 00:56:53 2016  (00:01)     97-81-12-180.dhcp.kgpt.tn.charter.com
+hornja   pts/3        Wed Oct  5 18:08:27 2016 - Wed Oct  5 18:51:55 2016  (00:43)     rnh49129.etsu.edu
+kilpatrickc pts/35       Wed Oct  5 17:40:03 2016 - Thu Oct  6 01:40:01 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+kilpatrickc pts/34       Wed Oct  5 17:39:42 2016 - Thu Oct  6 01:39:40 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+reesehp  pts/33       Wed Oct  5 17:22:46 2016 - Thu Oct  6 01:22:44 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+collinsmd1 pts/19       Wed Oct  5 17:21:42 2016 - Thu Oct  6 01:21:40 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+gardnerkl pts/32       Wed Oct  5 17:17:30 2016 - Thu Oct  6 01:17:28 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+carrollf pts/31       Wed Oct  5 17:09:20 2016 - Thu Oct  6 01:09:17 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+whitney  pts/30       Wed Oct  5 17:06:59 2016 - Thu Oct  6 01:06:57 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+butlerjm1 pts/29       Wed Oct  5 17:04:58 2016 - Wed Oct  5 18:47:09 2016  (01:42)     rnh49118.etsu.edu
+phil     pts/28       Wed Oct  5 17:04:30 2016 - Wed Oct  5 18:47:34 2016  (01:43)     rnh49123.etsu.edu
+acerom   pts/27       Wed Oct  5 17:01:57 2016 - Wed Oct  5 18:47:38 2016  (01:45)     rnh49113.etsu.edu
+hornja   pts/26       Wed Oct  5 17:00:29 2016 - Wed Oct  5 18:51:55 2016  (01:51)     rnh49129.etsu.edu
+kilpatrickc pts/7        Wed Oct  5 17:00:24 2016 - Thu Oct  6 01:00:19 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+clarkhs  pts/26       Wed Oct  5 17:00:01 2016 - Wed Oct  5 17:00:07 2016  (00:00)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+scottbc  pts/25       Wed Oct  5 16:59:31 2016 - Wed Oct  5 18:47:41 2016  (01:48)     rnh49120.etsu.edu
+leen01   pts/24       Wed Oct  5 16:58:19 2016 - Wed Oct  5 18:47:18 2016  (01:48)     rnh49119.etsu.edu
+huy002   pts/23       Wed Oct  5 16:58:00 2016 - Wed Oct  5 18:47:06 2016  (01:49)     rnh49128.etsu.edu
+whitney  pts/22       Wed Oct  5 16:56:33 2016 - Thu Oct  6 00:56:31 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+scruggsg pts/21       Wed Oct  5 16:55:33 2016 - Wed Oct  5 18:46:50 2016  (01:51)     rnh49125.etsu.edu
+gillilandr pts/20       Wed Oct  5 16:55:20 2016 - Thu Oct  6 00:55:18 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+mcmeen   pts/19       Wed Oct  5 16:54:51 2016 - Wed Oct  5 17:21:17 2016  (00:26)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+carterns pts/18       Wed Oct  5 16:54:45 2016 - Thu Oct  6 00:54:35 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+harmanc  pts/17       Wed Oct  5 16:54:45 2016 - Wed Oct  5 18:47:36 2016  (01:52)     rnh49107.etsu.edu
+carterns pts/16       Wed Oct  5 16:54:37 2016 - Thu Oct  6 00:54:35 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+justust  pts/15       Wed Oct  5 16:53:17 2016 - Wed Oct  5 18:46:29 2016  (01:53)     rnh49115.etsu.edu
+zndh4    pts/14       Wed Oct  5 16:53:10 2016 - Wed Oct  5 18:47:31 2016  (01:54)     rnh49114.etsu.edu
+huberd   pts/13       Wed Oct  5 16:52:18 2016 - Wed Oct  5 18:46:38 2016  (01:54)     rnh49111.etsu.edu
+windes   pts/12       Wed Oct  5 16:51:36 2016 - Wed Oct  5 18:46:44 2016  (01:55)     rnh49109.etsu.edu
+richardsonhj pts/11       Wed Oct  5 16:51:32 2016 - Wed Oct  5 18:46:43 2016  (01:55)     rnh49110.etsu.edu
+dunns2   pts/10       Wed Oct  5 16:51:22 2016 - Wed Oct  5 18:46:48 2016  (01:55)     rnh49104.etsu.edu
+jinkst   pts/9        Wed Oct  5 16:50:40 2016 - Thu Oct  6 00:50:38 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+kilpatrickc pts/8        Wed Oct  5 16:50:31 2016 - Thu Oct  6 00:50:28 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+kilpatrickc pts/7        Wed Oct  5 16:50:30 2016 - Wed Oct  5 17:00:18 2016  (00:09)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+humphreymg pts/6        Wed Oct  5 16:48:03 2016 - Thu Oct  6 00:48:01 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+winingerj pts/5        Wed Oct  5 16:47:56 2016 - Thu Oct  6 00:47:54 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+hilemanc pts/4        Wed Oct  5 16:47:43 2016 - Wed Oct  5 18:46:52 2016  (01:59)     rnh49101.etsu.edu
+minneci  pts/3        Wed Oct  5 16:47:23 2016 - Wed Oct  5 18:03:44 2016  (01:16)     rnh49112.etsu.edu
+johnsonam4 pts/2        Wed Oct  5 16:43:36 2016 - Thu Oct  6 00:43:34 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+kilpatrickc pts/1        Wed Oct  5 16:41:55 2016 - Thu Oct  6 00:41:51 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+zmde1    pts/3        Wed Oct  5 16:28:05 2016 - Wed Oct  5 16:44:32 2016  (00:16)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+kilpatrickc pts/2        Wed Oct  5 16:16:33 2016 - Wed Oct  5 16:41:51 2016  (00:25)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+kilpatrickc pts/0        Wed Oct  5 16:16:33 2016 - Thu Oct  6 00:16:27 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+gabrielle pts/2        Wed Oct  5 16:05:11 2016 - Wed Oct  5 16:09:54 2016  (00:04)     einstein.etsu.edu
+barrettm pts/1        Wed Oct  5 15:58:22 2016 - Wed Oct  5 16:35:42 2016  (00:37)     etsu908265.etsu.edu
+gabrielle pts/0        Wed Oct  5 15:57:15 2016 - Wed Oct  5 16:09:54 2016  (00:12)     24-151-164-25.dhcp.kgpt.tn.charter.com
+reboot   system boot  Wed Oct  5 15:18:57 2016 - Thu Oct 27 15:32:54 2016 (22+00:13)   2.6.32-642.6.1.el6.i686
+root     pts/1        Wed Oct  5 15:12:17 2016 - down                      (00:06)     :0.0
+barrettm pts/0        Wed Oct  5 12:57:32 2016 - down                      (02:20)     etsu908265.etsu.edu
+cusaacb  pts/0        Wed Oct  5 11:57:25 2016 - Wed Oct  5 12:01:36 2016  (00:04)     fttu-67-223-28-41.btes.tv
+root     tty1         Wed Oct  5 07:56:04 2016 - down                      (07:22)     :0
+daughertyb pts/7        Tue Oct  4 23:53:30 2016 - Wed Oct  5 07:53:27 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+winingerj pts/4        Tue Oct  4 23:53:30 2016 - Wed Oct  5 07:53:27 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+daughertyb pts/7        Tue Oct  4 23:17:01 2016 - Tue Oct  4 23:53:25 2016  (00:36)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+daughertyb pts/10       Tue Oct  4 22:55:07 2016 - Tue Oct  4 23:14:35 2016  (00:19)
+daughertyb pts/0        Tue Oct  4 22:53:07 2016 - Wed Oct  5 01:52:58 2016  (02:59)     c-73-19-243-5.hsd1.tn.comcast.net
+daughertyb pts/9        Tue Oct  4 22:09:04 2016 - down                      (17:09)
+winingerj pts/5        Tue Oct  4 22:08:47 2016 - Wed Oct  5 06:08:45 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+daughertyb pts/7        Tue Oct  4 22:01:02 2016 - Tue Oct  4 23:07:55 2016  (01:06)     c-73-19-243-5.hsd1.tn.comcast.net
+winingerj pts/6        Tue Oct  4 21:48:05 2016 - Wed Oct  5 05:48:03 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+winingerj pts/4        Tue Oct  4 21:40:59 2016 - Tue Oct  4 23:53:25 2016  (02:12)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+winingerj pts/5        Tue Oct  4 21:32:01 2016 - Tue Oct  4 22:08:44 2016  (00:36)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+winingerj pts/1        Tue Oct  4 21:30:40 2016 - Wed Oct  5 05:30:38 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+mistrettam pts/7        Tue Oct  4 19:44:39 2016 - Tue Oct  4 22:01:02 2016  (02:16)
+mistrettam pts/6        Tue Oct  4 19:44:19 2016 - Tue Oct  4 20:34:45 2016  (00:50)     96-33-23-106.dhcp.jcsn.tn.charter.com
+mistrettam pts/5        Tue Oct  4 19:09:47 2016 - Tue Oct  4 21:32:01 2016  (02:22)
+mistrettam pts/1        Tue Oct  4 19:09:17 2016 - Tue Oct  4 19:59:28 2016  (00:50)     96-33-23-106.dhcp.jcsn.tn.charter.com
+huy002   pts/0        Tue Oct  4 19:02:34 2016 - Tue Oct  4 22:40:05 2016  (03:37)     151.141.235.6
+reynoldsme pts/11       Tue Oct  4 17:30:47 2016 - down                      (21:47)     96-38-91-138.static.jcsn.tn.charter.com
+reynoldsme pts/11       Tue Oct  4 17:29:25 2016 - Tue Oct  4 17:30:32 2016  (00:01)     96-38-91-138.static.jcsn.tn.charter.com
+reynoldsme pts/11       Tue Oct  4 17:28:02 2016 - Tue Oct  4 17:28:50 2016  (00:00)     96-38-91-138.static.jcsn.tn.charter.com
+reynoldsme pts/5        Tue Oct  4 17:10:02 2016 - Tue Oct  4 17:43:17 2016  (00:33)     96-38-91-138.static.jcsn.tn.charter.com
+reynoldsme pts/5        Tue Oct  4 17:09:14 2016 - Tue Oct  4 17:09:55 2016  (00:00)     96-38-91-138.static.jcsn.tn.charter.com
+reynoldsme pts/5        Tue Oct  4 17:08:42 2016 - Tue Oct  4 17:09:05 2016  (00:00)     96-38-91-138.static.jcsn.tn.charter.com
+reynoldsme pts/5        Tue Oct  4 17:08:01 2016 - Tue Oct  4 17:08:23 2016  (00:00)     96-38-91-138.static.jcsn.tn.charter.com
+mistrettam pts/10       Tue Oct  4 16:36:52 2016 - Tue Oct  4 22:55:07 2016  (06:18)
+mistrettam pts/9        Tue Oct  4 16:36:42 2016 - Tue Oct  4 18:52:33 2016  (02:15)     96-33-23-106.dhcp.jcsn.tn.charter.com
+mcreynoldsh pts/6        Tue Oct  4 16:31:37 2016 - Tue Oct  4 19:08:35 2016  (02:36)     c-50-142-119-96.hsd1.tn.comcast.net
+zcee10   pts/9        Tue Oct  4 16:28:40 2016 - Tue Oct  4 16:29:48 2016  (00:01)     151.141.222.79
+zdrb27   pts/7        Tue Oct  4 16:15:46 2016 - Tue Oct  4 17:48:14 2016  (01:32)     c-50-147-101-30.hsd1.tn.comcast.net
+gillilandr pts/2        Tue Oct  4 16:06:10 2016 - Wed Oct  5 00:06:07 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+zdrb27   pts/6        Tue Oct  4 15:52:25 2016 - Tue Oct  4 16:31:28 2016  (00:39)     c-50-147-101-30.hsd1.tn.comcast.net
+zdrb27   pts/5        Tue Oct  4 15:44:56 2016 - Tue Oct  4 17:02:07 2016  (01:17)
+zdrb27   pts/1        Tue Oct  4 15:25:26 2016 - Tue Oct  4 17:48:16 2016  (02:22)     c-50-147-101-30.hsd1.tn.comcast.net
+gillilandr pts/2        Tue Oct  4 14:29:56 2016 - Tue Oct  4 16:06:06 2016  (01:36)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+zdrb27   pts/1        Tue Oct  4 14:24:09 2016 - Tue Oct  4 14:54:47 2016  (00:30)     c-50-147-101-30.hsd1.tn.comcast.net
+zdrb27   pts/5        Tue Oct  4 13:51:02 2016 - Tue Oct  4 14:39:59 2016  (00:48)     c-50-147-101-30.hsd1.tn.comcast.net
+buchanandc pts/4        Tue Oct  4 13:32:58 2016 - Tue Oct  4 21:32:55 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+mistrettam pts/2        Tue Oct  4 12:52:05 2016 - Tue Oct  4 14:29:56 2016  (01:37)
+mistrettam pts/1        Tue Oct  4 12:51:47 2016 - Tue Oct  4 13:57:45 2016  (01:05)     gih30540.etsu.edu
+greenenm pts/1        Tue Oct  4 11:59:37 2016 - Tue Oct  4 12:00:49 2016  (00:01)     rnh49113.etsu.edu
+zmde1    pts/0        Tue Oct  4 10:46:12 2016 - Tue Oct  4 18:46:07 2016  (07:59)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+nielsen  pts/4        Tue Oct  4 10:45:20 2016 - Tue Oct  4 10:54:04 2016  (00:08)     etsu908271.etsu.edu
+jacksonre pts/1        Tue Oct  4 10:26:21 2016 - Tue Oct  4 10:46:33 2016  (00:20)     rnh49114.etsu.edu
+husaina  pts/1        Tue Oct  4 10:06:59 2016 - Tue Oct  4 10:09:29 2016  (00:02)
+kilpatrickc pts/20       Tue Oct  4 10:03:41 2016 - Tue Oct  4 10:16:38 2016  (00:12)     rnh49114.etsu.edu
+hessl    pts/22       Tue Oct  4 10:02:50 2016 - Tue Oct  4 10:16:18 2016  (00:13)
+kilpatrickc pts/20       Tue Oct  4 10:02:35 2016 - Tue Oct  4 10:03:20 2016  (00:00)     rnh49114.etsu.edu
+mckinneyla pts/35       Tue Oct  4 10:00:19 2016 - Tue Oct  4 10:15:34 2016  (00:15)     151.141.242.120
+hessl    pts/34       Tue Oct  4 09:57:55 2016 - Tue Oct  4 11:18:02 2016  (01:20)     rnh49115.etsu.edu
+friendc  pts/17       Tue Oct  4 09:54:59 2016 - Tue Oct  4 12:08:03 2016  (02:13)     151.141.226.42
+friendc  pts/34       Tue Oct  4 09:40:55 2016 - Tue Oct  4 09:45:39 2016  (00:04)     151.141.226.42
+fraziered pts/33       Tue Oct  4 09:39:50 2016 - Tue Oct  4 10:16:43 2016  (00:36)     rnh49119.etsu.edu
+greenenm pts/25       Tue Oct  4 09:39:33 2016 - Tue Oct  4 11:55:47 2016  (02:16)
+greenenm pts/32       Tue Oct  4 09:29:02 2016 - Tue Oct  4 11:56:13 2016  (02:27)     rnh49113.etsu.edu
+jacksonre pts/31       Tue Oct  4 09:25:03 2016 - Tue Oct  4 11:26:15 2016  (02:01)     63-235-48-211.dia.static.qwest.net
+blevinsjt pts/30       Tue Oct  4 09:24:45 2016 - Tue Oct  4 10:15:54 2016  (00:51)     rnh49120.etsu.edu
+jacksonre pts/17       Tue Oct  4 09:16:07 2016 - Tue Oct  4 09:40:59 2016  (00:24)     63-235-48-211.dia.static.qwest.net
+johnsonam4 pts/29       Tue Oct  4 09:08:45 2016 - Tue Oct  4 10:15:37 2016  (01:06)     151.141.244.179
+carmackj pts/28       Tue Oct  4 09:07:54 2016 - Tue Oct  4 10:15:37 2016  (01:07)     rnh49108.etsu.edu
+johnsonam4 pts/27       Tue Oct  4 09:05:44 2016 - Tue Oct  4 17:05:43 2016  (07:59)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+pecorini pts/26       Tue Oct  4 09:05:40 2016 - Tue Oct  4 10:15:31 2016  (01:09)     rnh49129.etsu.edu
+friendc  pts/25       Tue Oct  4 09:05:30 2016 - Tue Oct  4 09:38:37 2016  (00:33)     151.141.226.42
+pucketto pts/24       Tue Oct  4 09:05:25 2016 - Tue Oct  4 10:15:39 2016  (01:10)     151.141.242.145
+hardyj   pts/23       Tue Oct  4 09:05:23 2016 - Tue Oct  4 10:15:54 2016  (01:10)     151.141.170.42
+kilpatrickc pts/22       Tue Oct  4 09:04:59 2016 - Tue Oct  4 10:02:50 2016  (00:57)
+johnsonbw pts/21       Tue Oct  4 09:04:08 2016 - Tue Oct  4 10:15:31 2016  (01:11)     rnh49118.etsu.edu
+kilpatrickc pts/20       Tue Oct  4 09:01:54 2016 - Tue Oct  4 10:02:15 2016  (01:00)     rnh49114.etsu.edu
+burdettj pts/19       Tue Oct  4 09:01:50 2016 - Tue Oct  4 10:15:34 2016  (01:13)     rnh49110.etsu.edu
+zcee10   pts/18       Tue Oct  4 09:01:29 2016 - Tue Oct  4 10:15:30 2016  (01:14)     rnh49102.etsu.edu
+husaina  pts/17       Tue Oct  4 09:01:17 2016 - Tue Oct  4 09:09:14 2016  (00:07)
+zickgraf pts/16       Tue Oct  4 09:00:53 2016 - Tue Oct  4 10:16:01 2016  (01:15)     rnh49127.etsu.edu
+zamc48   pts/15       Tue Oct  4 09:00:51 2016 - Tue Oct  4 10:15:37 2016  (01:14)     rnh49101.etsu.edu
+zdrb27   pts/14       Tue Oct  4 09:00:43 2016 - Tue Oct  4 10:15:36 2016  (01:14)     rnh49117.etsu.edu
+munseymk pts/13       Tue Oct  4 09:00:42 2016 - Tue Oct  4 10:16:02 2016  (01:15)     rnh49130.etsu.edu
+zmde1    pts/12       Tue Oct  4 09:00:02 2016 - Tue Oct  4 10:46:07 2016  (01:46)     ec2-54-186-244-104.us-west-2.compute.amazonaws.com
+husaina  pts/10       Tue Oct  4 08:56:41 2016 - Tue Oct  4 10:16:47 2016  (01:20)     rnh49104.etsu.edu
+barrettm pts/9        Tue Oct  4 08:56:30 2016 - Tue Oct  4 10:15:47 2016  (01:19)     rnh49123.etsu.edu
+zcee10   pts/9        Tue Oct  4 08:44:50 2016 - Tue Oct  4 08:46:03 2016  (00:01)     rnh49102.etsu.edu
+jinkst   pts/4        Tue Oct  4 08:44:48 2016 - Tue Oct  4 10:16:21 2016  (01:31)     rnh49105.etsu.edu
+jacksonre pts/0        Tue Oct  4 08:44:19 2016 - Tue Oct  4 10:45:46 2016  (02:01)     63-235-48-211.dia.static.qwest.net
+mooretw1 pts/9        Tue Oct  4 08:26:43 2016 - Tue Oct  4 08:28:01 2016  (00:01)     c-68-57-75-207.hsd1.tn.comcast.net
+fraziered pts/12       Tue Oct  4 08:21:29 2016 - Tue Oct  4 08:23:47 2016  (00:02)     66-191-227-106.dhcp.kgpt.tn.charter.com
+hessl    pts/14       Tue Oct  4 08:17:16 2016 - Tue Oct  4 08:29:19 2016  (00:12)     97-81-12-180.dhcp.kgpt.tn.charter.com
+hessl    pts/16       Tue Oct  4 08:11:55 2016 - Tue Oct  4 08:16:42 2016  (00:04)     97-81-12-180.dhcp.kgpt.tn.charter.com
+hessl    pts/15       Tue Oct  4 08:11:23 2016 - Tue Oct  4 08:29:25 2016  (00:18)     97-81-12-180.dhcp.kgpt.tn.charter.com
+fraziered pts/14       Tue Oct  4 08:11:09 2016 - Tue Oct  4 08:17:12 2016  (00:06)
+fraziered pts/14       Tue Oct  4 08:10:50 2016 - Tue Oct  4 08:10:57 2016  (00:00)
+fraziered pts/14       Tue Oct  4 08:10:20 2016 - Tue Oct  4 08:10:42 2016  (00:00)
+jacksonre pts/13       Tue Oct  4 08:08:23 2016 - Tue Oct  4 08:43:41 2016  (00:35)     63-235-48-211.dia.static.qwest.net
+fraziered pts/12       Tue Oct  4 08:06:28 2016 - Tue Oct  4 08:17:18 2016  (00:10)     66-191-227-106.dhcp.kgpt.tn.charter.com
+jacksonre pts/11       Tue Oct  4 07:59:51 2016 - Tue Oct  4 10:03:52 2016  (02:04)
+jacksonre pts/7        Tue Oct  4 07:58:34 2016 - Tue Oct  4 12:03:52 2016  (04:05)     63-235-48-211.dia.static.qwest.net
+fraziered pts/1        Tue Oct  4 07:32:33 2016 - Tue Oct  4 10:05:00 2016  (02:32)     66-191-227-106.dhcp.kgpt.tn.charter.com
+hessl    pts/10       Tue Oct  4 06:47:17 2016 - Tue Oct  4 08:56:41 2016  (02:09)
+hessl    pts/9        Tue Oct  4 06:46:42 2016 - Tue Oct  4 08:21:36 2016  (01:34)     97-81-12-180.dhcp.kgpt.tn.charter.com
+hessl    pts/7        Tue Oct  4 06:20:57 2016 - Tue Oct  4 07:01:21 2016  (00:40)     97-81-12-180.dhcp.kgpt.tn.charter.com
+hessl    pts/9        Tue Oct  4 05:48:05 2016 - Tue Oct  4 06:35:57 2016  (00:47)     97-81-12-180.dhcp.kgpt.tn.charter.com
+hessl    pts/7        Tue Oct  4 05:23:34 2016 - Tue Oct  4 06:02:54 2016  (00:39)     97-81-12-180.dhcp.kgpt.tn.charter.com
+
+wtmp begins Tue Oct  4 05:23:34 2016

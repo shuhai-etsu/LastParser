@@ -1,0 +1,9 @@
+test1    pts/8        Tue Oct 18 08:33:18 2016 - Wed Oct 19 09:43:23 2016  (1+01:10)     ec2-54-69-152-243.us-west-2.compute.amazonaws.com
+test1    pts/8        Tue Oct 18 08:33:18 2016 - Wed Oct 19 09:43:23 2016  (1+01:10)
+root     tty1         Thu Oct 27 15:54:53 2016 - down                      (00:26)     :0.0
+reynoldsme pts/11       Tue Oct  4 17:30:47 2016 - down                      (21:47)     96-38-91-138.static.jcsn.tn.charter.com
+pll      pts/0        Sat Oct 29 18:54:06 2016   still logged in          c-50-142-105-122.hsd1.tn.comcast.net
+reboot   system boot  Thu Oct 27 16:22:10 2016 - Sat Oct 29 20:39:59 2016 (2+04:17)    2.6.32-642.6.2.el6.i686
+runlevel (to lvl 5)   Fri Feb 24 07:51:35 2017 - Mon Feb 27 07:56:31 2017 (3+00:04)    2.6.32-642.15.1.el6.i686
+
+wtmp begins Mon Feb 27 07:56:31 2017
